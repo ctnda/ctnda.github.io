@@ -1,87 +1,39 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 
 <html>
-	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<title>CTNdA DVD-r</title>
-
-		<script src="editablegrid/editablegrid.js"></script>
-		<!-- [DO NOT DEPLOY] --> <script src="editablegrid/editablegrid_renderers.js"></script>
-		<!-- [DO NOT DEPLOY] --> <script src="editablegrid/editablegrid_editors.js"></script>
-		<!-- [DO NOT DEPLOY] --> <script src="editablegrid/editablegrid_validators.js"></script>
-		<!-- [DO NOT DEPLOY] --> <script src="editablegrid/editablegrid_utils.js"></script>
-		<!-- [DO NOT DEPLOY] --> <script src="editablegrid/editablegrid_charts.js"></script>
-		<link rel="stylesheet" href="editablegrid/editablegrid.css" type="text/css" media="screen">
-
-		<style>
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+	<title>CTNdA</title>
+	<style>
 			body { color: #000000; font-family: "DejaVu Sans Mono, monospace", monospace; font-size: 10pt }
-			h1 { font-size: 15px; }
-			a { color: #548dc4; text-decoration: none; }
-			a:hover { text-decoration: underline; }
-			table.testgrid { border-collapse: collapse; border: 1px solid #CCB; width: 1200px; }
-			table.testgrid td, table.testgrid th { padding: 5px; border: 1px solid #E0E0E0; }
-			table.testgrid th { background: #E5E5E5; text-align: centre; }
-			table.testgrid td.new[value="true"] {background: red; }
-			input.invalid { background: red; color: #FDFDFD; }
 			tr:hover td {
     	background: #fff062 !important;
 			}
-		</style>
+	</style>
+	<script
+			  src="https://code.jquery.com/jquery-3.4.1.js"
+			  integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+			  crossorigin="anonymous"></script>
+	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
+	<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
+	<script type="text/javascript" class="init">
+	
 
-		<script>
-			window.onload = function() {
-              editableGrid = new EditableGrid("DemoGridAttach", { sortIconUp: "editablegrid/down.png", sortIconDown: "editablegrid/up.png"});
-				// we build and load the metadata in Javascript
-				editableGrid.load({ metadata: [
-					{ name: "film_title", datatype: "string", editable: false },
-					{ name: "year", datatype: "string", editable: false },
-					{ name: "imdb", datatype: "string", editable: false },
-					{ name: "format", datatype: "string", editable: false },
-					{ name: "languages", datatype: "string", editable: false },
-					{ name: "NTSC/PAL", datatype: "string", editable: false },
-					{ name: "duration", datatype: "string", editable: false },
-					{ name: "source", datatype: "string", editable: false },
-					{ name: "info", datatype: "string", editable: false },
-					{ name: "N.", datatype: "integer", editable: false },
-					{ name: "NEW", datatype: "boolean", editable: true }
-				]});
-				// then we attach to the HTML table and render it
-				editableGrid.attachToHTMLTable('htmlgrid');
-				editableGrid.renderGrid();
-			}
-		</script>
+$(document).ready(function() {
+	$('#example').DataTable({
+		responsive: true,
+		paging: false
+});
+});
 
-	</head>
 
-	<body>
-		<pre class="western" style="text-align: center">
-		 ******  ********** ****     **      **     **
-		  **////**/////**/// /**/**   /**     /**    ****
-		 **    //     /**    /**//**  /**     /**   **//**
-		/**           /**    /** //** /**  ******  **  //**
-		/**           /**    /**  //**/** **///** **********
-		//**    **    /**    /**   //****/**  /**/**//////**
-		 //******     /**    /**    //***//******/**     /**
-		  //////      //     //      ///  ////// //      //
-		..::::::......::.....::......:::..::::::.::......::.
-		::::::::::::::::::::::::::::::::::::::::::::::::::::
-		::::::::::::::::::43 54 4E 64 41::::::::::::::::::::
-
-		<a href="../index.html">Back to index</a>
-
-		.#####...##..##..#####...........#####..
-		.##..##..##..##..##..##..........##..##.
-		.##..##..##..##..##..##..######..#####..
-		.##..##...####...##..##..........##..##.
-		.#####.....##....#####...........##..##.
-		........................................
-		<font color="#ff0000">Last update: 02 January 2019
-		FOR NEW ARRIVALS: double click on the "NEW" column
-		Asian movies have the label [ASIA] in the "info" column</font><div align="right"></pre>
-
-		<table id="htmlgrid" class="testgrid" align="center">
-
-		<tr>
+	</script>
+</head>
+	<body class="wide comments example">
+		<table id="example"  class="display" style="width:100%">
+		<thead>
+			<tr>
 			<th>film.title</th>
 			<th>year</th>
 			<th>imdb</th>
@@ -93,8 +45,9 @@
 			<th>info</th>
 			<th>N.</th>
 			<th>NEW</th>
-		</tr>
-
+			</tr>
+		</thead>
+		<tbody>
 		<tr>
 		<td>...4 ..3 ..2 ..1 ...morte</td>
 		<td>1967</td>
@@ -121,6 +74,20 @@
 		<td>full Koch Media DVD</td>
 		<td>331</td>
 		<td>false</td>
+		</tr>
+
+		<tr>
+		<td>1000 dollari sul nero</td>
+		<td>1966</td>
+		<td>tt0060697</td>
+		<td>DVD5</td>
+		<td>ITA</td>
+		<td>PAL</td>
+		<td>1h40m00s</td>
+		<td>DVD</td>
+		<td>full DVD + extras</td>
+		<td>---</td>
+		<td>true</td>
 		</tr>
 
 		<tr>
@@ -288,7 +255,7 @@
 		<td>1h32m23s</td>
 		<td>VHS</td>
 		<td>10mins ca. blank tape</td>
-		<td></td>
+		<td>---</td>
 		<td>false</td>
 
 		<tr>
@@ -574,7 +541,7 @@
 		<td>1h43m20s</td>
 		<td>DVD</td>
 		<td>full DVD</td>
-		<td></td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -1139,7 +1106,7 @@
 		</tr>
 
 		<tr>
-		<td>Caribbean Basterds (Caraibi &amp; bastardi)</td>
+		<td>Caribbean Basterds (Caraibi e bastardi)</td>
 		<td>2010</td>
 		<td>tt1455613</td>
 		<td>DVD5</td>
@@ -1447,6 +1414,7 @@
 		<td>1h05m14s</td>
 		<td>VHS</td>
 		<td>new VHS2DVD transfer</td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -1682,7 +1650,20 @@
 		<td>false</td>
 		</tr>
 
-
+		<tr>
+		<td>Da uomo a uomo</td>
+		<td>1967</td>
+		<td>tt0064208</td>
+		<td>DVD5</td>
+		<td>ITA/ENG/ITAsub</td>
+		<td>PAL</td>
+		<td>1h50m16s</td>
+		<td>DVD</td>
+		<td>full uncut DVD</td>
+		<td>---</td>
+		<td>true</td>
+		</tr>
+		
 		<tr>
 		<td>Dagli archivi della polizia criminale</td>
 		<td>1973</td>
@@ -1704,10 +1685,10 @@
 		<td>DVD5</td>
 		<td>ITA</td>
 		<td>PAL</td>
-		<td></td>
+		<td>---</td>
 		<td>DVD</td>
 		<td>[ASIA] full DVD</td>
-		<td></td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -1753,6 +1734,7 @@
 		<td>1h33m42</td>
 		<td>DTT</td>
 		<td>none</td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -1766,6 +1748,7 @@
 		<td>1h17m15s</td>
 		<td>VHS</td>
 		<td>new VHS2DVD transfer</td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -1948,6 +1931,19 @@
 		<td>true</td>
 		</tr>
 
+		<tr>
+		<td>Diamanti sporchi di sangue</td>
+		<td>1977</td>
+		<td>tt0075940</td>
+		<td>DVD5</td>
+		<td>ITA/ENG</td>
+		<td>PAL</td>
+		<td>1h38m08s</td>
+		<td>DVD</td>
+		<td>full Cinekult DVD</td>
+		<td>---</td>
+		<td>true</td>
+		</tr>
 
 		<tr>
 		<td>Difesa Alekhine – Scacco con la morte</td>
@@ -1974,6 +1970,7 @@
 		<td>---</td>
 		<td>TV</td>
 		<td>MPEG2 file</td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -2867,7 +2864,7 @@
 		<td>BD25</td>
 		<td>ITA/GER/ENGsub</td>
 		<td>PAL</td>
-		<td></td>
+		<td>---</td>
 		<td>Bluray</td>
 		<td>full bluray</td>
 		<td>449</td>
@@ -2961,6 +2958,19 @@
 		<td>false</td>
 		</tr>
 
+		<tr>
+		<td>Gli fumavano le Colt... lo chiamavano Camposanto</td>
+		<td>1971</td>
+		<td>tt0067142</td>
+		<td>DVD5</td>
+		<td>ITA/ENGsub</td>
+		<td>PAL</td>
+		<td>1h29m57s</td>
+		<td>DVD</td>
+		<td>full DVD + extras</td>
+		<td>---</td>
+		<td>true</td>
+		</tr>
 
 		<tr>
 		<td>Gli specialisti</td>
@@ -3028,7 +3038,7 @@
 		<td>1h27m13s</td>
 		<td>VHS</td>
 		<td>none</td>
-		<td></td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -3084,6 +3094,7 @@
 		<td>1h32m30s</td>
 		<td>VHS</td>
 		<td>30mins ca. blank tape</td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -3195,7 +3206,7 @@
 		<td>1h41m29s</td>
 		<td>DVD</td>
 		<td>[ASIA] full DVD + extras</td>
-		<td></td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -3393,7 +3404,7 @@
 		<td>1h222m50s</td>
 		<td>DVD</td>
 		<td>full DVD + extras</td>
-		<td></td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -3846,7 +3857,7 @@
 		<td>---</td>
 		<td>DVD</td>
 		<td>[ASIA] full DVD, correct AR</td>
-		<td></td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -3924,6 +3935,20 @@
 		</tr>
 
 		<tr>
+		<td>Il suo nome faceva tremare... Interpol in allarme! aka Dio, sei proprio un padreterno!</td>
+		<td>1973</td>
+		<td>tt0069979</td>
+		<td>DVD5</td>
+		<td>ITA/ENG</td>
+		<td>PAL</td>
+		<td>1h35m48s</td>
+		<td>DVD</td>
+		<td>full DVD</td>
+		<td>---</td>
+		<td>true</td>
+		</tr>
+
+		<tr>
 		<td>Il tempo degli avvoltoi</td>
 		<td>1967</td>
 		<td>tt0062350</td>
@@ -3951,6 +3976,19 @@
 		<td>false</td>
 		</tr>
 
+		<tr>
+		<td>Il terribile ispettore</td>
+		<td>1969</td>
+		<td>tt0210353</td>
+		<td>DVD5</td>
+		<td>ITA</td>
+		<td>PAL</td>
+		<td>1h30m13s</td>
+		<td>DVD</td>
+		<td>full DVD</td>
+		<td>---</td>
+		<td>true</td>
+		</tr>
 
 		<tr>
 		<td>Il terrore viene d'oltretomba (La momia azteca contra el robot humano)</td>
@@ -4080,6 +4118,7 @@
 		<td>1h16m07s</td>
 		<td>VHS</td>
 		<td>new VHS2DVD transfer</td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -4224,7 +4263,7 @@
 		<td>1h35m30s</td>
 		<td>DVD</td>
 		<td>full DVD + extras</td>
-		<td></td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -4325,13 +4364,26 @@
 		<td>DVD5</td>
 		<td>ITA/ENGsub</td>
 		<td>PAL</td>
-		<td>1h10m3s</td>
+		<td>1h10m03s</td>
 		<td>DVD</td>
 		<td>full DVD</td>
 		<td>202</td>
 		<td>false</td>
 		</tr>
 
+		<tr>
+		<td>Katango: uragano sulla metropoli</td>
+		<td>1966</td>
+		<td>tt0060440</td>
+		<td>DVD5</td>
+		<td>ITA</td>
+		<td>PAL</td>
+		<td>1h27m56s</td>
+		<td>DVD</td>
+		<td>full DVD</td>
+		<td>---</td>
+		<td>true</td>
+		</tr>
 
 		<tr>
 		<td>Kilic aslan (Turkish Lion Man)</td>
@@ -4679,6 +4731,7 @@
 		<td>-</td>
 		<td>DVD</td>
 		<td>full DVD</td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -4761,7 +4814,7 @@
 		<td>DVD5</td>
 		<td>ITA</td>
 		<td>PAL</td>
-		<td></td>
+		<td>---</td>
 		<td>DVD</td>
 		<td>[ASIA] full DVD</td>
 		<td>501</td>
@@ -4775,10 +4828,10 @@
 		<td>DVD5</td>
 		<td>ITA/ENG</td>
 		<td>PAL</td>
-		<td></td>
+		<td>---</td>
 		<td>DVD</td>
 		<td>[ASIA] full DVD</td>
-		<td></td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -4895,7 +4948,7 @@
 		</tr>
 
 		<tr>
-		<td>La banda J. & S. - Cronaca criminale del Far West</td>
+		<td>La banda J. e S. - Cronaca criminale del Far West</td>
 		<td>1972</td>
 		<td>tt0068702</td>
 		<td>DVD9</td>
@@ -4904,7 +4957,7 @@
 		<td>1h33m34s</td>
 		<td>DVD</td>
 		<td>full DVD + extras</td>
-		<td></td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -4932,7 +4985,7 @@
 		<td>1h23m56s</td>
 		<td>DVD</td>
 		<td>full DVD</td>
-		<td></td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -5051,6 +5104,20 @@
 		</tr>
 
 		<tr>
+		<td>La gang dell'arancia meccanica</td>
+		<td>1974</td>
+		<td>tt0280224</td>
+		<td>DVD5</td>
+		<td>ITA/GER/ENGsub</td>
+		<td>PAL</td>
+		<td>1h15m56s</td>
+		<td>DVD</td>
+		<td>full DVD</td>
+		<td>---</td>
+		<td>true</td>
+		</tr>
+
+		<tr>
 		<td>La mansion de las 7 momias</td>
 		<td>1977</td>
 		<td>tt0273268</td>
@@ -5146,7 +5213,7 @@
 		<td>1h23m06s</td>
 		<td>VHS</td>
 		<td>none</td>
-		<td></td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -5451,7 +5518,7 @@
 		<td>1h41m24s</td>
 		<td>DVD</td>
 		<td>[ASIA] full DVD</td>
-		<td></td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -5523,7 +5590,7 @@
 		<td>1h00m50s</td>
 		<td>VHS</td>
 		<td>none</td>
-		<td></td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -5738,7 +5805,7 @@
 		<td>1h30m52s</td>
 		<td>DVD</td>
 		<td>[ASIA] full DVD + extras</td>
-		<td></td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -5850,6 +5917,7 @@
 		<td>---</td>
 		<td>DVD</td>
 		<td>full DVD</td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -5863,6 +5931,7 @@
 		<td>1h25m03s</td>
 		<td>DVD</td>
 		<td>none</td>
+		<td>---</td>
 		<td>true</td>
 		</tr>
 
@@ -6115,7 +6184,7 @@
 		<td>1h25m00s</td>
 		<td>VHS</td>
 		<td>none</td>
-		<td></td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -6172,6 +6241,7 @@
 		<td>---</td>
 		<td>Telecine</td>
 		<td>none</td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -6227,7 +6297,7 @@
 		<td>1h31m13s</td>
 		<td>VHS</td>
 		<td>custom mux</td>
-		<td></td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -6638,7 +6708,7 @@
 
 		<tr>
 		<td>Oliva
-		- La leggenda del &quot;monte Belvedere&quot;</td>
+		- La leggenda del monte Belvedere</td>
 		<td>199?</td>
 		<td>NOimdb</td>
 		<td>DVD5</td>
@@ -6737,6 +6807,7 @@
 		<td>---</td>
 		<td>VHS</td>
 		<td>none</td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -6750,7 +6821,7 @@
 		<td>1h27m33s</td>
 		<td>DVD + VHS</td>
 		<td>custom mux</td>
-		<td></td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -6981,6 +7052,7 @@
 		<td>1h36m21s</td>
 		<td>Telecine</td>
 		<td>none</td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -7009,6 +7081,7 @@
 		<td>---</td>
 		<td>TV</td>
 		<td>none</td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 		<tr>
@@ -7157,6 +7230,7 @@
 		<td>---</td>
 		<td>Telecine</td>
 		<td>none</td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -7214,6 +7288,7 @@
 		<td>---</td>
 		<td>Bluray</td>
 		<td>retail</td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -7241,7 +7316,7 @@
 		<td>1h24m07s</td>
 		<td>DTT</td>
 		<td>none</td>
-		<td></td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -7255,7 +7330,7 @@
 		<td>56m58s</td>
 		<td>VHS</td>
 		<td>Anaglyph 3D</td>
-		<td></td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -7297,6 +7372,7 @@
 		<td>1h28m36s</td>
 		<td>DVD</td>
 		<td>full DVD</td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -7396,6 +7472,7 @@
 		<td>1h36m03s</td>
 		<td>DVD</td>
 		<td>full DVD custom</td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -7761,7 +7838,7 @@
 		<td>1h15m53s</td>
 		<td>Telecine</td>
 		<td>[ASIA]</td>
-		<td></td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -7891,7 +7968,7 @@
 		<td>1h29m20s</td>
 		<td>DVD</td>
 		<td>[ASIA] full DVD</td>
-		<td></td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -7935,6 +8012,7 @@
 		<td>1h26m00s</td>
 		<td>VHS</td>
 		<td>none</td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -7969,7 +8047,7 @@
 
 
 		<tr>
-		<td>Talisman (&quot;La croce dalle sette pietre&quot;recut)</td>
+		<td>Talisman (La croce dalle sette pietre recut)</td>
 		<td>199?</td>
 		<td>tt0167851</td>
 		<td>DVD5</td>
@@ -8113,6 +8191,7 @@
 		<td>1h36m11s</td>
 		<td>TV</td>
 		<td>none</td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -8154,8 +8233,8 @@
 		<td>PAL</td>
 		<td>---</td>
 		<td>VHS</td>
-		<td>LBX & Open Matte restored editions</td>
-		<td></td>
+		<td>LBX and Open Matte restored editions</td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -8169,7 +8248,7 @@
 		<td>---</td>
 		<td>VHS</td>
 		<td>extras</td>
-		<td></td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -8295,7 +8374,7 @@
 		<td>---</td>
 		<td>VHS</td>
 		<td>none</td>
-		<td></td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -8935,7 +9014,7 @@
 		<td>---</td>
 		<td>DTT</td>
 		<td>[ASIA] full DVD</td>
-		<td></td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
@@ -9229,7 +9308,7 @@
 		<td>1h19m58s</td>
 		<td>DVD</td>
 		<td>[ASIA] full DVD</td>
-		<td></td>
+		<td>---</td>
 		<td>false</td>
 		</tr>
 
