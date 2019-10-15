@@ -15,17 +15,27 @@
 			  src="https://code.jquery.com/jquery-3.4.1.js"
 			  integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
 			  crossorigin="anonymous"></script>
-	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
-	<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
+	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css">
+	<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"></script>
+    <script type="text/javascript" charset="utf8" src="https://cdnjs.cloudflare.com/ajax/libs/yadcf/0.9.4/jquery.dataTables.yadcf.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.10/js/select2.js" integrity="sha256-7QI04ySSWOSntO1zRz4OathEWRGoHz5kLVy+wHkB+UE=" crossorigin="anonymous"></script>
 	<script type="text/javascript" class="init">
 	
 
 $(document).ready(function() {
-	$('#example').DataTable({
-		responsive: true,
-		paging: false
-});
-});
+        var myTable = $('#example').DataTable(
+        {	
+			paging: false
+			});
+                          yadcf.init(myTable, [
+                                  {column_number : 4, filter_type: "multi_select", select_type : "select2"},
+                                  {column_number : 7, filter_type: "multi_select", select_type : "select2"}
+                                  ],
+                        {
+                            cumulative_filtering: true
+                        }
+                        );
+    });
 
 	</script>
 </head>
@@ -109,7 +119,7 @@ $(document).ready(function() {
 		<td>1h40m00s</td>
 		<td>DVD</td>
 		<td>full DVD + extras</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -123,7 +133,7 @@ $(document).ready(function() {
 		<td>1h00m40s</td>
 		<td>Telecine</td>
 		<td>(probably) missing one reel</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -264,7 +274,7 @@ $(document).ready(function() {
 		<td>1h48m03s</td>
 		<td>DVD</td>
 		<td>full Cinekult DVD</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -278,7 +288,7 @@ $(document).ready(function() {
 		<td>1h32m23s</td>
 		<td>VHS</td>
 		<td>10mins ca. blank tape</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 
 		<tr>
@@ -378,7 +388,7 @@ $(document).ready(function() {
 		<td>1h33m19s</td>
 		<td>VHS</td>
 		<td>none</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -477,7 +487,7 @@ $(document).ready(function() {
 		<td>ITA</td>
 		<td>PAL</td>
 		<td>1h53m22s</td>
-		<td>BR</td>
+		<td>Bluray</td>
 		<td>full BR</td>
 		<td>455</td>
 		<td>false</td>
@@ -506,7 +516,7 @@ $(document).ready(function() {
 		<td>ITA</td>
 		<td>PAL</td>
 		<td>2h07m00s</td>
-		<td>BR</td>
+		<td>Bluray</td>
 		<td>full BR</td>
 		<td>456</td>
 		<td>false</td>
@@ -520,7 +530,7 @@ $(document).ready(function() {
 		<td>ITA</td>
 		<td>PAL</td>
 		<td>1h53m47s</td>
-		<td>BR</td>
+		<td>Bluray</td>
 		<td>full BR</td>
 		<td>457</td>
 		<td>false</td>
@@ -564,7 +574,7 @@ $(document).ready(function() {
 		<td>1h43m20s</td>
 		<td>DVD</td>
 		<td>full DVD</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -911,7 +921,7 @@ $(document).ready(function() {
 		<td>---</td>
 		<td>DVD</td>
 		<td>retail</td>
-		<td>--</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -1038,7 +1048,7 @@ $(document).ready(function() {
 		<td>1h36m30s</td>
 		<td>VHS</td>
 		<td>[ASIA] none</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -1337,7 +1347,7 @@ $(document).ready(function() {
 		<td>1h36m29s</td>
 		<td>DTT</td>
 		<td>none</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -1365,7 +1375,7 @@ $(document).ready(function() {
 		<td>1h17m00s</td>
 		<td>VHS</td>
 		<td>none</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -1437,7 +1447,7 @@ $(document).ready(function() {
 		<td>1h05m14s</td>
 		<td>VHS</td>
 		<td>new VHS2DVD transfer</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -1711,7 +1721,7 @@ $(document).ready(function() {
 		<td>---</td>
 		<td>DVD</td>
 		<td>[ASIA] full DVD</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -1757,7 +1767,7 @@ $(document).ready(function() {
 		<td>1h33m42</td>
 		<td>DTT</td>
 		<td>none</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -1771,7 +1781,7 @@ $(document).ready(function() {
 		<td>1h17m15s</td>
 		<td>VHS</td>
 		<td>new VHS2DVD transfer</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -1931,8 +1941,8 @@ $(document).ready(function() {
 		<td>1970</td>
 		<td>tt0310995</td>
 		<td>DVD9</td>
-		<td>PAL</td>
 		<td>TUR/ENGsub/GREsub</td>
+		<td>PAL</td>
 		<td>---</td>
 		<td>DVD</td>
 		<td>none</td>
@@ -1945,12 +1955,12 @@ $(document).ready(function() {
 		<td>1970</td>
 		<td>tt0072868</td>
 		<td>DVD5</td>
-		<td>NTSC</td>
 		<td>ENG</td>
+		<td>NTSC</td>
 		<td>1h35m31s</td>
 		<td>VHS</td>
 		<td>[ASIA] none</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -1993,7 +2003,7 @@ $(document).ready(function() {
 		<td>---</td>
 		<td>TV</td>
 		<td>MPEG2 file</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -2021,7 +2031,7 @@ $(document).ready(function() {
 		<td>1h44m52s</td>
 		<td>VHS</td>
 		<td>uncut</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -2219,7 +2229,7 @@ $(document).ready(function() {
 		<td>1h32m27s</td>
 		<td>DVD</td>
 		<td>full DVD + extras</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -2508,7 +2518,7 @@ $(document).ready(function() {
 		<td>1h33m59s</td>
 		<td>DVD</td>
 		<td>full DVD + extras</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -2522,7 +2532,7 @@ $(document).ready(function() {
 		<td>1h22m46s</td>
 		<td>DVD</td>
 		<td>full DVD + extras</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -2604,8 +2614,8 @@ $(document).ready(function() {
 		<td>ITA/ENG</td>
 		<td>PAL</td>
 		<td>1h19m53s</td>
-		<td>BR</td>
-		<td>custom mux from bluray</td>
+		<td>Bluray</td>
+		<td>custom mux from Bluray</td>
 		<td>554</td>
 		<td>false</td>
 		</tr>
@@ -2632,7 +2642,7 @@ $(document).ready(function() {
 		<td>ITA</td>
 		<td>PAL</td>
 		<td>1h32m58s</td>
-		<td>35mm</td>
+		<td>Telecine</td>
 		<td>none</td>
 		<td>409</td>
 		<td>false</td>
@@ -3045,7 +3055,7 @@ $(document).ready(function() {
 		<td>ITA</td>
 		<td>PAL</td>
 		<td>1h29m39s</td>
-		<td>DVD+Telecine</td>
+		<td>DVD + Telecine</td>
 		<td>custom mux</td>
 		<td>380</td>
 		<td>false</td>
@@ -3061,7 +3071,7 @@ $(document).ready(function() {
 		<td>1h27m13s</td>
 		<td>VHS</td>
 		<td>none</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -3117,7 +3127,7 @@ $(document).ready(function() {
 		<td>1h32m30s</td>
 		<td>VHS</td>
 		<td>30mins ca. blank tape</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -3229,7 +3239,7 @@ $(document).ready(function() {
 		<td>1h41m29s</td>
 		<td>DVD</td>
 		<td>[ASIA] full DVD + extras</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -3385,7 +3395,7 @@ $(document).ready(function() {
 		<td>2h01m14s</td>
 		<td>DVD</td>
 		<td>[ASIA] full DVD + extras</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -3399,7 +3409,7 @@ $(document).ready(function() {
 		<td>1h31m19s</td>
 		<td>DVD</td>
 		<td>full DVD</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -3427,7 +3437,7 @@ $(document).ready(function() {
 		<td>1h222m50s</td>
 		<td>DVD</td>
 		<td>full DVD + extras</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -3707,7 +3717,7 @@ $(document).ready(function() {
 		<td>ENG/ITA</td>
 		<td>PAL</td>
 		<td>1h28m48s</td>
-		<td>BR</td>
+		<td>Bluray</td>
 		<td>full BR</td>
 		<td>461</td>
 		<td>false</td>
@@ -3779,7 +3789,7 @@ $(document).ready(function() {
 		<td>1h33m27s</td>
 		<td>DVD</td>
 		<td>uncut full DVD</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -3880,7 +3890,7 @@ $(document).ready(function() {
 		<td>---</td>
 		<td>DVD</td>
 		<td>[ASIA] full DVD, correct AR</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -4009,7 +4019,7 @@ $(document).ready(function() {
 		<td>1h30m13s</td>
 		<td>DVD</td>
 		<td>full DVD</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -4141,7 +4151,7 @@ $(document).ready(function() {
 		<td>1h16m07s</td>
 		<td>VHS</td>
 		<td>new VHS2DVD transfer</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -4242,7 +4252,7 @@ $(document).ready(function() {
 		<td>1h37m08s</td>
 		<td>DTT</td>
 		<td>none</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -4286,7 +4296,7 @@ $(document).ready(function() {
 		<td>1h35m30s</td>
 		<td>DVD</td>
 		<td>full DVD + extras</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -4404,7 +4414,7 @@ $(document).ready(function() {
 		<td>1h27m56s</td>
 		<td>DVD</td>
 		<td>full DVD</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -4549,7 +4559,7 @@ $(document).ready(function() {
 		<td>1h12m11s</td>
 		<td>DVD</td>
 		<td>full DVD + extras</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -4754,7 +4764,7 @@ $(document).ready(function() {
 		<td>-</td>
 		<td>DVD</td>
 		<td>full DVD</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -4824,7 +4834,7 @@ $(document).ready(function() {
 		<td>ITA/ENG/GER</td>
 		<td>PAL</td>
 		<td>---</td>
-		<td>VHS/DVD</td>
+		<td>DVD + VHS</td>
 		<td>uncut composite</td>
 		<td>100</td>
 		<td>false</td>
@@ -4854,7 +4864,7 @@ $(document).ready(function() {
 		<td>---</td>
 		<td>DVD</td>
 		<td>[ASIA] full DVD</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -4980,7 +4990,7 @@ $(document).ready(function() {
 		<td>1h33m34s</td>
 		<td>DVD</td>
 		<td>full DVD + extras</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -4992,7 +5002,7 @@ $(document).ready(function() {
 		<td>ITA/ENGsub</td>
 		<td>PAL</td>
 		<td>---</td>
-		<td>DTT+VHS</td>
+		<td>DTT + VHS</td>
 		<td>custom uncut</td>
 		<td>305</td>
 		<td>false</td>
@@ -5008,7 +5018,7 @@ $(document).ready(function() {
 		<td>1h23m56s</td>
 		<td>DVD</td>
 		<td>full DVD</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -5036,7 +5046,7 @@ $(document).ready(function() {
 		<td>1h47m46s</td>
 		<td>DVD</td>
 		<td>full DVD + extras</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -5236,7 +5246,7 @@ $(document).ready(function() {
 		<td>1h23m06s</td>
 		<td>VHS</td>
 		<td>none</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -5470,7 +5480,7 @@ $(document).ready(function() {
 		<td>1h22m37s</td>
 		<td>VHS</td>
 		<td>none</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -5541,7 +5551,7 @@ $(document).ready(function() {
 		<td>1h41m24s</td>
 		<td>DVD</td>
 		<td>[ASIA] full DVD</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -5613,7 +5623,7 @@ $(document).ready(function() {
 		<td>1h00m50s</td>
 		<td>VHS</td>
 		<td>none</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -5697,7 +5707,7 @@ $(document).ready(function() {
 		<td>ESP/ENGsub</td>
 		<td>NTSC</td>
 		<td>1h14m46s</td>
-		<td>NTSC</td>
+		<td>VHS</td>
 		<td>none</td>
 		<td>562</td>
 		<td>false</td>
@@ -5758,7 +5768,7 @@ $(document).ready(function() {
 		<td>---</td>
 		<td>DVD</td>
 		<td>retail DVD</td>
-		<td>--</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -5812,7 +5822,7 @@ $(document).ready(function() {
 		<td>ITA</td>
 		<td>PAL</td>
 		<td>1h35m55s</td>
-		<td>DVD+VHS</td>
+		<td>DVD + VHS</td>
 		<td>custom uncut mux</td>
 		<td>387</td>
 		<td>false</td>
@@ -5828,7 +5838,7 @@ $(document).ready(function() {
 		<td>1h30m52s</td>
 		<td>DVD</td>
 		<td>[ASIA] full DVD + extras</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -5870,7 +5880,7 @@ $(document).ready(function() {
 		<td>1h17m24s</td>
 		<td>DVD</td>
 		<td>retail; Italian dialogues by Renato Polselli</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -5940,7 +5950,7 @@ $(document).ready(function() {
 		<td>1h25m03s</td>
 		<td>DVD</td>
 		<td>none</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -6024,7 +6034,7 @@ $(document).ready(function() {
 		<td>---</td>
 		<td>DVD</td>
 		<td>retail</td>
-		<td>--</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -6135,7 +6145,7 @@ $(document).ready(function() {
 		<td>ITA</td>
 		<td>PAL</td>
 		<td>1h24m01s</td>
-		<td>35mm</td>
+		<td>Telecine</td>
 		<td>none</td>
 		<td>73</td>
 		<td>false</td>
@@ -6193,7 +6203,7 @@ $(document).ready(function() {
 		<td>1h25m00s</td>
 		<td>VHS</td>
 		<td>none</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -6235,7 +6245,7 @@ $(document).ready(function() {
 		<td>1h30m17s</td>
 		<td>DVD</td>
 		<td>retail Cinekult</td>
-		<td>--</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -6250,7 +6260,7 @@ $(document).ready(function() {
 		<td>---</td>
 		<td>Telecine</td>
 		<td>none</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -6306,7 +6316,7 @@ $(document).ready(function() {
 		<td>1h31m13s</td>
 		<td>VHS</td>
 		<td>custom mux</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -6816,7 +6826,7 @@ $(document).ready(function() {
 		<td>---</td>
 		<td>VHS</td>
 		<td>none</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -6830,7 +6840,7 @@ $(document).ready(function() {
 		<td>1h27m33s</td>
 		<td>DVD + VHS</td>
 		<td>custom mux</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -6946,7 +6956,7 @@ $(document).ready(function() {
 		<td>---</td>
 		<td>DVD</td>
 		<td>retail</td>
-		<td>--</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -6989,7 +6999,7 @@ $(document).ready(function() {
 		<td>ITA</td>
 		<td>PAL</td>
 		<td>---</td>
-		<td>DTT+VHS</td>
+		<td>DTT + VHS</td>
 		<td>uncut composite</td>
 		<td>79</td>
 		<td>false</td>
@@ -7061,7 +7071,7 @@ $(document).ready(function() {
 		<td>1h36m21s</td>
 		<td>Telecine</td>
 		<td>none</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -7090,7 +7100,7 @@ $(document).ready(function() {
 		<td>---</td>
 		<td>TV</td>
 		<td>none</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 		<tr>
@@ -7239,7 +7249,7 @@ $(document).ready(function() {
 		<td>---</td>
 		<td>Telecine</td>
 		<td>none</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -7269,7 +7279,7 @@ $(document).ready(function() {
 		<td>1h17m59s</td>
 		<td>DVD</td>
 		<td>retail</td>
-		<td>-</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -7297,7 +7307,7 @@ $(document).ready(function() {
 		<td>---</td>
 		<td>Bluray</td>
 		<td>retail</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -7325,7 +7335,7 @@ $(document).ready(function() {
 		<td>1h24m07s</td>
 		<td>DTT</td>
 		<td>none</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -7339,7 +7349,7 @@ $(document).ready(function() {
 		<td>56m58s</td>
 		<td>VHS</td>
 		<td>Anaglyph 3D</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -7381,7 +7391,7 @@ $(document).ready(function() {
 		<td>1h28m36s</td>
 		<td>DVD</td>
 		<td>full DVD</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -7481,7 +7491,7 @@ $(document).ready(function() {
 		<td>1h36m03s</td>
 		<td>DVD</td>
 		<td>full DVD custom</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -7847,7 +7857,7 @@ $(document).ready(function() {
 		<td>1h15m53s</td>
 		<td>Telecine</td>
 		<td>[ASIA]</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -7977,7 +7987,7 @@ $(document).ready(function() {
 		<td>1h29m20s</td>
 		<td>DVD</td>
 		<td>[ASIA] full DVD</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -8021,7 +8031,7 @@ $(document).ready(function() {
 		<td>1h26m00s</td>
 		<td>VHS</td>
 		<td>none</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -8200,7 +8210,7 @@ $(document).ready(function() {
 		<td>1h36m11s</td>
 		<td>TV</td>
 		<td>none</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -8243,7 +8253,7 @@ $(document).ready(function() {
 		<td>---</td>
 		<td>VHS</td>
 		<td>LBX and Open Matte restored editions</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -8257,7 +8267,7 @@ $(document).ready(function() {
 		<td>---</td>
 		<td>VHS</td>
 		<td>extras</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -8299,7 +8309,7 @@ $(document).ready(function() {
 		<td>30m44s</td>
 		<td>DVD</td>
 		<td>full DVD + extras</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -8313,7 +8323,7 @@ $(document).ready(function() {
 		<td>1h23m35s</td>
 		<td>DVD</td>
 		<td>full DVD + extras</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -8339,7 +8349,7 @@ $(document).ready(function() {
 		<td>ENG/ENGsub/ITAsub</td>
 		<td>NTSC</td>
 		<td>1h39m36s</td>
-		<td>BR</td>
+		<td>Bluray</td>
 		<td>full BR</td>
 		<td>454</td>
 		<td>false</td>
@@ -8383,7 +8393,7 @@ $(document).ready(function() {
 		<td>---</td>
 		<td>VHS</td>
 		<td>none</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -8624,7 +8634,7 @@ $(document).ready(function() {
 		<td>1h38m12s</td>
 		<td>DVD</td>
 		<td>full DVD + extras</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -9023,7 +9033,7 @@ $(document).ready(function() {
 		<td>---</td>
 		<td>DTT</td>
 		<td>[ASIA] full DVD</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -9233,7 +9243,7 @@ $(document).ready(function() {
 		<td>1h12m56s</td>
 		<td>DVD</td>
 		<td>[ASIA] retail DVD</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -9317,7 +9327,7 @@ $(document).ready(function() {
 		<td>1h19m58s</td>
 		<td>DVD</td>
 		<td>[ASIA] full DVD</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -9429,7 +9439,7 @@ $(document).ready(function() {
 		<td>1h34m13s</td>
 		<td>DVD</td>
 		<td>[ASIA] retail DVD</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -9583,7 +9593,7 @@ $(document).ready(function() {
 		<td>---</td>
 		<td>DVD</td>
 		<td>[ASIA] retail DVDx2 (International + Japanese versions)</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -9681,7 +9691,7 @@ $(document).ready(function() {
 		<td>1h22m08s</td>
 		<td>DVD</td>
 		<td>[ASIA] retail DVD</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -9807,7 +9817,7 @@ $(document).ready(function() {
 		<td>1h23m49s</td>
 		<td>DVD</td>
 		<td>[ASIA] retail DVD</td>
-		<td>---</td>
+		<td>0</td>
 		<td>false</td>
 		</tr>
 
@@ -9906,7 +9916,7 @@ $(document).ready(function() {
 		<td>1h35m02s</td>
 		<td>DVD</td>
 		<td>full DVD</td>
-		<td>---</td>
+		<td>0</td>
 		<td>true</td>
 		</tr>
 		
@@ -9936,7 +9946,7 @@ $(document).ready(function() {
 		<td>1h29m57s</td>
 		<td>DVD</td>
 		<td>full DVD + extras</td>
-		<td>---</td>
+		<td>0</td>
 		<td>true</td>
 		</tr>
 		
@@ -9981,7 +9991,7 @@ $(document).ready(function() {
 		<td>1h25m40s</td>
 		<td>DVD</td>
 		<td>full DVD + extras</td>
-		<td>---</td>
+		<td>0</td>
 		<td>true</td>
 		</tr>
 		
@@ -10071,7 +10081,7 @@ $(document).ready(function() {
 		<td>1h35m48s</td>
 		<td>DTT</td>
 		<td>none</td>
-		<td>---</td>
+		<td>0</td>
 		<td>true</td>
 		</tr>
 		
@@ -10086,7 +10096,7 @@ $(document).ready(function() {
 		<td>1h50m16s</td>
 		<td>DVD</td>
 		<td>none</td>
-		<td>---</td>
+		<td>0</td>
 		<td>true</td>
 		</tr>
 		
@@ -10115,7 +10125,7 @@ $(document).ready(function() {
 		<td>1h27m55s</td>
 		<td>DVD + Super8</td>
 		<td>custom mux</td>
-		<td>---</td>
+		<td>0</td>
 		<td>true</td>
 		</tr>
 		
@@ -10130,7 +10140,7 @@ $(document).ready(function() {
 		<td>1h40m00s</td>
 		<td>DVD</td>
 		<td>full DVD + extras</td>
-		<td>---</td>
+		<td>0</td>
 		<td>true</td>
 		</tr>
 		
@@ -10145,7 +10155,7 @@ $(document).ready(function() {
 		<td>1h18m34s</td>
 		<td>DVD</td>
 		<td>full DVD + extras</td>
-		<td>---</td>
+		<td>0</td>
 		<td>true</td>
 		</tr>
 		
@@ -10176,7 +10186,7 @@ $(document).ready(function() {
 		<td>1h41m44s</td>
 		<td>DVD</td>
 		<td>full DVD + extras</td>
-		<td>---</td>
+		<td>0</td>
 		<td>true</td>
 		</tr>
 		
@@ -10192,7 +10202,7 @@ $(document).ready(function() {
 		<td>1h13m21s</td>
 		<td>DTT</td>
 		<td>none</td>
-		<td>---</td>
+		<td>0</td>
 		<td>true</td>
 		</tr>
 		
@@ -10207,7 +10217,7 @@ $(document).ready(function() {
 		<td>1h33m19s</td>
 		<td>VHS</td>
 		<td>none</td>
-		<td>---</td>
+		<td>0</td>
 		<td>true</td>
 		</tr>
 		
@@ -10222,7 +10232,7 @@ $(document).ready(function() {
 		<td>1h15m21s</td>
 		<td>VHS</td>
 		<td>none</td>
-		<td>---</td>
+		<td>0</td>
 		<td>true</td>
 		</tr>
 		
@@ -10237,7 +10247,7 @@ $(document).ready(function() {
 		<td>1h36m30s</td>
 		<td>VHS</td>
 		<td>[ASIA]</td>
-		<td>---</td>
+		<td>0</td>
 		<td>true</td>
 		</tr>
 		
@@ -10252,7 +10262,7 @@ $(document).ready(function() {
 		<td>1h22m14s</td>
 		<td>VHS</td>
 		<td>[ASIA]</td>
-		<td>---</td>
+		<td>0</td>
 		<td>true</td>
 		</tr>
 		
@@ -10267,7 +10277,7 @@ $(document).ready(function() {
 		<td>1h36m29s</td>
 		<td>TV</td>
 		<td>none</td>
-		<td>---</td>
+		<td>0</td>
 		<td>true</td>
 		</tr>
 		
@@ -10282,7 +10292,7 @@ $(document).ready(function() {
 		<td>59m37s</td>
 		<td>VHS</td>
 		<td>none</td>
-		<td>---</td>
+		<td>0</td>
 		<td>true</td>
 		</tr>
 		
@@ -10297,7 +10307,7 @@ $(document).ready(function() {
 		<td>1h35m31s</td>
 		<td>VHS</td>
 		<td>none</td>
-		<td>---</td>
+		<td>0</td>
 		<td>true</td>
 		</tr>
 		
@@ -10312,7 +10322,7 @@ $(document).ready(function() {
 		<td>1h26m16s</td>
 		<td>DTT</td>
 		<td>none</td>
-		<td>---</td>
+		<td>0</td>
 		<td>true</td>
 		</tr>
 		
@@ -10327,7 +10337,7 @@ $(document).ready(function() {
 		<td>1h42m02s</td>
 		<td>DVD</td>
 		<td>full DVD + extras</td>
-		<td>---</td>
+		<td>0</td>
 		<td>true</td>
 		</tr>
 		
@@ -10342,7 +10352,7 @@ $(document).ready(function() {
 		<td>1h14m52s</td>
 		<td>DVD</td>
 		<td>full DVD + extras</td>
-		<td>---</td>
+		<td>0</td>
 		<td>true</td>
 		</tr>
 		
@@ -10357,7 +10367,7 @@ $(document).ready(function() {
 		<td>1h29m01s</td>
 		<td>DVD</td>
 		<td>full DVD + extras</td>
-		<td>---</td>
+		<td>0</td>
 		<td>true</td>
 		</tr>
 		
@@ -10372,7 +10382,7 @@ $(document).ready(function() {
 		<td>1h10m36s</td>
 		<td>Telecine</td>
 		<td>none</td>
-		<td>---</td>
+		<td>0</td>
 		<td>true</td>
 		</tr>
 		
@@ -10387,7 +10397,7 @@ $(document).ready(function() {
 		<td>1h08m06s</td>
 		<td>DVD</td>
 		<td>full DVD + extras</td>
-		<td>---</td>
+		<td>0</td>
 		<td>true</td>
 		</tr>
 		
@@ -10402,7 +10412,7 @@ $(document).ready(function() {
 		<td>1h36m07s</td>
 		<td>DVD</td>
 		<td>full DVD + extras</td>
-		<td>---</td>
+		<td>0</td>
 		<td>true</td>
 		</tr>
 		
