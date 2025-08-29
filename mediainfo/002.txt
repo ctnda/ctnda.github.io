@@ -1,0 +1,623 @@
+=== VIDEO FILE ===
+File: VideoMix002/Atmosfear/Atmosfear I - Il Re dell'Incubo [VHS-RIP by AndreWanKenobi].avi
+Duration: 01:06:38
+Container bitrate: 731 kbps
+[Video] Codec: mpeg4, Resolution: 352x288, Bitrate: 590 kbps
+[Audio] Codec: mp3, Channels: 1, SampleRate: 48000 Hz, Bitrate: 128 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix002/Atmosfear/Atmosfear II - Baron Samedi - Lo Zombie [VHS-RIP by AndreWanKenobi].avi
+Duration: 01:07:57
+Container bitrate: 625 kbps
+[Video] Codec: mpeg4, Resolution: 352x288, Bitrate: 484 kbps
+[Audio] Codec: mp3, Channels: 1, SampleRate: 48000 Hz, Bitrate: 128 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix002/Atmosfear/Atmosfear III - Anne De Chantraine - La Strega [VHS-RIP by AndreWanKenobi].avi
+Duration: 01:04:42
+Container bitrate: 900 kbps
+[Video] Codec: mpeg4, Resolution: 352x288, Bitrate: 763 kbps
+[Audio] Codec: mp3, Channels: 1, SampleRate: 48000 Hz, Bitrate: 128 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix002/Atmosfear/Atmosfear IV - Elizabeth Bathory - La Vampira [VHS-RIP by AndreWanKenobi].avi
+Duration: 01:09:24
+Container bitrate: 977 kbps
+[Video] Codec: mpeg4, Resolution: 352x288, Bitrate: 839 kbps
+[Audio] Codec: mp3, Channels: 1, SampleRate: 48000 Hz, Bitrate: 128 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix002/Scavengers Reign/Scavengers.Reign.S01E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+Duration: 00:24:02
+Container bitrate: 378 kbps
+[Video] Codec: hevc, Resolution: 1280x720, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/Scavengers Reign/Scavengers.Reign.S01E02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+Duration: 00:26:03
+Container bitrate: 359 kbps
+[Video] Codec: hevc, Resolution: 1280x720, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/Scavengers Reign/Scavengers.Reign.S01E03.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+Duration: 00:24:08
+Container bitrate: 365 kbps
+[Video] Codec: hevc, Resolution: 1280x720, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/Scavengers Reign/Scavengers.Reign.S01E04.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+Duration: 00:24:54
+Container bitrate: 352 kbps
+[Video] Codec: hevc, Resolution: 1280x720, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/Scavengers Reign/Scavengers.Reign.S01E05.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+Duration: 00:23:35
+Container bitrate: 291 kbps
+[Video] Codec: hevc, Resolution: 1280x720, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/Scavengers Reign/Scavengers.Reign.S01E06.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+Duration: 00:24:43
+Container bitrate: 278 kbps
+[Video] Codec: hevc, Resolution: 1280x720, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/Scavengers Reign/Scavengers.Reign.S01E07.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+Duration: 00:24:16
+Container bitrate: 283 kbps
+[Video] Codec: hevc, Resolution: 1280x720, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/Scavengers Reign/Scavengers.Reign.S01E08.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+Duration: 00:22:50
+Container bitrate: 288 kbps
+[Video] Codec: hevc, Resolution: 1280x720, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/Scavengers Reign/Scavengers.Reign.S01E09.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+Duration: 00:25:23
+Container bitrate: 317 kbps
+[Video] Codec: hevc, Resolution: 1280x720, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/Scavengers Reign/Scavengers.Reign.S01E10.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+Duration: 00:24:25
+Container bitrate: 359 kbps
+[Video] Codec: hevc, Resolution: 1280x720, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/Scavengers Reign/Scavengers.Reign.S01E11.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+Duration: 00:26:47
+Container bitrate: 313 kbps
+[Video] Codec: hevc, Resolution: 1280x720, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/Scavengers Reign/Scavengers.Reign.S01E12.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+Duration: 00:24:24
+Container bitrate: 333 kbps
+[Video] Codec: hevc, Resolution: 1280x720, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 01.mp4
+Duration: 00:05:24
+Container bitrate: 667 kbps
+[Video] Codec: h264, Resolution: 656x480, Bitrate: 534 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 127 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 02.mp4
+Duration: 00:05:18
+Container bitrate: 358 kbps
+[Video] Codec: h264, Resolution: 492x360, Bitrate: 257 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 03.mp4
+Duration: 00:05:16
+Container bitrate: 366 kbps
+[Video] Codec: h264, Resolution: 492x360, Bitrate: 265 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 04.mp4
+Duration: 00:05:17
+Container bitrate: 373 kbps
+[Video] Codec: h264, Resolution: 492x360, Bitrate: 272 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 05.mp4
+Duration: 00:05:21
+Container bitrate: 496 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 395 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 06.mp4
+Duration: 00:05:01
+Container bitrate: 500 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 399 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 07.mp4
+Duration: 00:06:11
+Container bitrate: 485 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 384 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 96 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 08.mp4
+Duration: 00:05:48
+Container bitrate: 475 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 374 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 09.mp4
+Duration: 00:05:16
+Container bitrate: 497 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 396 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 10.mp4
+Duration: 00:05:18
+Container bitrate: 501 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 400 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 11.mp4
+Duration: 00:05:54
+Container bitrate: 507 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 406 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 96 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 12.mp4
+Duration: 00:05:21
+Container bitrate: 515 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 413 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 13.mp4
+Duration: 00:06:02
+Container bitrate: 477 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 376 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 14.mp4
+Duration: 00:05:16
+Container bitrate: 514 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 413 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 15.mp4
+Duration: 00:05:21
+Container bitrate: 483 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 383 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 16.mp4
+Duration: 00:05:21
+Container bitrate: 501 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 400 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 17.mp4
+Duration: 00:06:27
+Container bitrate: 446 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 346 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 18.mp4
+Duration: 00:05:13
+Container bitrate: 361 kbps
+[Video] Codec: h264, Resolution: 492x360, Bitrate: 260 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 19.mp4
+Duration: 00:05:23
+Container bitrate: 394 kbps
+[Video] Codec: h264, Resolution: 492x360, Bitrate: 293 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 20.mp4
+Duration: 00:05:20
+Container bitrate: 332 kbps
+[Video] Codec: h264, Resolution: 492x360, Bitrate: 232 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 21.mp4
+Duration: 00:05:40
+Container bitrate: 436 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 336 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 22.mp4
+Duration: 00:05:21
+Container bitrate: 327 kbps
+[Video] Codec: h264, Resolution: 492x360, Bitrate: 227 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 23.mp4
+Duration: 00:05:42
+Container bitrate: 483 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 382 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 24.mp4
+Duration: 00:05:28
+Container bitrate: 489 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 388 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 25.mp4
+Duration: 00:05:17
+Container bitrate: 454 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 354 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 26.mp4
+Duration: 00:05:17
+Container bitrate: 476 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 375 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 27.mp4
+Duration: 00:05:18
+Container bitrate: 513 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 412 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 28.mp4
+Duration: 00:05:15
+Container bitrate: 487 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 387 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 29.mp4
+Duration: 00:05:57
+Container bitrate: 491 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 390 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 30.mp4
+Duration: 00:05:18
+Container bitrate: 497 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 396 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 31.mp4
+Duration: 00:05:17
+Container bitrate: 500 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 399 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 32.mp4
+Duration: 00:05:56
+Container bitrate: 475 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 374 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 33.mp4
+Duration: 00:09:18
+Container bitrate: 332 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 232 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 34.mp4
+Duration: 00:05:33
+Container bitrate: 439 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 338 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 35.mp4
+Duration: 00:05:11
+Container bitrate: 442 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 342 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 36.mp4
+Duration: 00:06:00
+Container bitrate: 410 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 309 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 37.mp4
+Duration: 00:05:43
+Container bitrate: 409 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 309 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 38.mp4
+Duration: 00:05:40
+Container bitrate: 441 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 340 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 39.mp4
+Duration: 00:07:40
+Container bitrate: 373 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 273 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 40.mp4
+Duration: 00:05:15
+Container bitrate: 471 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 371 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 41.mp4
+Duration: 00:07:25
+Container bitrate: 413 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 313 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 42.mp4
+Duration: 00:05:15
+Container bitrate: 488 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 387 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 43.mp4
+Duration: 00:05:19
+Container bitrate: 417 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 316 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 44.mp4
+Duration: 00:05:17
+Container bitrate: 416 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 316 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 45.mp4
+Duration: 00:05:52
+Container bitrate: 428 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 328 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 46.mp4
+Duration: 00:05:22
+Container bitrate: 373 kbps
+[Video] Codec: h264, Resolution: 492x360, Bitrate: 272 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 96 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 47.mp4
+Duration: 00:06:11
+Container bitrate: 465 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 364 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 96 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 48.mp4
+Duration: 00:05:21
+Container bitrate: 428 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 327 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 49.mp4
+Duration: 00:28:12
+Container bitrate: 402 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 301 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 50.mp4
+Duration: 00:27:35
+Container bitrate: 464 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 363 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 51.mp4
+Duration: 00:05:17
+Container bitrate: 408 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 308 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 52.mp4
+Duration: 00:05:19
+Container bitrate: 506 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 405 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 53.mp4
+Duration: 00:05:49
+Container bitrate: 455 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 355 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 54.mp4
+Duration: 00:05:14
+Container bitrate: 467 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 366 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 55.mp4
+Duration: 00:12:24
+Container bitrate: 281 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 180 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 56.mp4
+Duration: 00:05:56
+Container bitrate: 438 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 338 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 57.mp4
+Duration: 00:05:41
+Container bitrate: 417 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 317 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 58.mp4
+Duration: 00:05:40
+Container bitrate: 456 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 355 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 59.mp4
+Duration: 00:05:05
+Container bitrate: 503 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 402 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 60.mp4
+Duration: 00:05:45
+Container bitrate: 432 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 331 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 96 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 61.mp4
+Duration: 00:05:39
+Container bitrate: 411 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 310 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 62.mp4
+Duration: 00:05:37
+Container bitrate: 444 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 344 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 63.mp4
+Duration: 00:05:36
+Container bitrate: 384 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 284 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 64.mp4
+Duration: 00:05:38
+Container bitrate: 329 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 229 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 65.mp4
+Duration: 00:05:39
+Container bitrate: 450 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 350 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 66.mp4
+Duration: 00:05:43
+Container bitrate: 442 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 342 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 67.mp4
+Duration: 00:06:01
+Container bitrate: 409 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 309 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 68.mp4
+Duration: 00:05:41
+Container bitrate: 453 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 352 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 96 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 69.mp4
+Duration: 00:05:19
+Container bitrate: 311 kbps
+[Video] Codec: h264, Resolution: 492x360, Bitrate: 210 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 70.mp4
+Duration: 00:05:17
+Container bitrate: 506 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 405 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 71.mp4
+Duration: 00:05:18
+Container bitrate: 434 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 333 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 72.mp4
+Duration: 00:05:15
+Container bitrate: 443 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 342 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix002/The Mighty Hercules/The Mighty Hercules 73.mp4
+Duration: 00:05:20
+Container bitrate: 494 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 393 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: eng
+

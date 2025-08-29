@@ -1,0 +1,343 @@
+=== VIDEO FILE ===
+File: VideoMix001/Blackstar/01 - Alla ricerca della Spada stellare.mp4
+Duration: 00:20:03
+Container bitrate: 799 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 663 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix001/Blackstar/02 - La città degli antichi.mp4
+Duration: 00:20:06
+Container bitrate: 814 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 678 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix001/Blackstar/03 - Il signore del tempo.mp4
+Duration: 00:20:02
+Container bitrate: 804 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 667 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix001/Blackstar/04 - Il popolo delle sirene.mp4
+Duration: 00:20:02
+Container bitrate: 805 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 668 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix001/Blackstar/05 - La Prova.mp4
+Duration: 00:20:03
+Container bitrate: 815 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 678 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix001/Blackstar/06 - Dispersa nello spazio.mp4
+Duration: 00:20:02
+Container bitrate: 811 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 674 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix001/Blackstar/07 - La splendente città sulla nuvola.mp4
+Duration: 00:20:01
+Container bitrate: 779 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 643 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix001/Blackstar/08 - Il regno di Neptul.mp4
+Duration: 00:20:03
+Container bitrate: 792 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 655 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix001/Blackstar/09 - L'albero del male.mp4
+Duration: 00:20:05
+Container bitrate: 766 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 630 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix001/Blackstar/10 - Le balene volanti di Anchar.mp4
+Duration: 00:20:08
+Container bitrate: 814 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 677 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix001/Blackstar/11 - Il grande incantesimo di Overlord.mp4
+Duration: 00:20:03
+Container bitrate: 814 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 678 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix001/Blackstar/12 - La corona della maga.mp4
+Duration: 00:20:03
+Container bitrate: 826 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 689 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix001/Blackstar/13 - Il signore degli zombie.mp4
+Duration: 00:20:04
+Container bitrate: 807 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 670 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix001/Blackstar/Blackstarr - Realizzato con Clipchamp.mp4
+Duration: 00:01:30
+Container bitrate: 7950 kbps
+[Video] Codec: h264, Resolution: 1280x720, Bitrate: 7751 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 192 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix001/Frankenstein_Jr_e_Gli_Impossibili/01 - Frankenstein, Jr. and The Impossibles.mp4
+Duration: 00:20:21
+Container bitrate: 788 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 698 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 84 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix001/Frankenstein_Jr_e_Gli_Impossibili/02 - Frankenstein, Jr. and The Impossibles.mp4
+Duration: 00:20:27
+Container bitrate: 769 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 699 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 64 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix001/Frankenstein_Jr_e_Gli_Impossibili/03 - Frankenstein, Jr. and The Impossibles.mp4
+Duration: 00:20:17
+Container bitrate: 781 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 699 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 76 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix001/Frankenstein_Jr_e_Gli_Impossibili/04 - Frankenstein, Jr. and The Impossibles.mp4
+Duration: 00:20:15
+Container bitrate: 787 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 699 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 81 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix001/Frankenstein_Jr_e_Gli_Impossibili/05 - Frankenstein, Jr. and The Impossibles.mp4
+Duration: 00:20:20
+Container bitrate: 759 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 699 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 52 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix001/Frankenstein_Jr_e_Gli_Impossibili/06 - Frankenstein, Jr. and The Impossibles.mp4
+Duration: 00:20:18
+Container bitrate: 767 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 699 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 62 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix001/Frankenstein_Jr_e_Gli_Impossibili/07 - Frankenstein, Jr. and The Impossibles.mp4
+Duration: 00:20:20
+Container bitrate: 810 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 696 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 108 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix001/Frankenstein_Jr_e_Gli_Impossibili/08 - Frankenstein, Jr. and The Impossibles.mp4
+Duration: 00:20:20
+Container bitrate: 812 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 699 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 107 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix001/Frankenstein_Jr_e_Gli_Impossibili/09 - Frankenstein, Jr. and The Impossibles.mp4
+Duration: 00:20:15
+Container bitrate: 759 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 699 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 53 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix001/Frankenstein_Jr_e_Gli_Impossibili/10 - Frankenstein, Jr. and The Impossibles.mp4
+Duration: 00:20:23
+Container bitrate: 759 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 699 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 53 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix001/Frankenstein_Jr_e_Gli_Impossibili/11 - Frankenstein, Jr. and The Impossibles.mp4
+Duration: 00:20:23
+Container bitrate: 814 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 699 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 109 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix001/Frankenstein_Jr_e_Gli_Impossibili/12 - Frankenstein, Jr. and The Impossibles.mp4
+Duration: 00:20:21
+Container bitrate: 811 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 699 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 106 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix001/Frankenstein_Jr_e_Gli_Impossibili/13 - Frankenstein, Jr. and The Impossibles.mp4
+Duration: 00:20:23
+Container bitrate: 757 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 699 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 51 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix001/Frankenstein_Jr_e_Gli_Impossibili/14 - Frankenstein, Jr. and The Impossibles.mp4
+Duration: 00:20:40
+Container bitrate: 766 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 695 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 66 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix001/Frankenstein_Jr_e_Gli_Impossibili/15 - Frankenstein, Jr. and The Impossibles.mp4
+Duration: 00:20:15
+Container bitrate: 809 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 698 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 106 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix001/Frankenstein_Jr_e_Gli_Impossibili/16 - Frankenstein, Jr. and The Impossibles.mp4
+Duration: 00:20:16
+Container bitrate: 774 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 700 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 69 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix001/Frankenstein_Jr_e_Gli_Impossibili/17 - Frankenstein, Jr. and The Impossibles.mp4
+Duration: 00:20:17
+Container bitrate: 772 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 698 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 68 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix001/Frankenstein_Jr_e_Gli_Impossibili/18 - Frankenstein, Jr. and The Impossibles.mp4
+Duration: 00:20:21
+Container bitrate: 816 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 697 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 114 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix001/Frankenstein_Jr_e_Gli_Impossibili/19 - Frankenstein, Jr. and The Impossibles.mp4
+Duration: 00:05:24
+Container bitrate: 755 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 677 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 71 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix001/Troppolitani/03 - Troppolitani ＂Biennale＂ [HrqvsV9YDak].mp4
+Duration: 00:05:02
+Container bitrate: 357 kbps
+[Video] Codec: h264, Resolution: 352x288, Bitrate: 223 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: ita
+
+=== VIDEO FILE ===
+File: VideoMix001/Troppolitani/Antonio Rezza - TROPPOLITANI - al mercato e dintorni [gc4-L87lovk].mp4
+Duration: 00:04:56
+Container bitrate: 906 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 772 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: ita
+
+=== VIDEO FILE ===
+File: VideoMix001/Troppolitani/[Antonio Rezza] 01 - Troppolitani ＂Speciale Troppolitana＂ [3FpN6ay2s94].mp4
+Duration: 00:24:08
+Container bitrate: 301 kbps
+[Video] Codec: h264, Resolution: 294x240, Bitrate: 167 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 127 kbps, Language: ita
+
+=== VIDEO FILE ===
+File: VideoMix001/Troppolitani/[Antonio Rezza] 02 - Troppolitani ＂Al cimitero＂ [h_pooMAYsqM].mp4
+Duration: 00:29:07
+Container bitrate: 300 kbps
+[Video] Codec: h264, Resolution: 294x240, Bitrate: 166 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 127 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix001/Troppolitani/[Antonio Rezza] 04 - Troppolitani ＂Collocamento＂ [KF-R0b59wJs].mp4
+Duration: 00:29:31
+Container bitrate: 319 kbps
+[Video] Codec: h264, Resolution: 352x288, Bitrate: 185 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix001/Troppolitani/[Antonio Rezza] 05 - Troppolitani ＂Di Corsa＂ [qlFd8cZeJwg].mp4
+Duration: 00:30:36
+Container bitrate: 301 kbps
+[Video] Codec: h264, Resolution: 294x240, Bitrate: 167 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 127 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix001/Troppolitani/[Antonio Rezza] 06 - Troppolitani ＂Francese＂ [ebOgUT78bbI].mp4
+Duration: 00:05:01
+Container bitrate: 311 kbps
+[Video] Codec: h264, Resolution: 294x240, Bitrate: 178 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix001/Troppolitani/[Antonio Rezza] 07 - Troppolitani ＂Giovani＂ [-lc93xBUb5o].mp4
+Duration: 00:05:06
+Container bitrate: 290 kbps
+[Video] Codec: h264, Resolution: 294x240, Bitrate: 156 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: ita
+
+=== VIDEO FILE ===
+File: VideoMix001/Troppolitani/[Antonio Rezza] 08 - Troppolitani ＂Stazione Termini＂ [NFOK2dBM46E].mp4
+Duration: 00:30:21
+Container bitrate: 404 kbps
+[Video] Codec: h264, Resolution: 352x288, Bitrate: 270 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: ita
+
+=== VIDEO FILE ===
+File: VideoMix001/Troppolitani/[Antonio Rezza] 09 - Troppolitani ＂I Troppolitani＂ [uF_1eqSpK9A].mp4
+Duration: 00:29:34
+Container bitrate: 301 kbps
+[Video] Codec: h264, Resolution: 294x240, Bitrate: 167 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: ita
+
+=== VIDEO FILE ===
+File: VideoMix001/Troppolitani/[Antonio Rezza] 10 - Troppolitani ＂Panciolle＂ [NoM59uXGNuE].mp4
+Duration: 00:05:07
+Container bitrate: 291 kbps
+[Video] Codec: h264, Resolution: 294x240, Bitrate: 157 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 127 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix001/Troppolitani/[Antonio Rezza] 11 - Troppolitani ＂Tre Fratelli＂ [zi5SlB4LXOY].mp4
+Duration: 00:05:05
+Container bitrate: 290 kbps
+[Video] Codec: h264, Resolution: 294x240, Bitrate: 156 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix001/Troppolitani/[Antonio Rezza] 12 - Troppolitani ＂L'ippodromo e lo stadio＂ [CFpl-_a15xM].mp4
+Duration: 00:27:36
+Container bitrate: 265 kbps
+[Video] Codec: h264, Resolution: 294x240, Bitrate: 132 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 127 kbps, Language: ita
+
+=== VIDEO FILE ===
+File: VideoMix001/Troppolitani/[Antonio Rezza] 13 - Troppolitani ＂Individuo E Gruppo＂ [0LmXij_xlcY].mp4
+Duration: 00:28:38
+Container bitrate: 301 kbps
+[Video] Codec: h264, Resolution: 294x240, Bitrate: 167 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 127 kbps, Language: ita
+
+=== VIDEO FILE ===
+File: VideoMix001/Troppolitani/[Antonio Rezza] 14 - Troppolitani ＂Natale 'on the road'＂ [f1iuT66YnVc].mp4
+Duration: 00:27:23
+Container bitrate: 301 kbps
+[Video] Codec: h264, Resolution: 294x240, Bitrate: 167 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 127 kbps, Language: ita
+
+=== VIDEO FILE ===
+File: VideoMix001/Troppolitani/[Antonio Rezza] 15 - Troppolitani ＂Al Policlinico＂ [Nznkr8Qb0_I].mp4
+Duration: 00:30:00
+Container bitrate: 399 kbps
+[Video] Codec: h264, Resolution: 352x288, Bitrate: 265 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: ita
+
