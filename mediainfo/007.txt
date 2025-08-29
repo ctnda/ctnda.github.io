@@ -1,0 +1,274 @@
+=== VIDEO FILE ===
+File: VideoMix007/Braccio di Ferro - Serie Cinematografica/Braccio di Ferro contro Alì Babà e i quaranta ladroni (Popeye the Sailor Meets Ali Baba's Forty Thi.mp4
+Duration: 00:16:43
+Container bitrate: 947 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 812 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 128 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix007/Braccio di Ferro - Serie Cinematografica/Braccio di Ferro e la lampada di Aladino (Aladdin and His Wonderful Lamp) - 1939.mp4
+Duration: 00:22:05
+Container bitrate: 799 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 665 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix007/Braccio di Ferro - Serie Cinematografica/Braccio di Ferro incontra Sinbad (Popeye the Sailor Meets Sindbad the Sailor) - 1936.mp4
+Duration: 00:16:33
+Container bitrate: 735 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 600 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VideoMix007/Gli Erculoidi S02/Gli Erculoidi 2x01 Il Mostro Di Ghiaccio.mp4
+Duration: 00:07:59
+Container bitrate: 2038 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 127 kbps, Language: eng
+[Video] Codec: h264, Resolution: 720x576, Bitrate: 1906 kbps
+
+=== VIDEO FILE ===
+File: VideoMix007/Gli Erculoidi S02/Gli Erculoidi 2x02 La Minaccia Purpurea.mp4
+Duration: 00:07:50
+Container bitrate: 2007 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 127 kbps, Language: eng
+[Video] Codec: h264, Resolution: 720x576, Bitrate: 1875 kbps
+
+=== VIDEO FILE ===
+File: VideoMix007/Gli Erculoidi S02/Gli Erculoidi 2x03 L' Uccello Di Fuoco.mp4
+Duration: 00:08:01
+Container bitrate: 2041 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 127 kbps, Language: eng
+[Video] Codec: h264, Resolution: 720x576, Bitrate: 1909 kbps
+
+=== VIDEO FILE ===
+File: VideoMix007/Gli Erculoidi S02/Gli Erculoidi 2x04 Una strana creatura.mp4
+Duration: 00:07:56
+Container bitrate: 2040 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 127 kbps, Language: eng
+[Video] Codec: h264, Resolution: 720x576, Bitrate: 1908 kbps
+
+=== VIDEO FILE ===
+File: VideoMix007/Gli Erculoidi S02/Gli Erculoidi 2x05 Gli Erculoidi E I Serpentoidi.mp4
+Duration: 00:07:58
+Container bitrate: 2069 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 127 kbps, Language: eng
+[Video] Codec: h264, Resolution: 720x576, Bitrate: 1933 kbps
+[Video] Codec: mjpeg, Resolution: 411x590, Bitrate: n/a
+
+=== VIDEO FILE ===
+File: VideoMix007/Gli Erculoidi S02/Gli Erculoidi 2x06 Il Bucaniere.mp4
+Duration: 00:07:59
+Container bitrate: 2067 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 127 kbps, Language: eng
+[Video] Codec: h264, Resolution: 720x576, Bitrate: 1935 kbps
+
+=== VIDEO FILE ===
+File: VideoMix007/Gli Erculoidi S02/Gli Erculoidi 2x07 La Meteorita.mp4
+Duration: 00:07:58
+Container bitrate: 2049 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 127 kbps, Language: eng
+[Video] Codec: h264, Resolution: 720x576, Bitrate: 1917 kbps
+
+=== VIDEO FILE ===
+File: VideoMix007/Gli Erculoidi S02/Gli Erculoidi 2x08 Il Ritorno Degli Antenati.mp4
+Duration: 00:07:57
+Container bitrate: 2063 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 127 kbps, Language: eng
+[Video] Codec: h264, Resolution: 720x576, Bitrate: 1931 kbps
+
+=== VIDEO FILE ===
+File: VideoMix007/Gli Erculoidi S02/Gli Erculoidi 2x09 Cacciatori dello spazio.mp4
+Duration: 00:07:58
+Container bitrate: 2058 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 127 kbps, Language: eng
+[Video] Codec: h264, Resolution: 720x576, Bitrate: 1922 kbps
+[Video] Codec: mjpeg, Resolution: 411x590, Bitrate: n/a
+
+=== VIDEO FILE ===
+File: VideoMix007/Gli Erculoidi S02/Gli Erculoidi 2x10 Gli Invisibili.mp4
+Duration: 00:07:59
+Container bitrate: 2056 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 127 kbps, Language: eng
+[Video] Codec: h264, Resolution: 720x576, Bitrate: 1924 kbps
+
+=== VIDEO FILE ===
+File: VideoMix007/I Viaggi di Gulliver/I Viaggi di Gulliver (Gulliver's Travels) - 1939.mp4
+Duration: 01:13:14
+Container bitrate: 619 kbps
+[Video] Codec: h264, Resolution: 630x480, Bitrate: 373 kbps
+
+=== VIDEO FILE ===
+File: VideoMix007/X-Bomber/01 Allarme X Bomber.mp4
+Duration: 00:22:39
+Container bitrate: 530 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 397 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 127 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix007/X-Bomber/02 Flotta Germal.mp4
+Duration: 00:22:39
+Container bitrate: 590 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 458 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 127 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix007/X-Bomber/03 Operazione F 01.mp4
+Duration: 00:22:40
+Container bitrate: 647 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 131 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix007/X-Bomber/04 Il Mistero Dei Trasporti Spaziali.mp4
+Duration: 00:22:39
+Container bitrate: 725 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 131 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix007/X-Bomber/05 Vascello Destino.mp4
+Duration: 00:22:38
+Container bitrate: 787 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 131 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix007/X-Bomber/06 Pronti Al Decollo.mp4
+Duration: 00:22:40
+Container bitrate: 404 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 130 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix007/X-Bomber/07 Lotta Disperata.mp4
+Duration: 00:22:39
+Container bitrate: 478 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 345 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 127 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix007/X-Bomber/08  Il Pianeta Dei Mon Mon.mp4
+Duration: 00:22:40
+Container bitrate: 683 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 131 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix007/X-Bomber/09 Le Strategie Di Bloody Mary.mp4
+Duration: 00:22:37
+Container bitrate: 672 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 539 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix007/X-Bomber/10  Alla Deriva Nello Spazio Infinito.mp4
+Duration: 00:22:39
+Container bitrate: 535 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 403 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 127 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix007/X-Bomber/11 La Fine Di Un Eterna Battaglia.mp4
+Duration: 00:22:39
+Container bitrate: 680 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 547 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 127 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix007/X-Bomber/12 Il Nostro Mortale Nemico.mp4
+Duration: 00:22:38
+Container bitrate: 730 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 131 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix007/X-Bomber/13 Esercito Germal.mp4
+Duration: 00:22:39
+Container bitrate: 812 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 131 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix007/X-Bomber/14 Le Disavventure Di Lamia.mp4
+Duration: 00:22:39
+Container bitrate: 609 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 476 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix007/X-Bomber/15 Verso Il Pianeta M13.mp4
+Duration: 00:22:39
+Container bitrate: 625 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 492 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix007/X-Bomber/16  Il Rapimento Di Lamia.mp4
+Duration: 00:22:39
+Container bitrate: 548 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 416 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix007/X-Bomber/17 Prigione Di Ghiaccio.mp4
+Duration: 00:22:39
+Container bitrate: 603 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 471 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix007/X-Bomber/18 La Promozione Di Bloody Mary (inedito).mp4
+Duration: 00:22:38
+Container bitrate: 541 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 408 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 127 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix007/X-Bomber/19 Il Pianeta Glaciale.mp4
+Duration: 00:22:39
+Container bitrate: 686 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 553 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix007/X-Bomber/20  Il Complotto.mp4
+Duration: 00:22:39
+Container bitrate: 502 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 370 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix007/X-Bomber/21 M13 Inizia L Attacco.mp4
+Duration: 00:22:39
+Container bitrate: 600 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 467 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix007/X-Bomber/22  Pronti Alla Guerra.mp4
+Duration: 00:22:39
+Container bitrate: 594 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 462 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix007/X-Bomber/23 Attacco All Ammiraglia Germal.mp4
+Duration: 00:22:39
+Container bitrate: 645 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 513 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 127 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix007/X-Bomber/24 Ai Confini Del Mondo.mp4
+Duration: 00:22:38
+Container bitrate: 691 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 559 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix007/X-Bomber/25 Anno 3000.mp4
+Duration: 00:22:20
+Container bitrate: 672 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 540 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: eng
+
