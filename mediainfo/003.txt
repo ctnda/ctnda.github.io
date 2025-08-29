@@ -1,0 +1,70 @@
+=== VIDEO FILE ===
+File: Troppolitani_01/01_Troppolitani del 12_07_1999 [3faaad09-4a4a-4876-80a6-6f8f2bcecead].mp4
+Duration: 00:05:01
+Container bitrate: 2606 kbps
+[Video] Codec: h264, Resolution: 704x396, Bitrate: 2407 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 192 kbps, Language: und
+
+=== VIDEO FILE ===
+File: Troppolitani_01/02_Troppolitani del 13_07_1999 [312fe368-2c01-4ad9-8b42-6c4131131bab].mp4
+Duration: 00:05:03
+Container bitrate: 2607 kbps
+[Video] Codec: h264, Resolution: 704x396, Bitrate: 2408 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 192 kbps, Language: und
+
+=== VIDEO FILE ===
+File: Troppolitani_01/03_Troppolitani del 14_07_1999 [dea17c16-e21b-46af-ac45-c2515f8b8446].mp4
+Duration: 00:05:00
+Container bitrate: 2606 kbps
+[Video] Codec: h264, Resolution: 704x396, Bitrate: 2407 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 192 kbps, Language: und
+
+=== VIDEO FILE ===
+File: Troppolitani_01/04_Troppolitani del 15_07_1999 [9b8572ce-d5ff-48da-99fb-ebe5d26cb186].mp4
+Duration: 00:05:02
+Container bitrate: 2607 kbps
+[Video] Codec: h264, Resolution: 704x396, Bitrate: 2408 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 192 kbps, Language: und
+
+=== VIDEO FILE ===
+File: Troppolitani_01/05_Troppolitani del 16_07_1999 [7f082dd4-56c2-4156-b3d5-acde692ed44a].mp4
+Duration: 00:05:04
+Container bitrate: 2606 kbps
+[Video] Codec: h264, Resolution: 704x396, Bitrate: 2407 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 192 kbps, Language: und
+
+=== VIDEO FILE ===
+File: Troppolitani_01/06_Troppolitani del 17_07_1999 [c0ecea4b-c909-4094-82d4-a6a3cf11242d].mp4
+Duration: 00:26:47
+Container bitrate: 2602 kbps
+[Video] Codec: h264, Resolution: 704x396, Bitrate: 2403 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 192 kbps, Language: und
+
+=== VIDEO FILE ===
+File: Troppolitani_01/07_Troppolitani del 13_01_2000  [ab2b9b67-a88c-4002-98a8-a399abb1f648].mp4
+Duration: 00:29:07
+Container bitrate: 2602 kbps
+[Video] Codec: h264, Resolution: 704x396, Bitrate: 2403 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 192 kbps, Language: und
+
+=== VIDEO FILE ===
+File: Troppolitani_01/08_Troppolitani del 20_01_2000 [d4a33f4a-67f1-44cf-8ab7-87f4c17e1133].mp4
+Duration: 00:29:29
+Container bitrate: 2601 kbps
+[Video] Codec: h264, Resolution: 704x396, Bitrate: 2402 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 192 kbps, Language: und
+
+=== VIDEO FILE ===
+File: Troppolitani_01/09_Troppolitani del 27_01_2000 [175e5a97-e93b-4412-8e32-eb26fa77f208].mp4
+Duration: 00:30:16
+Container bitrate: 2601 kbps
+[Video] Codec: h264, Resolution: 704x396, Bitrate: 2402 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 192 kbps, Language: und
+
+=== VIDEO FILE ===
+File: Troppolitani_01/10_Troppolitani del 03_02_2000 [fd6e6889-350c-42fb-aec0-82ba72d5d3de].mp4
+Duration: 00:30:04
+Container bitrate: 2602 kbps
+[Video] Codec: h264, Resolution: 704x396, Bitrate: 2403 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 192 kbps, Language: und
+

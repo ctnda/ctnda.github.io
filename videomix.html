@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Disk Index</title>
+<style>
+body { color: #000; font-family: "DejaVu Sans Mono", monospace; font-size: 10pt; }
+tr:hover td { background: #fff062 !important; }
+#example td, #example th { text-align: center; }
+#example td:first-child, #example th:first-child { text-align: left; }
+</style>
+<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css">
+<script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/yadcf/0.9.4/jquery.dataTables.yadcf.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.10/js/select2.js"></script>
+<script>
+$(document).ready(function () {
+    var myTable = $('#example').DataTable({ paging: false });
+});
+</script>
+</head>
+<body class="wide comments example">
+	<pre class="western" style="text-align: center">
+		******  ********** ****     **      **     **
+		**////**/////**/// /**/**   /**     /**    ****
+		**    //     /**    /**//**  /**     /**   **//**
+		/**           /**    /** //** /**  ******  **  //**
+		/**           /**    /**  //**/** **///** **********
+		//**    **    /**    /**   //****/**  /**/**//////**
+		 //******     /**    /**    //***//******/**     /**
+		  //////      //     //      ///  ////// //      //
+		..::::::......::.....::......:::..::::::.::......::.
+		::::::::::::::::::::::::::::::::::::::::::::::::::::
+		::::::::::::::::::43 54 4E 64 41::::::::::::::::::::
+
+		<a href="../index.html">Back to index</a>
+	____   ____.__    .___              _____  .__
+		\   \ /   /|__| __| _/____  ____   /     \ |__|__  ___
+		 \   Y   / |  |/ __ |/ __ \/  _ \ /  \ /  \|  \  \/  /
+		  \     /  |  / /_/ \  ___(  <_> )    Y    \  |>    <
+		   \___/   |__\____ |\___  >____/\____|__  /__/__/\_ \
+
+         <div align="right"></pre>
+<table id="example" class="display" style="width:100%">
+<thead>
+<tr>
+<th>Disk #</th>
+<th>Main Folder</th>
+<th>Audio</th>
+<th>Video</th>
+<th>Images</th>
+<th>Other</th>
+<th>Media Info</th>
+</tr>
+</thead>
+<tbody>
+<tr data-disk='005'><td>005</td><td>Batman</td><td>0</td><td>16</td><td>0</td><td>0</td><td><a href='mediainfo/005.txt'>005.txt</a></td></tr>
+<tr data-disk='001'><td>001</td><td>Blackstar</td><td>0</td><td>14</td><td>0</td><td>0</td><td><a href='mediainfo/001.txt'>001.txt</a></td></tr>
+<tr data-disk='001'><td>001</td><td>Frankenstein_Jr_e_Gli_Impossibili</td><td>0</td><td>19</td><td>0</td><td>0</td><td><a href='mediainfo/001.txt'>001.txt</a></td></tr>
+<tr data-disk='001'><td>001</td><td>Troppolitani</td><td>0</td><td>16</td><td>0</td><td>0</td><td><a href='mediainfo/001.txt'>001.txt</a></td></tr>
+<tr data-disk='002'><td>002</td><td>Atmosfear</td><td>0</td><td>4</td><td>17</td><td>6</td><td><a href='mediainfo/002.txt'>002.txt</a></td></tr>
+<tr data-disk='002'><td>002</td><td>Scavengers Reign</td><td>0</td><td>12</td><td>0</td><td>0</td><td><a href='mediainfo/002.txt'>002.txt</a></td></tr>
+<tr data-disk='002'><td>002</td><td>The Mighty Hercules</td><td>0</td><td>73</td><td>0</td><td>0</td><td><a href='mediainfo/002.txt'>002.txt</a></td></tr>
+<tr data-disk='003'><td>003</td><td>Troppolitani remastered 01</td><td>0</td><td>10</td><td>0</td><td>0</td><td><a href='mediainfo/003.txt'>003.txt</a></td></tr>
+<tr data-disk='004'><td>004</td><td>Troppolitani remastered 02</td><td>0</td><td>5</td><td>0</td><td>0</td><td><a href='mediainfo/004.txt'>004.txt</a></td></tr>
+</tbody></table></body></html>

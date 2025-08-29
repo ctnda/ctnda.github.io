@@ -1,0 +1,128 @@
+=== VIDEO FILE ===
+File: BATMAN_BWRTBW/Batman_&_Robin_the_boy_wonder_Episodio_01La_Tana_dei_Cartoni_.mkv
+Duration: 00:21:22
+Container bitrate: 1702 kbps
+[Video] Codec: h264, Resolution: 720x540, Bitrate: n/a
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 192 kbps, Language: ita
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 192 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: BATMAN_BWRTBW/Batman_&_Robin_the_boy_wonder_Episodio_02La_Tana_dei_Cartoni.mkv
+Duration: 00:21:21
+Container bitrate: 1836 kbps
+[Video] Codec: h264, Resolution: 720x540, Bitrate: n/a
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 192 kbps, Language: ita
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 192 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: BATMAN_BWRTBW/Batman_&_Robin_the_boy_wonder_Episodio_03La_Tana_dei_Cartoni.mkv
+Duration: 00:21:21
+Container bitrate: 1812 kbps
+[Video] Codec: h264, Resolution: 720x540, Bitrate: n/a
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 192 kbps, Language: ita
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 192 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: BATMAN_BWRTBW/Batman_&_Robin_the_boy_wonder_Episodio_04La_Tana_dei_Cartoni.mkv
+Duration: 00:21:20
+Container bitrate: 1781 kbps
+[Video] Codec: h264, Resolution: 720x540, Bitrate: n/a
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 192 kbps, Language: ita
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 192 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: BATMAN_BWRTBW/Batman_&_Robin_the_boy_wonder_Episodio_05La_Tana_dei_Cartoni.mkv
+Duration: 00:21:21
+Container bitrate: 1788 kbps
+[Video] Codec: h264, Resolution: 720x540, Bitrate: n/a
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 192 kbps, Language: ita
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 192 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: BATMAN_BWRTBW/Batman_&_Robin_the_boy_wonder_Episodio_06La_Tana_dei_Cartoni.mkv
+Duration: 00:21:20
+Container bitrate: 1807 kbps
+[Video] Codec: h264, Resolution: 720x540, Bitrate: n/a
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 192 kbps, Language: ita
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 192 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: BATMAN_BWRTBW/Batman_&_Robin_the_boy_wonder_Episodio_08La_Tana_dei_Cartoni.mkv
+Duration: 00:21:21
+Container bitrate: 1854 kbps
+[Video] Codec: h264, Resolution: 720x540, Bitrate: n/a
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 192 kbps, Language: ita
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 192 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: BATMAN_BWRTBW/Batman_&_Robin_the_boy_wonder_Episodio_09La_Tana_dei_Cartoni.mkv
+Duration: 00:21:22
+Container bitrate: 1810 kbps
+[Video] Codec: h264, Resolution: 720x540, Bitrate: n/a
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 192 kbps, Language: ita
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 192 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: BATMAN_BWRTBW/Batman_&_Robin_the_boy_wonder_Episodio_10La_Tana_dei_Cartoni.mkv
+Duration: 00:21:21
+Container bitrate: 1718 kbps
+[Video] Codec: h264, Resolution: 720x540, Bitrate: n/a
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 192 kbps, Language: ita
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 192 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: BATMAN_BWRTBW/Batman_&_Robin_the_boy_wonder_Episodio_11La_Tana_dei_Cartoni.mkv
+Duration: 00:21:22
+Container bitrate: 1764 kbps
+[Video] Codec: h264, Resolution: 720x540, Bitrate: n/a
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 192 kbps, Language: ita
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 192 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: BATMAN_BWRTBW/Batman_&_Robin_the_boy_wonder_Episodio_12La_Tana_dei_Cartoni.mkv
+Duration: 00:21:21
+Container bitrate: 1771 kbps
+[Video] Codec: h264, Resolution: 720x540, Bitrate: n/a
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 192 kbps, Language: ita
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 192 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: BATMAN_BWRTBW/Batman_&_Robin_the_boy_wonder_Episodio_13La_Tana_dei_Cartoni.mkv
+Duration: 00:21:21
+Container bitrate: 1791 kbps
+[Video] Codec: h264, Resolution: 720x540, Bitrate: n/a
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 192 kbps, Language: ita
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 192 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: BATMAN_BWRTBW/Batman_&_Robin_the_boy_wonder_Episodio_14La_Tana_dei_Cartoni.mkv
+Duration: 00:21:21
+Container bitrate: 1920 kbps
+[Video] Codec: h264, Resolution: 720x540, Bitrate: n/a
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 192 kbps, Language: ita
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 192 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: BATMAN_BWRTBW/Batman_&_Robin_the_boy_wonder_Episodio_15La_Tana_dei_Cartoni.mkv
+Duration: 00:21:22
+Container bitrate: 1754 kbps
+[Video] Codec: h264, Resolution: 720x540, Bitrate: n/a
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 192 kbps, Language: ita
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 192 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: BATMAN_BWRTBW/Batman_&_Robin_the_boy_wonder_Episodio_16La_Tana_dei_Cartoni.mkv
+Duration: 00:21:21
+Container bitrate: 1686 kbps
+[Video] Codec: h264, Resolution: 720x540, Bitrate: n/a
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 192 kbps, Language: ita
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 192 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: BATMAN_BWRTBW/Batman_&_Robin_the_boy_wonder_Episodio_17_FINE_SERIELa_Tana_dei.mkv
+Duration: 00:21:22
+Container bitrate: 1757 kbps
+[Video] Codec: h264, Resolution: 720x540, Bitrate: n/a
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 192 kbps, Language: ita
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 192 kbps, Language: eng
+
