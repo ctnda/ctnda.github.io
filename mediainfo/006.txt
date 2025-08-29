@@ -1,0 +1,196 @@
+=== VIDEO FILE ===
+File: VideoMix006/Gli Erculoidi S01/Gli Erculoidi 1x00 First family of planet Quasar Specia.mp4
+Duration: 00:04:35
+Container bitrate: 1226 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1096 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 123 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix006/Gli Erculoidi S01/Gli Erculoidi 1x01&02 I pirati - L'arca di Sarko.mp4
+Duration: 00:20:59
+Container bitrate: 1291 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1156 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: ita
+
+=== VIDEO FILE ===
+File: VideoMix006/Gli Erculoidi S01/Gli Erculoidi 1x07&08 Gli uomini talpa - Dorgite rapito.mp4
+Duration: 00:20:14
+Container bitrate: 1289 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1155 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: ita
+
+=== VIDEO FILE ===
+File: VideoMix006/Gli Erculoidi S01/Gli Erculoidi 1x17&18 Gli uomini tempo - I cavalieri.mp4
+Duration: 00:19:53
+Container bitrate: 1288 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1154 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: ita
+
+=== VIDEO FILE ===
+File: VideoMix006/Gli Erculoidi S01/Gli Erculoidi 1x23&24 La missione - La regina Skorra.mp4
+Duration: 00:20:07
+Container bitrate: 1288 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1154 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: ita
+
+=== VIDEO FILE ===
+File: VideoMix006/Gli Erculoidi S01/Gli_Erculoidi_1x03&04_Gli_uomini_capsula_Gli_uomini_robot.mp4
+Duration: 00:20:13
+Container bitrate: 1290 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1156 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: ita
+
+=== VIDEO FILE ===
+File: VideoMix006/Gli Erculoidi S01/Gli_Erculoidi_1x05&06_Gli_uomini_pappagallo_Gli_invasori.mp4
+Duration: 00:20:57
+Container bitrate: 1290 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1155 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: ita
+
+=== VIDEO FILE ===
+File: VideoMix006/Gli Erculoidi S01/Gli_Erculoidi_1x09&10_The_spider_man_The_android_people_ENG.mp4
+Duration: 00:20:56
+Container bitrate: 1274 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1139 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix006/Gli Erculoidi S01/Gli_Erculoidi_1x11&12_Defeat_of_Ogron_Prisoners_of_the_Bubblemen.mp4
+Duration: 00:20:50
+Container bitrate: 1273 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1139 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix006/Gli Erculoidi S01/Gli_Erculoidi_1x13&14_Mekkano_Il_piccolo_mondo_del_terrore.mp4
+Duration: 00:20:55
+Container bitrate: 1287 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1153 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: ita
+
+=== VIDEO FILE ===
+File: VideoMix006/Gli Erculoidi S01/Gli_Erculoidi_1x15&16_I_gladiatori_di_Kyanite_Il_tempio_di_Tra.mp4
+Duration: 00:19:34
+Container bitrate: 1290 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1155 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: ita
+
+=== VIDEO FILE ===
+File: VideoMix006/Gli Erculoidi S01/Gli_Erculoidi_1x19&20_Gli_Zorbot_L'invasione_degli_uomini_elettrod.mp4
+Duration: 00:21:20
+Container bitrate: 1214 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1145 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 121 kbps, Language: ita
+
+=== VIDEO FILE ===
+File: VideoMix006/Gli Erculoidi S01/Gli_Erculoidi_1x21&22_Le_formiche_distruttrici_Il_mostro_della.mp4
+Duration: 00:20:52
+Container bitrate: 1289 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1155 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: ita
+
+=== VIDEO FILE ===
+File: VideoMix006/Gli Erculoidi S01/Gli_Erculoidi_1x25&26_I_lancieri_laser_Gli_uomini_senza_volto.mp4
+Duration: 00:19:45
+Container bitrate: 1289 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1155 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: ita
+
+=== VIDEO FILE ===
+File: VideoMix006/Gli Erculoidi S01/Gli_Erculoidi_1x27&28_I_Mutanti_Gli_alieni_di_cristallo.mp4
+Duration: 00:20:06
+Container bitrate: 1288 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1154 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: ita
+
+=== VIDEO FILE ===
+File: VideoMix006/Gli Erculoidi S01/Gli_Erculoidi_1x29&30_Il_ritorno_di_Sta_Lak_La_vendetta_dei.mp4
+Duration: 00:19:41
+Container bitrate: 1291 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1156 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: ita
+
+=== VIDEO FILE ===
+File: VideoMix006/Gli Erculoidi S01/Gli_Erculoidi_1x31&32_Il_sovrano_di_Repton_L'antidoto.mp4
+Duration: 00:19:53
+Container bitrate: 1290 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1156 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: ita
+
+=== VIDEO FILE ===
+File: VideoMix006/Gli Erculoidi S01/Gli_Erculoidi_1x33&34_Attacco_dallo_spazio_Il_ritorno_di_Torrak.mp4
+Duration: 00:19:52
+Container bitrate: 1288 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1154 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 127 kbps, Language: ita
+
+=== VIDEO FILE ===
+File: VideoMix006/Gli Erculoidi S01/Gli_Erculoidi_1x35_36_L'isola_dei_Graviti_Malak_e_le_scimmie.mp4
+Duration: 00:19:57
+Container bitrate: 1288 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1153 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: ita
+
+=== VIDEO FILE ===
+File: VideoMix006/Stripy/Stripy 01.avi
+Duration: 00:06:18
+Container bitrate: 1430 kbps
+[Video] Codec: mpeg4, Resolution: 384x288, Bitrate: 1292 kbps
+[Audio] Codec: mp3, Channels: 1, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix006/Stripy/Stripy 02.avi
+Duration: 00:06:16
+Container bitrate: 1547 kbps
+[Video] Codec: mpeg4, Resolution: 368x272, Bitrate: 1414 kbps
+[Audio] Codec: mp3, Channels: 1, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix006/Stripy/Stripy 03.avi
+Duration: 00:06:16
+Container bitrate: 1419 kbps
+[Video] Codec: mpeg4, Resolution: 384x288, Bitrate: 1285 kbps
+[Audio] Codec: mp3, Channels: 1, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix006/Stripy/Stripy 04.avi
+Duration: 00:06:15
+Container bitrate: 1430 kbps
+[Video] Codec: mpeg4, Resolution: 384x288, Bitrate: 1296 kbps
+[Audio] Codec: mp3, Channels: 1, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix006/Stripy/Stripy 05.avi
+Duration: 00:06:12
+Container bitrate: 1563 kbps
+[Video] Codec: mpeg4, Resolution: 384x288, Bitrate: 1425 kbps
+[Audio] Codec: mp3, Channels: 1, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix006/Stripy/Stripy 06.avi
+Duration: 00:06:22
+Container bitrate: 1523 kbps
+[Video] Codec: mpeg4, Resolution: 384x288, Bitrate: 1386 kbps
+[Audio] Codec: mp3, Channels: 1, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix006/Stripy/Stripy 07.avi
+Duration: 00:05:53
+Container bitrate: 1639 kbps
+[Video] Codec: mpeg4, Resolution: 384x288, Bitrate: 1501 kbps
+[Audio] Codec: mp3, Channels: 1, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix006/Stripy/Stripy 08.avi
+Duration: 00:06:05
+Container bitrate: 1593 kbps
+[Video] Codec: mpeg4, Resolution: 384x288, Bitrate: 1456 kbps
+[Audio] Codec: mp3, Channels: 1, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix006/Stripy/Stripy 09.avi
+Duration: 00:06:05
+Container bitrate: 1580 kbps
+[Video] Codec: mpeg4, Resolution: 384x288, Bitrate: 1442 kbps
+[Audio] Codec: mp3, Channels: 1, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: n/a
+
