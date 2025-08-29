@@ -270,7 +270,9 @@ $(document).ready(function () {
                     f.write(f"<td>{counts['video']}</td>")
                     f.write(f"<td>{counts['image']}</td>")
                     f.write(f"<td>{counts['other']}</td>")
-                    f.write(f"<td><a href='mediainfo/{txtfile}'>{txtfile}</a></td>")
+                    f.write(
+                        f"<td><a href='mediainfo/{txtfile}' target='_blank'>{txtfile}</a></td>"
+                    )
                     f.write("</tr>\n")
             f.write(l)
 
