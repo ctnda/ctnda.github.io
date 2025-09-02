@@ -78,7 +78,10 @@
       Papa.parse("data/dvdr.csv", {
         download: true,
         header: true,
-        delimiter: "\t",   // 👈 tab-delimited CSV
+        delimiter: "\t",
+        newline: "",
+        quoteChar: "",
+        escapeChar: "",
         complete: function(results) {
           results.data.forEach(function(row) {
             if (row["film.title"]) { // evita righe vuote
@@ -109,4 +112,15 @@
     });
     </script>
   </body>
+ 	<!--
+	CUR	469
+	IRRDUEN	265
+	LA	440-441
+	LCNDD	392
+	LS	617
+	LSLVC	421
+	NAV	548
+	UBPR	552
+	UDPSB	525
+	-->
 </html>
