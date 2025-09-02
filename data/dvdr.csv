@@ -1,10 +1,11 @@
 film.title	year	imdb	format	languages	NTSC/PAL	duration	source	info	N.	NEW
-"""The Robot"" International Scopitones Volume 2"	19??	noIMDb	DVD5	ENG/FRE/ESP	NTSC	0h51m45s	16mm	custom collection of International Scopitones	731	true
+¡Mátalo!	1970	tt0068024	DVD9	ITA/GER/ENG	PAL	1h29m15s	DVD	full DVD + extras	565	false
 ...4 ..3 ..2 ..1 ...morte	1967	tt0063859	DVD5	ITA/GER/ENG/FRE	PAL	1h30m37s	DVD + VHS	custom uncut mux	439	false
 ...e continuavano a mettere lo diavolo ne lo inferno	1973	tt0069661	DVD5	ITA	PAL	1h32m51s	VHS	none	14	false
 ...E divenne il più spietato bandito del sud	1967	tt0061775	DVD5	ITA	PAL	1h35m59s	DVD	custom uncut mux	485	false
 ...e si salvò solo l'aretino Pietro, con una mano avanti...	1972	tt0068153	DVD5	ITA	PAL	1h21m00s	VHS	none	19	false
 ...Se incontri Sartana prega per la tua morte	1968	tt0063568	DVD5	ITA	PAL	1h31m54s	DVD	custom mux	519	false
+"""The Robot"" International Scopitones Volume 2"	19??	noIMDb	DVD5	ENG/FRE/ESP	NTSC	0h51m45s	16mm	custom collection of International Scopitones	731	false
 1000 dollari sul nero	1966	tt0060697	DVD5	ITA	PAL	1h40m00s	DVD	full DVD + extras	680	false
 12 donne d'oro	1966	tt0059364	DVD5	ITA	PAL	1h27m55s	DVD + Super8	custom mux	0	false
 24 ore... non un minuto di più	1973	tt0178538	DVD5	ITA	PAL	1h00m40s	Telecine	one missing reel	586	false
@@ -19,10 +20,12 @@ film.title	year	imdb	format	languages	NTSC/PAL	duration	source	info	N.	NEW
 99 donne	1969	tt0063977	DVD5	ITA	PAL	1h32m12s	Telecine	none	0	false
 A pugni nudi	1974	tt0071092	DVD5	ITA/ENGsub	PAL	1h31m37s	Telecine	none	514	false
 Abbandonati nello spazio	1969	tt0064639	DVD5	ITA/ENGsub	PAL	2h03m41s	DVD	full DVD	398	false
+Aç kartallar (Starving eagles; aka Turkish Bruce Lee)	1984	tt0441113	DVD5	TUR/ENGsub	PAL	1h14m42s	VHS	new VHS2DVD transfer	254	false
 Acid – delirio dei sensi	1968	tt0062634	DVD5	ITA	PAL	1h32m23s	VHS	10mins ca. blank tape	0	false
 Addio Alexandra	1969	tt0063986	DVD5	ITA	PAL	1h52m49s	Telecine	7mins ca. blank tape	234	false
 Africa nuda, Africa violenta	1974	tt0071106	DVD5	ITA	PAL	1h13m21s	DTT	none	0	false
 Afrika	1973	tt0071107	DVD5	ITA/ENGsub	PAL	1h28m23s	Telecine	none	278	false
+After Last Season	2009	tt1196334	DVD5	ENG	NTSC	1h30m29s	DVD	full DVD + extras	750	false
 Agente 3S3, massacro al sole	1966	tt0060075	DVD5	ITA	PAL	1h58m32s	DVD + Telecine	custom uncut mux	489	false
 Agi Murad il diavolo bianco	1959	tt0052538	DVD9	ITA/FRE	PAL	1h28m12s	DVD	full DVD	493	false
 AIDS – Il pericolo strisciante	1985	tt0300900	DVD5	ITA	PAL	1h27m14s	VHS	none	319	false
@@ -34,16 +37,16 @@ Alice in Wonderland	1949	tt0042189	DVD5	ENG	PAL	---	VHS	none	60	false
 Alien 2 - Sulla Terra	1980	tt0078749	DVD5	ITA/ENG	PAL	1h21m03s	DVD	full DVD + extras	643	false
 Alien dagli abissi	1989	tt0096785	DVD5	ITA/ENG	NTSC	1h31m23s	DVD	full DVD + extras	572	false
 Allegri becchini... arriva Trinità	1972	tt0244384	DVD5	ITA	PAL	1h25m04s	TV	none	256	false
-Altin Çocuk	1966	tt0413678	DVD5	TUR/ENGsub	PAL	1h25m40s	DVD	full DVD + extras	720	true
+Altin Çocuk	1966	tt0413678	DVD5	TUR/ENGsub	PAL	1h25m40s	DVD	full DVD + extras	720	false
 Altin Çocuk (Turkish James Bond)	1966	tt0413678	DVD5	TUR/ENGsub	PAL	1h25m40s	DVD	full DVD + extras	0	false
 Amazzoni – Donne d’amore e di guerra	1973	tt0069700	DVD5	ITA	PAL	1h25m50s	TV	none	376	false
-American Magus	2002	tt0309277	DVD5	ENG	PAL	1h34m00s	VHS	none	730	true
+American Magus	2002	tt0309277	DVD5	ENG	PAL	1h34m00s	VHS	none	730	false
 American risciò	1990	tt0096806	DVD5	ITA	PAL	1h32m13s	VHS	none	246	false
 Amiche andiamo alla festa	1972	tt0213448	DVD5	ITA	PAL	---	TV	none	107	false
 Amici miei	1975	tt0072637	BD25	ITA	PAL	1h53m22s	Bluray	full BR	455	false
 Amici miei	1975	tt0072637	DVD9	ITA	PAL	2h07m29s	DVD	full DVD	458	false
-Amici miei - Atto III°	1985	tt0088710	BD25	ITA	PAL	1h53m47s	Bluray	full BR	457	false
 Amici miei - Atto II°	1982	tt0083549	BD25	ITA	PAL	2h07m00s	Bluray	full BR	456	false
+Amici miei - Atto III°	1985	tt0088710	BD25	ITA	PAL	1h53m47s	Bluray	full BR	457	false
 Amici miei in campagna	1972	tt0069418	DVD5	ITA	PAL	1h29m40s	VHS	none	193	false
 Amico mio... frega tu che frego io	1973	tt0247165	DVD5	ITA	PAL	1h28m41s	DTT	none	594	false
 Ammazzali tutti e torna solo	1968	tt0062659	DVD9	ITA/ENG/ESP	PAL	1h36m07s	DVD	full DVD + extras	0	false
@@ -59,14 +62,13 @@ Ator il guerriero di ferro	1987	tt0093276	DVD9	ITA/ENG/ENGsub	PAL	1h23m53s	DVD	f
 Atragon	1963	tt0057215	DVD5	ITA/JAP	PAL	1h31m38s	DVD	[ASIA] full DVD	538	false
 Attacco alla base spaziale US	1954	tt0047033	DVD5	ITA/ITAsub	PAL	1h19m06s	DVD	full DVD	328	false
 Avventura sul Mar Nero	1972	tt0157336	DVD5	ITA	PAL	1h46m57s	TV	none	466	false
-Aç kartallar (Starving eagles; aka Turkish Bruce Lee)	1984	tt0441113	DVD5	TUR/ENGsub	PAL	1h14m42s	VHS	new VHS2DVD transfer	254	false
 Baby love	1979	tt0078819	DVD5	ITA	PAL	1h30m59s	Telecine	none	13	false
 Badi (Turkish E.T.)	1983	tt0334917	DVD5	TUR/ITAsub	PAL	---	TV	TD#01	108	false
 Bajrangbali	1976	tt0157845	DVD9	HIN/ENGsub	NTSC	3h09m47s	DVD	[ASIA] full DVD	581	false
 Bandidos	1967	tt0062706	DVD5	ITA/ENG	PAL	1h30m57s	DVD	full DVD + extras	521	false
 Banditi a Milano	1968	tt0062707	DVD5	ITA/ENG	PAL	1h34m30s	Telecine	none	516	false
 Baracca e burattini	1954	tt0046751	DVD5	ITA	PAL	1h15m21s	VHS	none	639	false
-Baracca e burattini	1954	tt0046751	DVD5	ITA	PAL	1h14m52s	VHS	none	667	true
+Baracca e burattini	1954	tt0046751	DVD5	ITA	PAL	1h14m52s	VHS	none	667	false
 Barbagia (La società del malessere)	1969	tt0064069	DVD5	ITA/ENG	PAL	1h34m05s	VHS	custom uncut composite	625	false
 Battaglie negli spazi stellari	1978	tt0075881	DVD5	ITA	PAL	---	VHS	none	85	false
 Batwoman - L'invincibile superdonna	1968	tt0235608	DVD5	ITA	PAL	1h10m21s	DVD	none	117	false
@@ -91,19 +93,19 @@ Bruce Lee supercampione	1976	tt0077850	DVD5	ITA/ENG	PAL	1h22m19s	DVD	[ASIA] full
 Bruka Queen of Evila	1973	tt0072868	DVD5	ZH/ENGhardsub	NTSC	1h36m30s	VHS	[ASIA]	0	false
 Bruka: Queen of Evil	1973	tt1710543	DVD5	ZH/ENGhardsub	NTSC	1h36m30s	VHS	[ASIA] none	0	false
 Buona parte di Paolina	1973	tt0069830	DVD5	ITA	PAL	1h22m10s	Telecine	none	78	false
-C'era una volta Pollicino	1972	tt0188140	DVD5	ITA/FRE	PAL	1h12m23s	DVD	full DVD + extras	689	true
-C'era una volta questo pazzo, pazzo, pazzo West	1973	tt0150011	DVD5	ITA	PAL	1h17m43s	DVD	custom mux	431	false
 C'è Sartana... vendi la pistola e comprati la bara!	1970	tt0065509	DVD9	ITA/FRE	PAL	1h28m22s	DVD	full DVD + extras	507	false
+C'era una volta Pollicino	1972	tt0188140	DVD5	ITA/FRE	PAL	1h12m23s	DVD	full DVD + extras	689	false
+C'era una volta questo pazzo, pazzo, pazzo West	1973	tt0150011	DVD5	ITA	PAL	1h17m43s	DVD	custom mux	431	false
 Canne mozze	1977	tt0159329	DVD5	ITA/ENGsub	PAL	1h26m48s	VHS	B.VANI watermark	324	false
 Canterbury proibito	1972	tt0068335	DVD5	ITA	PAL	1h36m00s	VHS	none	17	false
-Caperucita y Pulgarcito contra los monstruos	1962	tt0053694	DVD5	ESP/ENGsub	NTSC	1h21m17s	DVD	full DVD + extras	710	true
+Caperucita y Pulgarcito contra los monstruos	1962	tt0053694	DVD5	ESP/ENGsub	NTSC	1h21m17s	DVD	full DVD + extras	710	false
 Capitan Rogers nel 25° secolo	1979	tt0077278	DVD5	ITA/ENG	PAL	1h24m54s	DVD	full DVD + extras	649	false
 Cappuccetto Rosso (La caperucita roja)	1960	tt0053693	DVD5	ITA	PAL	0h50m35s	VHS	none	187	false
-Cappuccetto Rosso (La caperucita roja)	1960	tt0053693	DVD5	ITA	PAL	1h24m43s	VHS	uncut	709	true
+Cappuccetto Rosso (La caperucita roja)	1960	tt0053693	DVD5	ITA	PAL	1h24m43s	VHS	uncut	709	false
 Caribbean Basterds (Caraibi e bastardi)	2010	tt1455613	DVD5	ITA/ENG	PAL	1h36m06s	DVD	none	533	false
 Carioca tigre	1976	tt0160115	DVD5	ITA	PAL	---	Telecine	none	88	false
 Casa dell'amore...la polizia interviene	1978	tt0074289	DVD5	ITA	PAL	---	VHS	none	142	false
-Cash? Cash!	1967	tt0128982	DVD5	ITA	PAL	1h22m59s	Telecine	none	655	true
+Cash? Cash!	1967	tt0128982	DVD5	ITA	PAL	1h22m59s	Telecine	none	655	false
 Cassiodoro il più duro del pretorio	1976	tt0074293	DVD5	ITA	PAL	---	Telecine	none	83	false
 Casus Kiran (Turkish Spy Smasher)	1968	tt0334987	DVD5	TUR/ENGsub	PAL	---	DVD	none	110	false
 Cat's	1984	NOimdb	DVD5	ITA	PAL	1h16m12s	Master	none	150	false
@@ -116,7 +118,7 @@ Challenge of the Tiger	1980	tt0077645	DVD9	ENG	NTSC	1h27m40s	DVD	[ASIA] full DVD
 Champagne e...fagioli	1980	tt0122428	DVD5	ITA	PAL	---	TV	none	65	false
 Che botte ragazzi!	1975	tt0072084	DVD5	ITA	PAL	1h27m40s	DVD	full DVD; uncut	416	false
 Che c'entriamo noi con la rivoluzione?	1972	tt0069547	DVD5	ITA	PAL	1h36m29s	TV	none	0	false
-Che carambole... ragazzi!!!...	1975	tt0451475	DVD5	ITA	PAL	1h21m01s	TV	none	698	true
+Che carambole... ragazzi!!!...	1975	tt0451475	DVD5	ITA	PAL	1h21m01s	TV	none	698	false
 Che notte quella notte!	1977	tt0162235	DVD5	ITA	PAL	1h35m02s	VHS	none	549	false
 Chiamate 6969: taxi per signora	1981	tt0176410	DVD5	ITA	PAL	1h17m00s	VHS	none	0	false
 Chiavi in mano	1996	tt0156397	DVD5	ITA	PAL	---	DTT	none	54	false
@@ -124,18 +126,19 @@ Chicken Park	1994	tt0167825	DVD5	ITA/ENG	PAL	---	DVD	custom ITA/ENG mux from ENG
 Chiedi perdono a Dio...non a me	1968	tt0162244	DVD5	ITA/ENG	PAL	---	DVD	full DVD	325	false
 Ciao Gulliver	1970	tt0165169	DVD5	ITA	PAL	2h14m03s	Telecine	24mins ca. blank tape	300	false
 Cicciolina amore mio	1979	tt0078971	DVD5	ITA	PAL	1h23m09s	DVD	full DVD + extras	622	false
+Çilgin kiz ve üç süper adam (3 Supermen and Mad Girl)	1973	tt0310293	DVD5	TUR	PAL	1h05m14s	VHS	new VHS2DVD transfer	0	false
 Cin cin... cianuro	1968	tt0062806	DVD5	ITA	PAL	---	VHS	none	235	false
 Cinderella nel regno del sesso	1977	tt0075849	DVD5	ITA	PAL	1h29m56s	DVD	full DVD	308	false
 Cinque dita di violenza	1972	tt0062659	DVD5	ITA	PAL	1h45m02s	DVD	[ASIA] full DVD	584	false
-Compagne nude	1977	tt0284977	DVD5	ITA	PAL	1h25m00s	VHS	none	747	false
 Colpi di luce	1985	tt0088940	DVD5	ITA/ENG	PAL	1h25m21s	DVD	full DVD + extras	628	false
-Colpo di stato	1969	tt0166135	DVD5	ITA	PAL	1h40m15s	Telecine	none	669	true
+Colpo di stato	1969	tt0166135	DVD5	ITA	PAL	1h40m15s	Telecine	none	669	false
 Colpo rovente	1970	tt0154344	DVD5	ITA	PAL	1h54m23s	Telecine	custom uncut	64	false
 Colpo rovente	1970	tt0154344	DVD5	ITA	PAL	1h48m53s	Telecine	original uncut	608	false
 Come fu che Masuccio Salernitano, fuggendo con le brache...	1972	tt0069908	DVD5	ITA	PAL	1h21m40s	VHS	none	18	false
 Come rubare la corona d'Inghilterra aka Argoman	1967	tt0061500	DVD5	ITA/ENG/GER	PAL	1h32m07s	DTT	uncut composite	21	false
 Come rubare la corona d'Inghilterra aka Argoman	1967	tt0061500	DVD5	ITA/ENG/GER/FRE	PAL	1h33m27s	DVD	uncut composite from Colorado DVD	338	false
 Commandos	1968	tt0062819	DVD5	ITA	PAL	1h54m07s	DVD	full DVD	631	false
+Compagne nude	1977	tt0284977	DVD5	ITA	PAL	1h25m00s	VHS	none	747	false
 Computer Superman	1977	tt3263048	DVD5	THAI	PAL	1h44m04s	DVD	none	0	false
 Computer Visions	1991	tt0103996	DVD5	ENG	NTSC	59m37s	VHS	none	0	false
 Confessioni segrete di un convento di clausura	1972	tt0068406	DVD5	ITA	PAL	1h33m00s	VHS	none	16	false
@@ -175,38 +178,38 @@ Devil Woman	1970	tt0072868	DVD5	ENG	NTSC	1h35m31s	VHS	[ASIA] none	0	false
 Diamanti sporchi di sangue	1977	tt0075940	DVD5	ITA/ENG	PAL	1h38m08s	DVD	full Cinekult DVD	606	false
 Dieci bianchi uccisi da un piccolo indiano	1974	tt0073519	DVD5	ITA	PAL	1h21m23s	VHS	none	621	false
 Difesa Alekhine – Scacco con la morte	1989	NOimdb	DVD5	ITA	PAL	1h28m33s	VHS	none	141	false
-Dimensione violenza	1983	tt0168660	DVD5	ITA	PAL	1h41m19s	Telecine	none	684	true
+Dimensione violenza	1983	tt0168660	DVD5	ITA	PAL	1h41m19s	Telecine	none	684	false
 Dinasty – L’urlo della tigre dei Ming	1977	tt0165742	DVD5	ITA	PAL	1h25m37s	VHS	[ASIA]	374	false
 Dinni e la Normalina, ovvero la videopolizia psichiatrica...	1978	tt1161005	DVD5	ITA	PAL	---	TV	MPEG2 file	0	false
 Dio perdoni la mia pistola	1969	tt0126263	DVD5	ITA	PAL	1h29m47s	TV	none	375	false
 Dio, sei proprio un padreterno! aka Il suo nome faceva tremare... Interpol in allarme!	1972	tt0069979	DVD5	ITA	PAL	1h35m48s	DTT	none	0	false
 Dipingi di giallo il tuo poliziotto	1970	tt0205871	DVD5	ITA	PAL	1h12m23s	Telecine	none	0	false
 Dirai: ho ucciso per legittima difesa	1971	tt0067615	DVD5	ITA	PAL	1h26m16s	DTT	none	0	false
-Dirty Duck	1974	tt0072882	DVD5	ENG	NTSC	1h10m00s	DVD	full DVD + extras	666	true
+Dirty Duck	1974	tt0072882	DVD5	ENG	NTSC	1h10m00s	DVD	full DVD + extras	666	false
 Disco delirio	1979	tt0077439	DVD5	ITA	PAL	1h29m34s	TV	none	151	false
-Dixie Dynamite e Patsy Tritolo	1976	tt0074415	DVD5	ITA	PAL	1h24m50s	VHS	none	663	true
+Dixie Dynamite e Patsy Tritolo	1976	tt0074415	DVD5	ITA	PAL	1h24m50s	VHS	none	663	false
 Django 2 - Il grande ritorno	1987	tt0093113	DVD9	ITA/GER	PAL	1h36m15s	DVD	full uncut DVD + extras	426	false
 Doctor Satán	1966	tt0178391	DVD5	ESP/ENGsub	NTSC	---	VHS	none	203	false
 Doctor Satán y la magia negra	1968	tt0126877	DVD5	ESP/ENGsub	NTSC	1h34m03s	VHS	uncut	204	false
 Domani passo a salutare la tua vedova... parola di Epidemia	1972	tt0072327	DVD5	ITA/ENG	PAL	1h26m31s	DVD	none	513	false
 Donne e magia con satanasso in compagnia	1973	tt0069997	DVD5	ITA	PAL	1h29m46s	TV	none	3	false
-Double Down	2005	tt1561457	DVD5	ENG	NTSC	1h33m27s	DVD	none	715	true
-Dove non è peccato	1970	tt0169795	DVD5	ITA	PAL	1h38m43s	Telecine	none	693	true
+Double Down	2005	tt1561457	DVD5	ENG	NTSC	1h33m27s	DVD	none	715	false
+Dove non è peccato	1970	tt0169795	DVD5	ITA	PAL	1h38m43s	Telecine	none	693	false
 Dr. Strange	1978	tt0077469	DVD5	ENG/ENGsub	NTSC	1h33m49s	DVD	full DVD	563	false
-Dragon Ball: Fight Son Goku, Win Son Goku (aka Korean Dragon Ball)	1990	tt1608208	DVD5	KOR/ENGsub	NTSC	1h45m38s	DVD	none	685	true
+Dragon Ball: Fight Son Goku, Win Son Goku (aka Korean Dragon Ball)	1990	tt1608208	DVD5	KOR/ENGsub	NTSC	1h45m38s	DVD	none	685	false
 Dragon Ball: Ssawora Son Goku, Igyeora Son Goku (Korean Dragon Ball)	1990	tt1608208	DVD5	KOR	PAL	1h45m38s	VHS	[ASIA]	126	false
 Dragon Ball: The magic begins	1991	tt0122050	DVD5	ITA/ENG/ITAsub	PAL	1h25m38s	DVD	full DVD	215	false
 Dreamland: La terra dei sogni	2011	tt1832334	DVD5	ITA	PAL	1h33m45s	DVD	full DVD; NOT FOR TRADE!	292	false
 Droids: The Pirates and the Prince	1997	tt0940894	DVD5	ENG/ENGsub	NTSC	1h24m40s	DVD	feature film from series episodes	529	false
 Droids: Treasure of the Hidden Planet	1997	tt0952689	DVD5	ENG/ENGsub	NTSC	1h28m11s	DVD	feature film from series episodes	530	false
-Dropout	1970	tt0169806	DVD5	ITA	PAL	1h47m54s	Telecine	none	686	true
+Dropout	1970	tt0169806	DVD5	ITA	PAL	1h47m54s	Telecine	none	686	false
 Due Magnum .38 per una città di carogne	1975	tt0169810	DVD5	ITA	PAL	1h27m29s	TV	none	0	false
 Due occhi per uccidere	1968	tt0169819	DVD5	ITA	PAL	---	Telecine	one missing reel	32	false
 Due vite violente (Insan avcisi)	1979	tt0184615	DVD5	ITA	PAL	1h19m00s	VHS	none	160	false
 Due volte Giuda	1968	tt0062915	DVD5	ITA/ITA 5.1	PAL	1h32m27s	DVD	full DVD + extras	635	false
-Dyane	1984	tt0205030	DVD5	ITA	PAL	1h47m25s	VHS	20mins ca. blank tape	294	false
 Dünyayi Kurtaran Adam (Turkish Star Wars)	1982	tt0182060	DVD5	TUR/ENGsub	PAL	1h30m41s	VHS	none	29	false
 Dünyayi Kurtaran Adam (Turkish Star Wars)	1982	tt0182060	DVD5	TUR/ENGsub	PAL	1h32m38s	VHS	uncut; new VHS2DVD transfer	253	false
+Dyane	1984	tt0205030	DVD5	ITA	PAL	1h47m25s	VHS	20mins ca. blank tape	294	false
 E Dio disse a Caino...	1970	tt0064273	DVD9	ITA/GER	PAL	1h36m01s	DVD	full DVD + extras	511	false
 E no nôn	198?	NOimdb	DVD5	ITA	PAL	---	Super8	none	55	false
 E non liberarci dal male	1971	tt0066040	DVD5	FRE/ENGsub	PAL	1h42m02s	DVD	full DVD + extras	0	false
@@ -221,7 +224,7 @@ El látigo	1978	tt0284281	DVD5	ESP/ENGsub	NTSC	---	VHS	none	199	false
 El látigo contra las momias asesinas	1980	tt0341439	DVD5	ESP/ENGsub	PAL	1h20m11s	VHS	none	201	false
 El látigo contra Satanás	1979	tt0284280	DVD5	ESP/ENGsub	PAL	1h20m38s	VHS	none	200	false
 El monje loco	1984	tt0359708	DVD5	ESP/ENGsub	NTSC	1h16m30s	VHS	none	0	false
-El tesoro de Moctezuma	1968	tt0208505	DVD5	ESP	NTSC	1h17m45s	DVD	full DVD + extras	678	true
+El tesoro de Moctezuma	1968	tt0208505	DVD5	ESP	NTSC	1h17m45s	DVD	full DVD + extras	678	false
 En büyük yumruk (The biggest punch)	1983	tt0416717	DVD5	TUR/ENGsub	PAL	1h16m56s	VHS	new VHS2DVD transfer	257	false
 Equinozio	1971	tt0171272	DVD5	ITA/FREsub	PAL	1h31m24s	Telecine	none	94	false
 Ercole, Sansone, Maciste e Ursus gli invincibili	1964	tt0059672	DVD9	ITA/FRE	PAL	1h33m59s	DVD	full DVD + extras	0	false
@@ -234,19 +237,19 @@ Ewoks: Tales from the Endor Woods	2004	tt1117537	DVD5	ENG/ENGsub	NTSC	1h28m48s	D
 Ewoks: The Haunted Village	1997	tt1117520	DVD5	ENG/ENGsub	NTSC	1h26m45s	DVD	feature film from series episodes	531	false
 Fammi male e coprimi di violenza	1972	tt0326624	DVD5	ITA	PAL	1h24m00s	Super8	none	347	false
 Faster, Pussycat! Kill! Kill!	1965	tt0059170	DVD5	ITA/ENG	PAL	1h19m53s	Bluray	custom mux from Bluray	554	false
-Fate la nanna coscine di pollo	1977	tt0204814	DVD5	ITA	PAL	1h28m52s	Telecine	none	656	true
-Fateful Findings	2013	tt2332623	DVD5	ENG	NTSC	1h40m02s	DVD	none	717	true
+Fate la nanna coscine di pollo	1977	tt0204814	DVD5	ITA	PAL	1h28m52s	Telecine	none	656	false
+Fateful Findings	2013	tt2332623	DVD5	ENG	NTSC	1h40m02s	DVD	none	717	false
 Fatevi vivi, la polizia non interverrà	1974	tt0195699	DVD5	ITA/ENG	PAL	1h39m34s	VHS	custom mux	369	false
 Fermi tutti! È una rapina	1975	tt0208956	DVD5	ITA	PAL	1h32m58s	Telecine	none	409	false
 Five Elements Ninja	1982	tt0084921	DVD5	ENG/ZH	NTSC	1h43m15s	DVD	full DVD + extras	721	false
-Flash Gordon (ep. 01-06)	1936	tt0027623	DVD5	ITA/ENG/	PAL	---	DVD	full DVD	414	false
-Flash Gordon (ep. 07-13)	1936	tt0027623	DVD5	ITA/ENG/	PAL	---	DVD	full DVD	415	false
 Flash Gordon - Alla conquista di Marte (ep. 01-07)	1938	tt0030138	DVD9	ITA/ENG/	PAL	---	DVD	full DVD	450	false
 Flash Gordon - Alla conquista di Marte (ep. 08-15)	1938	tt0030138	DVD9	ITA/ENG/	PAL	---	DVD	full DVD	451	false
 Flash Gordon - I conquistatori dell'Universo (ep. 01-06)	1940	tt0032475	DVD9	ITA/ENG/	PAL	---	DVD	full DVD	452	false
 Flash Gordon - I conquistatori dell'Universo (ep. 07-12)	1940	tt0032475	DVD9	ITA/ENG/	PAL	---	DVD	full DVD	453	false
+Flash Gordon (ep. 01-06)	1936	tt0027623	DVD5	ITA/ENG/	PAL	---	DVD	full DVD	414	false
+Flash Gordon (ep. 07-13)	1936	tt0027623	DVD5	ITA/ENG/	PAL	---	DVD	full DVD	415	false
 Flashman	1967	tt0061676	DVD5	ITA/ENG/SWEsub	PAL	1h29m00s	DVD	none	46	false
-Foodfight!	2012	tt0249516	DVD5	ENG	NTSC	1h31m10s	DVD	none	714	true
+Foodfight!	2012	tt0249516	DVD5	ENG	NTSC	1h31m10s	DVD	none	714	false
 For Y'ur Height Only	1981	tt0200642	DVD9	ENG	NTSC	1h26m58s	DVD	[ASIA] full DVD	505	false
 Foxy Brown	1974	tt0071517	DVD5	ITA/ENG	PAL	1h27m55s	DVD	full DVD + extras	600	false
 Fra' Tazio da Velletri	1973	tt0071526	DVD5	ITA	PAL	---	VHS	none	5	false
@@ -279,29 +282,35 @@ Gli fumavano le Colt... lo chiamavano Camposanto	1971	tt0067142	DVD5	ITA/ENGsub	
 Gli orrori del museo nero	1959	tt0052901	DVD5	ITA/ENG	PAL	1h18m13s	DVD	full DVD + extras	602	false
 Gli specialisti	1969	tt0065026	DVD5	ITA/ENGsub	NTSC	1h38m56s	DVD	none	329	false
 Gli uccisori	1977	tt0075362	DVD5	ITA	PAL	1h25m55s	VHS	none	467	false
-Gli uccisori	1977	tt0075362	DVD5	ITA	PAL	1h26m00s	Telecine	restored version	697	true
+Gli uccisori	1977	tt0075362	DVD5	ITA	PAL	1h26m00s	Telecine	restored version	697	false
 Gli uomini di Marte	1976	tt1948043	DVD5	ITA	PAL	1h22m03s	VHS	[ASIA]	1	false
 Godzilla - Ai confini della realtà	1973	tt0070122	DVD5	ITA	PAL	1h18m11s	DVD	[ASIA] full DVD	354	false
-Godzilla contro i giganti	1972	tt0068371	DVD5	ITA	PAL	1h25m19s	DVD	[ASIA] full DVD	352	false
-Godzilla contro i robot	1974	tt0071565	DVD9	ITA	PAL	1h20m47s	DVD	[ASIA] full DVD	476	false
 Godzilla – Distruggete Kong! La terra è in pericolo	1975	tt0073373	DVD5	ITA	PAL	1h18m36s	DVD	[ASIA] full DVD	351	false
 Godzilla – Furia di mostri	1971	tt0067148	DVD5	ITA	PAL	1h21m32s	DVD	[ASIA] full DVD	350	false
+Godzilla contro i giganti	1972	tt0068371	DVD5	ITA	PAL	1h25m19s	DVD	[ASIA] full DVD	352	false
+Godzilla contro i robot	1974	tt0071565	DVD9	ITA	PAL	1h20m47s	DVD	[ASIA] full DVD	476	false
 Goldface il fantastico Superman	1967	tt0064375	DVD5	ITA	PAL	---	Telecine	none	53	false
 Goldface il fantastico Superman	1967	tt0064375	DVD5	ITA	PAL	1h29m39s	DVD + Telecine	custom mux	380	false
 Grida di estasi / Sesso delirio	1973	tt2337879	DVD5	ITA/ENGsub	NTSC	1h27m13s	VHS	none	0	false
 Guerra spaziale	1977	tt0076902	DVD5	ITA	PAL	1h30m19s	DVD	[ASIA] full DVD + extras	495	false
 Gulliver	1979	tt0074596	DVD5	ESP	NTSC	1h39m17s	VHS	none	0	false
 Hallo Ward!...E furono vacanze in sangue	1968	tt0063232	DVD5	ITA	PAL	1h28m54s	Telecine	none	181	false
+Häxan - La stregoneria attraverso i secoli	192	tt0013257	DVD9	SWE/ENG/ENGsub	NTSC	1h45m08s + 1h16m38s	DVD	full Criterion DVD	459	false
 Heaven and earth magic	1962	tt0056060	DVD5	ENG	NTSC	1h32m30s	VHS	30mins ca. blank tape	0	false
 Hobitit	1993	tt0441925	DVD5	FIN/ENGsub	PAL	---	TV	none	226	false
 Hong Kil-dong	1986	tt0254387	DVD5	KOR/ENGsub	PAL	1h44m32s	DVD	[ASIA]	494	false
-Häxan - La stregoneria attraverso i secoli	192	tt0013257	DVD9	SWE/ENG/ENGsub	NTSC	1h45m08s + 1h16m38s	DVD	full Criterion DVD	459	false
 I 12 medaglioni	1970	tt0192601	DVD9	ITA/ITA5.1	PAL	1h41m29s	DVD	[ASIA] full DVD + extras	0	false
 I 13 figli del drago verde	1970	tt0070684	DVD9	ITA/ITA5.1	PAL	2h01m14s	DVD	[ASIA] full DVD + extras	0	false
 I 7 diavoli del Tai-Kik	1971	tt1289845	DVD5	ITA	PAL	1h26m11s	VHS + TV	[ASIA] custom uncut mux	482	false
-I Am Here... Now	2009	tt1560653	DVD5	ENG	NTSC	1h26m21s	DVD	none	716	true
+I Am Here... Now	2009	tt1560653	DVD5	ENG	NTSC	1h26m21s	DVD	none	716	false
+La meravigliosa favola di Biancaneve	1971	tt0151886	DVD5	ITA	PAL	0h49m43s	VHS	none	752	false
+La meravigliosa favola di Cenerentola	1971	tt0151266	DVD5	ITA	PAL	0h57m13s	VHS	none	752	false
 I barbari	1987	tt0092615	DVD9	ITA/ENG	PAL	1h23m29s	DVD	full DVD + extras	390	false
+Batouk - Africa che muore	1967	tt0218026	DVD5	ITA	PAL	1h10m19s	DVD	full DVD	755	false
+Odyssey Into the Mind’s Eye	1996	tt0167318	DVD5	ENG	NTSC	1h06m10s	DVD	full DVD	756	false
 I bastardi	1968	tt0062712	DVD5	ITA/ENG	PAL	1h27m41s	TV	uncut	611	false
+Maschi e femmine	1972	tt0185465	DVD5	ITA	PAL	1h38m42s	Telecine	ca. 10 mins blank tape	754	false
+Zagor: Kara Bela	1971	tt0320785	DVD5	TUR/ITAsub/ENGsub	PAL	1h14m33s	DVD	full DVD + extras	753	false
 I contrabbandieri di Santa Lucia	1979	tt0078995	DVD5	ITA	PAL	1h28m12s	DVD	full DVD	550	false
 I criminali della galassia	1966	tt0059914	DVD5	ITA	PAL	1h28m30s	DVD	full DVD	417	false
 I diafanoidi vengono da Marte	1966	tt0059101	DVD5	ITA/ITAsub	PAL	1h31m36s	DVD	full DVD	418	false
@@ -313,15 +322,15 @@ I misteriani	1957	tt0050251	DVD5	ITA	PAL	1h24m56s	DVD	full DVD + extras	579	fals
 I nuvoloni	1963	noIMDb	DVD5	ITA	PAL	1h21m37s	Telecine	none	245	false
 I piaceri delle demoni	1970	tt0218904	DVD5	ITA/ENGsub	PAL	1h22m34s	DVD	full DVD	320	false
 I ragazzi di Torino sognano Tokyo e vanno a Berlino	1985	tt0202540	DVD5	ITA	PAL	---	VHS	none	81	false
-I satelliti contro la Terra	1957	tt0049809	DVD5	ITA/JAP/ITAsub	PAL	1h10m18s	DVD	full DVD + extras	673	true
+I satelliti contro la Terra	1957	tt0049809	DVD5	ITA/JAP/ITAsub	PAL	1h10m18s	DVD	full DVD + extras	673	false
 I segreti delle città più nude del mondo	1971	tt0203870	DVD5	ITA/ENGsub	PAL	1h28m42s	VHS	none	10	false
 I sette nani alla riscossa	1951	tt0044023	DVD5	ITA	PAL	1h21m25s	DVD	none	167	false
 I sette navigatori dello spazio	1962	tt0056352	DVD5	ITA/RUS/ITAsubs	PAL	1h18m35s	DVD	full DVD + extras	578	false
 I sette navigatori dello spazio	1962	tt0056352	DVD5	ITA/ITAsub	PAL	1h18m34s	DVD	full DVD + extras	0	false
 I tre che sconvolsero il West (Vado, vedo e sparo)	1968	tt0063754	DVD5	ITA	PAL	1h31m19s	DVD	full DVD	0	false
 I tre magnifici del karatè	1973	tt1053337	DVD5	ITA	PAL	1h13m31s	VHS	[ASIA] + trailer	314	false
-I vizi segreti degli Italiani quando credono di non essere visti	1987	noIMDb	DVD5	ITA	PAL	1h22m39s	VHS	none	676	true
-I vizi segreti della donna nel mondo	1972	tt0216378	DVD5	ITA	PAL	1h38m41s	Telecine	none	682	true
+I vizi segreti degli Italiani quando credono di non essere visti	1987	noIMDb	DVD5	ITA	PAL	1h22m39s	VHS	none	676	false
+I vizi segreti della donna nel mondo	1972	tt0216378	DVD5	ITA	PAL	1h38m41s	Telecine	none	682	false
 Il banchetto di Platone	1989	tt0344893	DVD5	ITA/ENGsub	PAL	---	DVD	none	70	false
 Il boia scarlatto	1965	tt0058983	DVD9	ITA/FRE	PAL	1h222m50s	DVD	full DVD + extras	0	false
 Il bosco 1 (25th anniversary ed.)	1988	tt0097307	DVD5	ITA	PAL	1h23m52s + 1h22m09s	DVD	Disc 01	153	false
@@ -333,8 +342,8 @@ Il decamerone proibito	1972	tt0068465	DVD5	ITA	PAL	1h25m29s	VHS	none	280	false
 Il demonio nel cervello	1976	tt0204257	DVD5	ITA	PAL	1h19m32s	Telecine	none	24	false
 Il diario segreto di una minorenne	1968	tt0168651	DVD5	ITA	PAL	1h19m12s	Telecine	none	164	false
 Il diavolo nel cervello	1972	tt0068484	DVD5	ITA	PAL	1h39m46s	TV	none	610	false
-Il dio chiamato Dorian	1970	tt0065656	DVD5	ITA/ENG	PAL	1h37m04s	DVD	full DVD + extras	719	true
-Il dio sotto la pelle	1974	tt0168662	DVD5	ITA	PAL	1h35m48s	Telecine	none	692	true
+Il dio chiamato Dorian	1970	tt0065656	DVD5	ITA/ENG	PAL	1h37m04s	DVD	full DVD + extras	719	false
+Il dio sotto la pelle	1974	tt0168662	DVD5	ITA	PAL	1h35m48s	Telecine	none	692	false
 Il fango verde	1968	tt0064393	DVD5	ITA/ENG	PAL	1h26m22s	DVD	[ASIA] full DVD	311	false
 Il figlio di Gozilla	1967	tt0061856	DVD5	ITA	PAL	1h21m09s	DVD	[ASIA] full DVD	353	false
 Il furore della Cina colpisce ancora	1971	tt0067824	DVD5	ITA	PAL	1h35m18s	DVD	[ASIA] full DVD	473	false
@@ -343,9 +352,9 @@ Il gigante di Metropolis	1961	tt0054924	DVD5	ITA/RUS	PAL	1h26m54s	DVD	none	364	f
 Il gioco della notte	1993	tt2699216	DVD5	ITA	PAL	1h35m25s	VHS	none	152	false
 Il giorno dei Trifidi – L'invasione dei mostri verdi	1962	tt0055894	DVD5	ITA/ENG	PAL	1h26m20s	DVD	full DVD	360	false
 Il giovane Tigre	1973	tt0081794	DVD5	ITA/ENG	PAL	1h27m26s	DVD	[ASIA] full DVD	479	false
-Il giro del mondo degli innamorati di Peynet	1974	tt0178501	DVD5	ITA/JAP	PAL	1h24m19s	DVD	full DVD + extras	675	true
+Il giro del mondo degli innamorati di Peynet	1974	tt0178501	DVD5	ITA/JAP	PAL	1h24m19s	DVD	full DVD + extras	675	false
 Il giustiziere giallo	1972	tt1511521	DVD5	ITA	PAL	1h23m26s	Telecine	[ASIA]	264	false
-Il grande addio	1954	tt0045835	DVD5	ITA	PAL	1h21m18s	DTT	none	662	true
+Il grande addio	1954	tt0045835	DVD5	ITA	PAL	1h21m18s	DTT	none	662	false
 Il grande colpo dei 7 uomini d'oro	1966	tt0061726	DVD5	ITA	NTSC	1h37m03s	DVD	full DVD + extras	630	false
 Il licantropo e lo yeti	1975	tt0073338	DVD5	ITA	PAL	1h23m35s	DVD	full DVD	211	false
 Il mio corpo per un poker	1968	tt0061981	DVD5	ITA/FRE/GER	PAL	1h31m44s	DVD	full DVD + extras	395	false
@@ -353,7 +362,7 @@ Il mio corpo sul tuo corpo (aka Il pittore omicida)	1975	tt0263609	DVD5	ITA	PAL	
 Il mio nome è Shangai Joe	1973	tt0068954	DVD5	ITA/ENG/GER	PAL	1h34m15s	DVD	full DVD	290	false
 Il mistero del panino assassino	1987	tt0393485	DVD5	ITA	PAL	1h30m44s	TV	none	34	false
 Il mondo dei robot - Westworld	1973	tt0070909	BD25	ENG/ITA	PAL	1h28m48s	Bluray	full BR	461	false
-Il mondo perverso di Beatrice	1982	noIMDb	DVD5	ITA	PAL	1h03m57s	Telecine	copia censura	706	true
+Il mondo perverso di Beatrice	1982	noIMDb	DVD5	ITA	PAL	1h03m57s	Telecine	copia censura	706	false
 Il mostro dell'opera	1964	tt0058377	DVD9	ITA/FRE/ENGsub	PAL	---	DVD	full DVD	186	false
 Il padrino di Chinatown	1977	tt0076797	DVD5	ITA	PAL	1h48m38s	DVD	[ASIA] full DVD	471	false
 Il pianeta degli uomini spenti	1961	tt0054950	DVD5	ITA	PAL	1h33m32s	DVD	full DVD	526	false
@@ -397,7 +406,7 @@ Intrigo	1984	NOimdb	DVD5	ITA	PAL	36m51s+36m34s	U-matic	none	26	false
 Invasori dall'altro mondo	1957	tt0050545	DVD5	ITA/ENG/ITAsub	PAL	1h06m32s	DVD	full DVD	336	false
 Io cristiana studentessa degli scandali	1971	tt0067255	DVD5	ITA	PAL	1h30m05s	DTT	custom uncut mux	539	false
 Io monaca... per tre carogne e sette peccatrici	1972	tt0069784	DVD5	ITA	PAL	1h29m00s	VHS	uncut	184	false
-Isaac Asimov's Robots VCR Mystery Game	1988	tt0174170	DVD5	ENG	NTSC	0h45m11s	VHS	full tabletop game with scans	702	true
+Isaac Asimov's Robots VCR Mystery Game	1988	tt0174170	DVD5	ENG	NTSC	0h45m11s	VHS	full tabletop game with scans	702	false
 Ispettore Karatè contro l'anonima sequestri	1973	tt1325660	DVD5	ITA	PAL	1h27m59s	VHS	[ASIA]	372	false
 Italia a mano armata	1976	tt0179901	DVD5	ITA/ENG	PAL	1h37m08s	DTT	none	0	false
 Italian boys	1983	tt0223550	DVD5	ITA	PAL	1h27m35s	VHS	none	92	false
@@ -418,39 +427,40 @@ Kilink Istanbul'da (Turkish Kriminal)	1967	tt0292053	DVD5	TUR/ENGsub	PAL	---	DVD
 Kilink soy ve öldür (Turkish Kriminal: Strip and Kill)	1967	tt0392276	DVD5	TUR/ENGsub	PAL	---	DVD	none	114	false
 Kilink uçan adama karsi (Turkish Kriminal vs. Superman)	1967	tt0311396	DVD5	TUR/ENGsub	PAL	---	DVD	none	114	false
 Killer contro killers	1985	tt0304290	DVD5	ITA	PAL	1h25m46s	DVD	none	448	false
-Killer nelle notti di pioggia	1972	tt1227194	DVD5	ITA	PAL	1h22m00s	VHS	none	654	true
+Killer nelle notti di pioggia	1972	tt1227194	DVD5	ITA	PAL	1h22m00s	VHS	none	654	false
 King Kong il gigante della foresta	1967	tt0061868	DVD9	ITA/JAP	PAL	1h44m01s	DVD	[ASIA] full DVD	475	false
 Kiskivrak (Abducted)	1986	tt1957941	DVD5	TUR/ENGsub	PAL	1h32m11s	VHS	none	182	false
 Kizi da anasi gibi (Curse of the Red Butterfly)	1980	tt0492099	DVD5	ENG/JAPhardsub	NTSC	1h20m42s	VHS	none	0	false
 Kiziltug - Cengiz Han (Red Plume - Genghis Khan)	1952	tt0319691	DVD5	TUR/ENGsub	PAL	1h15m18s	DVD	full DVD + extras	255	false
 Klon	1994	tt0198601	DVD5	ITA	PAL	1h25m13s	TV	none	149	false
 Korang, la terrificante bestia umana	1969	tt0063090	DVD5	ITA	PAL	1h17m25s	DVD	full DVD	470	false
-Korkusuz (Rampage; aka Turkish Rambo)	1986	tt1355207	DVD5	ENG	NTSC	1h12m11s	DVD	full DVD + extras	690	true
+Korkusuz (Rampage; aka Turkish Rambo)	1986	tt1355207	DVD5	ENG	NTSC	1h12m11s	DVD	full DVD + extras	690	false
 Korkusuz (Turkish Rambo)	1986	tt1355207	DVD5	ENG/ENGsub	NTSC	1h12m11s	DVD	full DVD + extras	0	false
-Krysar (The Pied Piper of Hamelin)	1986	tt0174834	DVD5	Gibberish	PAL	0h52m49s	DVD	full DVD + extras	733	true
+Krysar (The Pied Piper of Hamelin)	1986	tt0174834	DVD5	Gibberish	PAL	0h52m49s	DVD	full DVD + extras	733	false
 Ku Fang il ciclone di Hong Kong	1972	tt0071319	DVD5	ITA	PAL	1h23m19s	TV	[ASIA]	373	false
 Kung fu, il vendicatore solitario	1973	tt1715330	DVD5	ITA	PAL	1h25m18s	Telecine	[ASIA]	275	false
 Kung fu, l'arte di uccidere	1972	tt0068874	DVD5	ITA	PAL	1h27m47s	Telecine	[ASIA]	317	false
 L'albero della maldicenza	1979	tt0078746	DVD5	ITA	PAL	1h23m59s	VHS	none	166	false
-L'altro piatto della bilancia	1972	tt19512536/	DVD5	ITA	PAL	1h47m15s	VHS	none	696	true
+L'altro piatto della bilancia	1972	tt19512536/	DVD5	ITA	PAL	1h47m15s	VHS	none	696	false
 L'amante del demonio	1972	tt0068199	DVD9	ITA	PAL	1h17m06s	DVD	full DVD	429	false
 L'amante del vampiro	1960	tt0052555	DVD9	ITA/ENGsub	PAL	1h23m42s	DVD	full DVD	188	false
 L'amico del padrino	1972	tt0068202	DVD5	ITA	PAL	1h23m58s	VHS	none	247	false
 L'assassino fantasma	1969	tt0062438	DVD5	ITA/ENG/ESP	PAL	---	TV	none	236	false
 L'assassino ha le ore contate	1968	tt0061516	DVD5	ITA	PAL	1h40m08s	DVD	full DVD	445	false
 L'astronave fantasma	1961	tt0055562	DVD5	ITA/ITA 5.1/ENG	PAL	1h09m13s	DVD	[ASIA] full DVD	333	false
+L’attentato	1972	tt0068233	DVD5	ITA	PAL	1h59m22s	DTT	blank at the beginning	743	false
 L'eretica	1975	tt0071465	DVD5	ITA/ENGsub	PAL	---	DVD	none	104	false
 L'impero del sole	1956	tt0048200	DVD5	ITA	PAL	1h22m15s	TV	none	289	false
 L'importante è non farsi notare	1979	tt0179232	DVD5	ITA	PAL	---	VHS	none	36	false
 L'inafferrabile invincibile Mr. Invisibile	1970	tt0065842	DVD5	ITA	PAL	---	TV	none	89	false
-L'inafferrabile invincibile Mr. Invisibile	1970	tt0065842	DVD5	ITA	PAL	1h47m05s	Telecine	none	705	true
-L'inceneritore	1984	tt0179236	DVD5	ITA	PAL	1h36m13s	Master	none	713	true
+L'inafferrabile invincibile Mr. Invisibile	1970	tt0065842	DVD5	ITA	PAL	1h47m05s	Telecine	none	705	false
+L'inceneritore	1984	tt0179236	DVD5	ITA	PAL	1h36m13s	Master	none	713	false
 L'inferno nella mano	1972	tt0164425	DVD5	ITA	PAL	1h24m34s	VHS	[ASIA]	315	false
 L'interrogatorio	1970	tt0179880	DVD5	ITA	PAL	2h01m49s	VHS	33mins blank tape; Italian edition, longer cut	242	false
+L'invasione – Marte attacca Terra	1966	tt0060302	DVD5	ITA/ENG	PAL	1h18m14s	DVD	full DVD	342	false
 L'invasione degli astromostri	1965	tt0059346	DVD5	ITA/JAP	PAL	1h34m13s	DVD	[ASIA] retail DVD	0	false
 L'invasione degli ultratopi	1972	tt0069162	DVD5	ITA	PAL	1h28m04s	VHS	none	468	false
 L'invasione dei mostri verdi AKA Il giorno dei Trifidi	1963	tt0055894	DVD5	ITA	PAL	-	DVD	full DVD	0	false
-L'invasione – Marte attacca Terra	1966	tt0060302	DVD5	ITA/ENG	PAL	1h18m14s	DVD	full DVD	342	false
 L'invincibile Batman (Yilmayan seytan)	1973	tt0185027	DVD5	ITA	PAL	---	VHS	none	84	false
 L'invincibile ninja	1981	tt0082332	DVD5	ITA/ENG	PAL	1h39m49s	Bluray	custom mux	638	false
 L'ira di Dio	1968	tt0063044	DVD5	ITA	PAL	1h32m23s	DVD	none	403	false
@@ -460,32 +470,35 @@ L'ossessa	1974	tt0072147	DVD5	ITA/ENG/GER	PAL	---	DVD + VHS	uncut composite	100	
 L'ultima preda del vampiro	1960	tt0056633	DVD5	ITA/ENG	PAL	1h17m23s	DVD	full DVD + extras	601	false
 L'ultima sfida di Bruce Lee	1981	tt0076709	DVD5	ITA	PAL	---	DVD	[ASIA] full DVD	501	false
 L'ultimo combattimento di Chen	1978	tt0077594	DVD5	ITA/ENG	PAL	---	DVD	[ASIA] full DVD	0	false
-L'ultimo giorno	1985	tt0214228	DVD5	ITA	PAL	1h24m47s	VHS	none	701	true
-L'ultimo giorno	1985	tt0214228	DVD5	ITA	PAL	1h24m47s	VHS	none	701	true
+L’ultimo combattimento di Chen	1978	tt0077594	DVD5	ITA/ENG	PAL	1h36m07s	DVD	[ASIA] full DVD	382	false
+L'ultimo giorno	1985	tt0214228	DVD5	ITA	PAL	1h24m47s	VHS	none	701	false
+L'ultimo giorno	1985	tt0214228	DVD5	ITA	PAL	1h24m47s	VHS	none	701	false
 L'umanoide	1979	tt0080058	DVD5	ITA/ENG	PAL	---	DVD	none	37	false
 L'uomo che fuggì dal futuro - THX 1138	1974	tt0066434	DVD5	ITA	NTSC	1h20m38s	VHS	original Italian version	408	false
 L'uomo con 2 teste	1972	tt0068911	DVD5	ITA	PAL	1h17m25s	VHS	none	468	false
 L'uomo dagli occhi di ghiaccio	1971	tt0067913	DVD5	ITA/ENG	PAL	1h31m13s	DTT + VHS	custom uncut mux	488	false
 L'uomo del kung-fu	1973	tt0200888	DVD5	ITA	PAL	1h32m45s	Telecine	[ASIA]	316	false
 L'uomo della strada fa giustizia	1975	tt0135026	DVD5	ITA/ENG	PAL	1h31m35s	DVD	none	396	false
-L'uomo di Santa Cruz	1977	tt0076261	DVD5	ITA	PAL	1h43m51s	VHS	none	661	true
+L'uomo di Santa Cruz	1977	tt0076261	DVD5	ITA	PAL	1h43m51s	VHS	none	661	false
 L'uomo mascherato contro i pirati (L'uomo mascherato contro il corsaro nero)	1964	tt0059852	DVD5	ITA	PAL	1h19m36s	DVD	full DVD	478	false
 L'uomo puma	1980	tt0081693	DVD5	ITA/ENG/GER	PAL	1h32m21s	DTT	custom menu	20	false
 L'uomo senza corpo	1959	tt0052718	DVD5	ITA/ENG	PAL	1h15m47s	DVD	full DVD + extras	465	false
 L'uomo, l'orgoglio, la vendetta	1967	tt0062424	DVD5	ITA	PAL	1h36m43s	DVD	full DVD + extras	524	false
+L’urlo di Chen terrorizza anche l’occidente	1972	tt0068767	DVD5	ITA	PAL	1h24m09s	DVD	[ASIA] full DVD	371	false
 La banda J. e S. - Cronaca criminale del Far West	1972	tt0068702	DVD9	ITA/ENG/FRE	PAL	1h33m34s	DVD	full DVD + extras	0	false
 La banda Vallanzasca	1977	tt0077206	DVD5	ITA/ENGsub	PAL	---	DTT + VHS	custom uncut	305	false
 La battaglia di Maratona	1959	tt0052604	DVD9	ITA/FRE	PAL	1h23m56s	DVD	full DVD	0	false
 La bella e la bestia	1977	tt0075738	DVD5	ITA	PAL	1h38m35s	DVD	full Cinekult DVD	443	false
 La bestia y la espada mágica	1983	tt0085233	DVD9	ESP/ENGsub	PAL	1h47m46s	DVD	full DVD + extras	0	false
 La bimba di Satana (XXX ver.)	1982	tt0080438	DVD5	ITA/GER	PAL	1h25m26s	DVD	none	68	false
-La canzone più bella	1957	tt0050227	DVD5	ITA	PAL	1h30m55s	VHS	none	667	true
+La cámara del terror (Fear Chamber)	1968	tt0062960	DVD5	ENG/ESP	NTSC	1h27m41s	DVD	full DVD	574	false
+La canzone più bella	1957	tt0050227	DVD5	ITA	PAL	1h30m55s	VHS	none	667	false
 La casa 3	1988	tt0093090	DVD5	ITA/ITAsub	PAL	---	DVD	none	119	false
 La casa nel tempo	1989	tt0097021	DVD5	ITA	PAL	1h20m13s	DVD	full DVD + extras	428	false
 La croce dalle sette pietre	1987	tt0167851	DVD5	ITA	PAL	---	VHS	none	91	false
-La cámara del terror (Fear Chamber)	1968	tt0062960	DVD5	ENG/ESP	NTSC	1h27m41s	DVD	full DVD	574	false
 La dialectique peut-elle casser des briques? (Can dialectics break bricks?)	1973	tt0069970	DVD5	FRE/ENGsub	NTSC	1h22m14s	VHS	[ASIA]	0	false
 La donna a una dimensione	1969	tt0168686	DVD5	ITA	PAL	1h34m41s	Telecine	none	361	false
+Là dove non batte il sole	1974	tt0071784	DVD5	ITA	PAL	1h35m57s	DVD	full DVD	615	false
 La farfalla nel mirino	1967	tt0061882	DVD5	ITA/JAP	PAL	1h30m57s	DVD	[ASIA] full DVD + extras	591	false
 La gang dell'arancia meccanica	1974	tt0280224	DVD5	ITA/GER/ENGsub	PAL	1h15m56s	DVD	full DVD	605	false
 La ghigliottina volante	1975	tt0071512	DVD9	ITA	PAL	1h41m44s	DVD	full DVD + extras	0	false
@@ -522,22 +535,23 @@ La polizia ordina: sparate a vista	1976	tt0075084	DVD5	ITA/ITAsub	PAL	1h24m20s	D
 La portiera nuda	1976	tt0170432	DVD5	ITA	PAL	1h22m37s	VHS	none	0	false
 La preda e l'avvoltoio	1972	tt0067034	DVD5	ITA/ENG	PAL	1h26m16s	DVD	none	589	false
 La principessa sul pisello	1976	tt0258893	DVD5	ITA	PAL	1h34m43s	Telecine	none	281	false
+La profanazione	1974	tt0198929	DVD5	ITA	PAL	1h22m48s	Telecine	“Second TV edition 1989” as per title card; “Not for commercial use” label throughout	745	false
 La rabbia del tigre	1969	tt2192024	DVD5	ITA	PAL	1h23m23s	Telecine	[ASIA]	341	false
-La ragazza di latta	1970	tt0066276	DVD5	ITA	PAL	2h05m18s	TV	none	668	true
-La ragazza di notte	1972	tt0068678	DVD5	ITA	PAL	1h20m55s	DVD	none	653	true
+La ragazza di latta	1970	tt0066276	DVD5	ITA	PAL	2h05m18s	TV	none	668	false
+La ragazza di notte	1972	tt0068678	DVD5	ITA	PAL	1h20m55s	DVD	none	653	false
 La sbandata	1974	tt0183744	DVD5	ITA	PAL	1h25m00s	VHS	none	177	false
 La selvaggia mano di Bruce Lee	1974	tt0420278	DVD5	ITA	PAL	1h26m56s	DVD	[ASIA] full DVD	332	false
-La sensualità è un attimo di vita	1975	tt0203882	DVD5	ITA	PAL	1h26m19s	DTT	none	437	false
 La señora Muerte	1969	tt0062255	DVD5	ESP/ENGsub	NTSC	1h30m54s	DVD	full DVD	576	false
+La sensualità è un attimo di vita	1975	tt0203882	DVD5	ITA	PAL	1h26m19s	DTT	none	437	false
 La sfida degli invincibili campioni	1969	tt0064265	DVD9	ITA/ITA5.1	PAL	1h41m24s	DVD	[ASIA] full DVD	0	false
-La spada e la magia	1982	tt0086340	DVD5	ITA/ENG	PAL	1h19m07s	DVD	full DVD + extras	711	true
+La spada e la magia	1982	tt0086340	DVD5	ITA/ENG	PAL	1h19m07s	DVD	full DVD + extras	711	false
 La strada del massacro	1970	tt0187252	DVD5	ITA/ZH/ENGsub	PAL	1h18m25s	Telecine	[ASIA]	327	false
 La taglia è tua... l'uomo lo ammazzo io	1969	tt0064853	DVD5	ITA	PAL	1h34m22s	DTT	none	564	false
 La terrificante notte dei robot assassini	1969	tt0134797	DVD5	ITA	PAL	1h10m26s	TV	none	148	false
-La terrificante notte dei robot assassini	1969	tt0134797	DVD5	ITA/ESP	PAL	1h14m01s	DVD	full DVD + extras	694	true
+La terrificante notte dei robot assassini	1969	tt0134797	DVD5	ITA/ESP	PAL	1h14m01s	DVD	full DVD + extras	694	false
 La terrificante notte del demonio	1971	tt0067592	DVD5	ITA/ENG	PAL	1h29m56s	DVD	full DVD	337	false
 La tigre venuta dal fiume Kwai	1975	tt0211042	DVD5	ITA	PAL	1h24m50s	VHS	none	367	false
-La tua prima volta	1983	tt0153324	DVD5	ITA	PAL	1h26m40s	DTT	none	677	true
+La tua prima volta	1983	tt0153324	DVD5	ITA	PAL	1h26m40s	DTT	none	677	false
 La Venere d'Ille	1981	tt0078455	DVD5	ITA/ENGsub	PAL	1h00m50s	VHS	none	0	false
 La venganza de las mujeres vampiro	1970	tt0065171	DVD5	SPA/ENG/ENGsub	NTSC	1h28m09s	DVD	full DVD	233	false
 La verità secondo Satana	1972	tt0135035	DVD5	ITA/ENGsub	PAL	1h25m08s	VHS	Tower VHS uncut	120	false
@@ -560,11 +574,11 @@ Le guerriere dal seno nudo	1973	tt0070140	DVD5	ITA	PAL	1h35m55s	DVD + VHS	custom
 Le implacabili lame di rondine d'oro	1966	tt0059079	DVD9	ITA/ITA5.1	PAL	1h30m52s	DVD	[ASIA] full DVD + extras	0	false
 Le meraviglie di Aladino	1961	tt0055178	DVD5	ITA	PAL	1h35m56s	DVD	full DVD	477	false
 Le mille e una notte all'italiana	1972	tt0070394	DVD5	ITA	PAL	1h35m55s	VHS	none	76	false
-Le notti di Satana	1968	tt0063275	DVD5	ITA	PAL	1h28m48s	Telecine	none	725	true
-Le pornoschiave del vizio	1974	tt0263590	DVD5	ITA	PAL	1h07m21s	VHS	none	688	true
+Le notti di Satana	1968	tt0063275	DVD5	ITA	PAL	1h28m48s	Telecine	none	725	false
+Le pornoschiave del vizio	1974	tt0263590	DVD5	ITA	PAL	1h07m21s	VHS	none	688	false
 Le radici della paura – The Evil	1978	tt0077524	DVD5	ITA	PAL	1h17m24s	DVD	retail; Italian dialogues by Renato Polselli	0	false
-Le salamandre	1969	tt0066322	DVD5	ITA	PAL	1h24m41s	Telecine	none	724	true
-Le sigle TV della Bozzetto Film realizzate da Guido Manuli	19--	noIMDb	DVD5	ITA	PAL	0h43m20s	DVD	full DVD + extras	671	true
+Le salamandre	1969	tt0066322	DVD5	ITA	PAL	1h24m41s	Telecine	none	724	false
+Le sigle TV della Bozzetto Film realizzate da Guido Manuli	19--	noIMDb	DVD5	ITA	PAL	0h43m20s	DVD	full DVD + extras	671	false
 Legend of the Superheroes	1979	tt0131675	DVD5	ENG	NTSC	---	DVD	full dvd	217	false
 Les maîtres du temps	1982	tt0084315	DVD5	FRE/ENGsub	PAL	1h15m29s	DVD	full MoC DVD	462	false
 Lesbo	1969	tt0182277	DVD5	ITA	PAL	1h15m09s	TV	none	282	false
@@ -574,21 +588,18 @@ Lo stallone	1975	tt0147539	DVD5	ITA	PAL	1h26m36s	Telecine	from never-released DV
 Lo strano ricatto di una ragazza per bene	1974	tt0126084	DVD5	ITA/ENGsub	PAL	---	VHS	none	48	false
 Los campeones justicieros	1971	tt0261597	DVD5	ESP/ENGsub	NTSC	1h21m00s	DVD	full DVD	537	false
 Love duro e violento	1985	tt0940725	DVD5	ITA	PAL	1h15m00s	VHS	none	293	false
-Love Maker - L'uomo per fare l'amore	1969	tt0064608	DVD5	ITA	PAL	1h28m13s	TV	none	681	true
+Love Maker - L'uomo per fare l'amore	1969	tt0064608	DVD5	ITA	PAL	1h28m13s	TV	none	681	false
 Love you!	1979	tt0195031	DVD5	ITA	PAL	1h15m20s	DVD	none	411	false
 Lupi giustizieri	1973	tt2204265	DVD5	ITA	PAL	---	DVD	retail	0	false
 Lupin III - La strana strategia psicocinetica	1974	tt0360940	DVD5	ITA/JAP	PAL	1h22m57s	DVD	[ASIA] full DVD	481	false
-Là dove non batte il sole	1974	tt0071784	DVD5	ITA	PAL	1h35m57s	DVD	full DVD	615	false
-L’ultimo combattimento di Chen	1978	tt0077594	DVD5	ITA/ENG	PAL	1h36m07s	DVD	[ASIA] full DVD	382	false
-L’urlo di Chen terrorizza anche l’occidente	1972	tt0068767	DVD5	ITA	PAL	1h24m09s	DVD	[ASIA] full DVD	371	false
 Maciste contro i mostri	1962	tt0057270	DVD5	ITA/ENG	PAL	1h16m57s	DVD	full DVD	344	false
 Madeleine, anatomia di un incubo	1974	tt0125896	DVD5	ITA	PAL	1h40m25s	VHS	none	394	false
 Mademoiselle de Sade e i suoi vizi	1969	tt0064524	DVD5	ITA	PAL	1h14m24s	Telecine	none	284	false
 Madness - Gli occhi della luna	1971	tt0198681	DVD5	ITA/ENGsub	PAL	1h17m53s	Telecine	custom menu	23	false
 Mafia, una legge che non perdona	1980	tt0245249	DVD5	ITA	PAL	1h19m03s	DVD + VHS	custom mux	626	false
-Magia nuda	1975	tt0183466/	DVD5	ITA	PAL	1h37m020s	VHS	none	695	true
+Magia nuda	1975	tt0183466/	DVD5	ITA	PAL	1h37m020s	VHS	none	695	false
 Malakai - Incubo di sangue	1977	tt0077994	DVD5	ITA/ENG	PAL	1h26m02s	DVD	full DVD + extras	637	false
-Malesia magica	1962	tt0291323	DVD5	ITA	PAL	1h25m25s	TV	none	679	true
+Malesia magica	1962	tt0291323	DVD5	ITA	PAL	1h25m25s	TV	none	679	false
 Malizia erotica	1979	tt0079515	DVD5	ITA	PAL	1h26m00s	VHS	uncut	322	false
 Mamma...li turchi!	1973	tt0939903	DVD5	ITA	PAL	1h24m01s	Telecine	none	73	false
 Marquis	1989	tt0097839	DVD5	FRE/GER/ENGsub	PAL	1h19m22s	DVD	full DVD; disc 1	463	false
@@ -608,13 +619,13 @@ MMM 83 - Missione Morte Molo 83	1966	tt0187297	DVD5	ITA	PAL	1h31m13s	VHS	custom 
 Mondo erotico – Inchiesta sulla speculazione sessuale	1973	tt0198770	DVD5	ITA	PAL	1h30m32s	Telecine	none	272	false
 Mondo pazzo...gente matta!	1966	tt0188064	DVD5	ITA	PAL	1h17m11s	DTT	none	287	false
 Mondo proibito	1986	tt0091271	DVD5	ITA	PAL	1h21m33s	VHS	none	197	false
-Mondo senza veli	1985	tt1349637	DVD5	ITA	PAL	1h29m56s	Telecine	none	683	true
+Mondo senza veli	1985	tt1349637	DVD5	ITA	PAL	1h29m56s	Telecine	none	683	false
 Monster dog – Il signore dei cani	1984	tt0087616	DVD5	ITA	PAL	1h20m06s	DVD	full DVD	222	false
-Monte Grande: What Is Life?	2004	tt0466070	DVD5	ESP/ENG/FRE/ENGsub/ITAsub	NTSC	1h26m16s	DVD	full DVD + extras	729	true
+Monte Grande: What Is Life?	2004	tt0466070	DVD5	ESP/ENG/FRE/ENGsub/ITAsub	NTSC	1h26m16s	DVD	full DVD + extras	729	false
 Morbosità	1974	tt0128361	DVD5	ITA	PAL	1h28m45s	Telecine	none	273	false
 Moresque obiettivo allucinante	1967	tt0060374	DVD5	ITA/FRE/GER	PAL	1h34m30s	DVD	custom mux	0	false
 Morire a Roma - La vita in gioco	1972	tt0188067	DVD5	ITA/GREsub	PAL	---	VHS	none	158	false
-Musicbox Italia	19??	noIMDb	DVD5	ITA	PAL	1h33m35s	16mm	custom collection of Italian Scopitones	728	true
+Musicbox Italia	19??	noIMDb	DVD5	ITA	PAL	1h33m35s	16mm	custom collection of Italian Scopitones	728	false
 Mysterious Planet	1982	tt0272202	DVD5	ENG	NTSC	1h09m57s	VHS	none	739	false
 Na-Jan il piccolo titano	1974	NOimdb	DVD5	ITA	PAL	1h28m51s	DVD	[ASIA] full DVD	134	false
 Napoli serenata calibro 9	1978	tt0077974	DVD5	ITA/ENGsub	PAL	1h24m43s	DVD	full DVD	599	false
@@ -624,16 +635,17 @@ Napoli violenta	1976	tt0074952	DVD9	ITA/ENG	PAL	1h31m00s	DVD	full DVD + extras	5
 Napoli...i 5 della squadra speciale	1978	tt0198810	DVD5	ITA/ENGsub	PAL	1h35m00s	VHS	none	555	false
 Narco Satánico - Terror, sexo y brujería	1984	tt0258245	DVD5	SPA/ENGsub	NTSC	1h14m40s	VHS	none	231	false
 Necropolis	1970	tt0188093	DVD9	ITA/ITAsub/ENGsub	PAL	1h58m14s	DVD	full DVD + extras	399	false
-Nel cerchio	1976	tt0198821	DVD5	ITA	PAL	1h17m18s	VHS	none	658	true
+Nel cerchio	1976	tt0198821	DVD5	ITA	PAL	1h17m18s	VHS	none	658	false
 Nel mirino del giaguaro	1979	tt0079362	DVD5	ITA/ENG	PAL	1h21m47s	DVD	full DVD + extras	738	false
 Nel più alto dei cieli	1977	tt0074956	DVD5	ITA	PAL	1h23m08s	DVD	+ extras	30	false
 Nelle pieghe della carne	1970	tt0065693	DVD9	ITA/ENG	PAL	1h28m36s	DVD	full Cinekult DVD	425	false
 New York violenta	1973	tt0069789	DVD5	ITA	PAL	1h11m21s	VHS	none	619	false
-Nick Fury: Agent of Shield	1998	tt0119781	DVD5	ENG/ESP/ENGsub	NTSC	1h30m07s	DVD	full DVD + extras	722	true
+Nick Fury: Agent of Shield	1998	tt0119781	DVD5	ENG/ESP/ENGsub	NTSC	1h30m07s	DVD	full DVD + extras	722	false
 Ninja alla conquista del mondo	1987	tt0201987	DVD5	ITA/ENG	PAL	1h26m10s	DVD	[ASIA] full DVD + extras	528	false
 Ninja i guerrieri di fuoco	1987	tt0202093	DVD5	ITA	PAL	1h27m21s	DVD	[ASIA] full DVD + extras	527	false
 Noi e l'amore – Comportamento sessuale variante	1986	tt0198836	DVD5	ITA	PAL	1h23m15s	DVD	full DVD	196	false
 Non aver paura della zia Marta	1988	tt0097929	DVD5	ITA/ENG	PAL	1h24m55s	DVD	none	66	false
+Notturno con grida	1981	tt0082827	DVD5	ITA	PAL	1h41m16s	VHS	ca. 10 mins blank tape	744	false
 Nuda per Satana	1974	tt0162503	DVD5	ITA/ENG/ENGsub	NTSC	1h18m20s	DVD	full DVD	301	false
 Nuda per Satana (XXX ver.)	1974	tt0162503	DVD5	ITA/ENG/ENGsub	NTSC	1h30m35s	DVD	full DVD	302	false
 Nude Odeon	1978	tt0177055	DVD5	ITA	PAL	---	Telecine	none	77	false
@@ -645,24 +657,29 @@ Occhei, occhei	1983	tt0189839	DVD5	ITA/GREsub	PAL	1h42m15s	VHS	none	258	false
 Occhi dalle stelle	1978	tt0078015	DVD9	ITA/ITAsub	PAL	1h34m05s	DVD	none	99	false
 Oh...Angelina! - Angelina superporno	1982	tt0335887	DVD5	ITA	PAL	2h10m56s	VHS	none	294	false
 Oliva - La leggenda del monte Belvedere	199?	NOimdb	DVD5	ITA	PAL	---	VHS	none	57	false
+Ölüler konusmaz ki (The dead don't talk)	1970	tt0470630	DVD9	TUR/ENGsub	PAL	---	DVD	none	137	false
+Ölüm savasçisi	1984	tt0183597	DVD5	TUR/ENGsub	PAL	1h09m56s	VHS	alternate ending; new VHS2DVD transfer	252	false
+Ölüme son adim (Last stop to death)	1983	tt0183599	DVD5	TUR/ENGsub	PAL	1h16m58s	VHS	new VHS2DVD transfer	249	false
+Ölümsüz (The immortal)	1982	tt0492422	DVD5	TUR/ENGsub	PAL	1h20m07s	VHS	new VHS2DVD transfer	262	false
 Ombre	1980	tt0189857	DVD5	ITA	PAL	1h30m49s	VHS	none	192	false
 Omicidio a luci blu	1991	tt0102586	DVD5	ITA	PAL	---	VHS	none	0	false
-Onyricon	1968	tt0065224	DVD5	ITA	PAL	1h28m10s	DVD	full DVD + extras	659	true
+Onyricon	1968	tt0065224	DVD5	ITA	PAL	1h28m10s	DVD	full DVD + extras	659	false
 Operation Code Name: Long Live the Fatherland!	1993	noIMDB	DVD5	TUR/ENGsub	PAL	1h41m50s	DVD	full DVD + extras	632	false
 Operazione Goldman	1966	tt0060374	DVD5	ITA/FRE/GER/ENG	PAL	1h31m47s	DVD	custom mux	0	false
 Ordine firmato in bianco	1974	tt0073491	DVD5	ITA	PAL	1h52m42s	TV	none	0	false
 Ore violente	1967	tt0061454	DVD5	ITA	PAL	1h27m33s	DVD + VHS	custom mux	0	false
+Örümcek (Turkish Spiderman)	1972	tt0309117	DVD5	TUR/ENGsub	PAL	1h04m20s	DVD	none	115	false
 Os Trapalhões na Guerra dos Planetas (Brazilian Star Wars)	1978	tt0195360	DVD5	BRA/ENGsub	NTSC	---	DVD	+extras	52	false
 Oscenità	1980	tt0131515	DVD5	ITA/RUS	PAL	1h23m49s	DVD	none	31	false
 Oscenità	1980	tt0131515	DVD5	ITA/ENGsub	PAL	1h23m44s	TV	Madrid8 composite	38	false
-Oscenità	1980	tt0131515	DVD5	ITA	PAL	1h23m01s	Telecine	copia censura	704	true
+Oscenità	1980	tt0131515	DVD5	ITA	PAL	1h23m01s	Telecine	copia censura	704	false
 Paganini Horror	1989	tt0095812	DVD9	ITA/ENG	PAL	1h20m22s	DVD	full DVD + extras	388	false
 Paolo e Francesca	1971	tt0198888	DVD5	ITA	PAL	1h32m41s	VHS	none	146	false
 Parentesi tonde	2006	tt1047512	DVD5	ITA	PAL	1h31m57s	DVD	full DVD + extras	62	false
-Pass Thru	2016	tt5445074	DVD5	ENG	NTSC	1h28m15s	DVD	none	718	true
+Pass Thru	2016	tt5445074	DVD5	ENG	NTSC	1h28m15s	DVD	none	718	false
 Patrick	1978	tt0078067	DVD5	ITA	PAL	---	DVD	retail	0	false
 Patrick vive ancora	1980	tt0081314	DVD9	ITA/ENG	PAL	---	DVD	none	80	false
-Pattuglia anti gang	1976	tt0135171	DVD5	ITA	PAL	1h22m54s	VHS	none	651	true
+Pattuglia anti gang	1976	tt0135171	DVD5	ITA	PAL	1h22m54s	VHS	none	651	false
 Pensione Amore SerVizio Completo	1979	tt0131533	DVD5	ITA	PAL	1h16m57s	DTT	custom menu	4	false
 Pensione Amore SerVizio Completo	1979	tt0131533	DVD5	ITA	PAL	---	DTT + VHS	uncut composite	79	false
 Per un dollaro a Tucson si muore	1964	tt0195133	DVD5	ITA	PAL	1h21m06s	VHS	none	291	false
@@ -674,11 +691,10 @@ Pink Flamingos	1972	tt0069089	DVD5	ENG/ENGsub	NTSC	1h47m02s	DVD	full DVD + extra
 Più forte sorelle	1973	tt0073003	DVD5	ITA	PAL	1h21m40s	DTT	custom mux	433	false
 Policeman	1971	tt0185610	DVD5	ITA	PAL	1h36m21s	Telecine	none	0	false
 Polizia investigativa femminile	1974	tt0072006	DVD5	ITA	PAL	1h31m08s	TV	none	0	false
-After Last Season	2009	tt1196334	DVD5	ENG	NTSC	1h30m29s	DVD	full DVD + extras	750	false
 Porco mondo	1978	tt0076557	DVD5	ITA	PAL	1h38m00s	VHS	proper VHS2DVD	173	false
 Porno Erotico Western	1979	tt0180920	DVD5	ITA	PAL	1h12m10s	Telecine	with timecode	0	false
-Povero Cristo	1976	tt0073561	DVD5	ITA	PAL	1h33m34s	Telecine	with timecode	657	true
-Prima e dopo l'amore... un grido d'allarme	1973	tt0195180	DVD5	ITA	PAL	1h34m56s	Telecine	none	687	true
+Povero Cristo	1976	tt0073561	DVD5	ITA	PAL	1h33m34s	Telecine	with timecode	657	false
+Prima e dopo l'amore... un grido d'allarme	1973	tt0195180	DVD5	ITA	PAL	1h34m56s	Telecine	none	687	false
 Probabilità zero	1969	tt0055329	DVD5	ITA	PAL	1h29m42s	DVD	full DVD	0	false
 Provaci anche tu Lionel	1973	tt0125990	DVD5	ITA	PAL	---	TV	none	0	false
 Psyched by the 4D Witch (A Tale of Demonology)	1973	tt0265587	DVD5	ENG	NTSC	1h21m20s	DVD	full DVD + extras	0	false
@@ -691,18 +707,18 @@ Quant'è bella la Bernarda, tutta nera, tutta calda	1975	tt0073593	DVD5	ITA	PAL	
 Quarta parete – La spirale del vizio	1968	tt0188167	DVD5	ITA	PAL	1h29m00s	VHS	uncut	157	false
 Quei paracul... pi di Jolando e Margherito	1974	tt0243511	DVD5	ITA	PAL	---	VHS	none	82	false
 Quel maledetto treno blindato	1978	tt0076584	DVD9	ITA/ENG	PAL	1h35m26s	DVD	full DVD + extras	642	false
-Quel pomeriggio maledetto	1977	tt0073566	DVD5	ITA	PAL	1h32m06s	VHS	none	708	true
+Quel pomeriggio maledetto	1977	tt0073566	DVD5	ITA	PAL	1h32m06s	VHS	none	708	false
 Quella carogna dell'ispettore Sterling	1968	tt0063478	DVD5	ITA	PAL	1h35m00s	DTT	none	0	false
 Quella strana voglia d'amare	1977	tt0076585	DVD5	ITA	PAL	---	VHS	uncut	228	false
 Quelli del racket	1974	tt0232238	DVD5	ITA	PAL	1h22m15s	VHS	none	0	false
-Questa libertà di avere... le ali bagnate	1971	tt0067646	DVD5	ITA	PAL	1h16m02s	Telecine	one reel missing	674	true
+Questa libertà di avere... le ali bagnate	1971	tt0067646	DVD5	ITA	PAL	1h16m02s	Telecine	one reel missing	674	false
 Quintana	1969	tt0064869	DVD5	ITA/ENG/GER	PAL	1h20m38s	DVD	none	323	false
 Racconti proibiti... di niente vestiti	1972	tt0069153	DVD5	ITA	PAL	---	Telecine	none	0	false
 Rand rover	1979	tt0143824	DVD5	ITA	PAL	1h39m22s	VHS	none	623	false
 Realtà romanzesca	1969	tt0198968	DVD5	ITA	PAL	1h51m09s	Telecine	uncut	106	false
 Reptilicus – Il mostro distruggitore	1961	tt0056405	DVD5	ITA/ENG/ITAsub	PAL	1h17m59s	DVD	retail	0	false
 Requiescant	1967	tt0063500	DVD9	ITA/ENG	PAL	1h41m41s	DVD	full DVD	0	false
-Retro Soviet TV Commercials	19??	noIMDb	DVD5	RUS/ENGsub	PAL	0h53m18s	16mm	collection of 84 Soviet commercials	732	true
+Retro Soviet TV Commercials	19??	noIMDb	DVD5	RUS/ENGsub	PAL	0h53m18s	16mm	collection of 84 Soviet commercials	732	false
 Revolver	1973	tt0073626	DVD9	ITA/ENG/GER	PAL	1h45m07s	DVD	full DVD + extras	422	false
 Riti, magie nere e segrete orge nel trecento	1973	tt0122685	BD25	ITA/ENGsub	PAL	---	Bluray	retail	0	false
 Rivelazioni di uno psichiatra sul mondo perverso del sesso	1973	tt0156023	DVD5	ITA	PAL	1h28m26s	DVD	none	61	false
@@ -729,14 +745,14 @@ Santo y Blue Demon contra el doctor Frankenstein	1974	tt0258123	DVD5	SPA/ENGsub	
 Santo y Blue Demon en el mundo de los muertos	1970	tt0064933	DVD5	ESP/ENGsub	NTSC	1h19m48s	DVD	full DVD	544	false
 Santo y Blue Demon vs Drácula y el Hombre Lobo	1973	tt0067708	DVD5	ESP/ENG/ENGsub	NTSC	1h39m37s	DVD	full DVD	582	false
 Satanik	1968	tt0063549	DVD9	ITA/ITAsub/ENGsub	PAL	1h23m14s	DVD	full DVD + extras	424	false
-Satyricon	1969	tt0166788	DVD5	ITA	PAL	1h46m03s	DVD	full DVD + extras	660	true
+Satyricon	1969	tt0166788	DVD5	ITA	PAL	1h46m03s	DVD	full DVD + extras	660	false
 Savana - Sesso e diamanti AKA I predatori della savana	1978	tt1534502	DVD5	ITA	PAL	1h30m40s	VHS	none	436	false
 Sbirulino	1982	tt0202568	DVD5	ITA	PAL	1h30m45s	Telecine	none	627	false
 Scalps	1987	tt0091897	DVD5	ITA/ENG	PAL	1h36m54s	DVD	full DVD	446	false
 Scoop	1982	tt2396458	DVD5	ITA	PAL	1h25m15s	VHS	none	138	false
 Se lo fai sono guai	2001	tt0475143	DVD5	ITA	PAL	1h38m56s	DVD	full DVD	444	false
 Se mi arrabbio spacco tutto	1973	tt0062359	DVD5	ITA	PAL	1h28m45s	VHS	none	435	false
-Secret of Kowloon Town	1976	noIMDb	DVD5	ZH/ENGsub	NTSC	2h00m29s	VHS	none	650	true
+Secret of Kowloon Town	1976	noIMDb	DVD5	ZH/ENGsub	NTSC	2h00m29s	VHS	none	650	false
 Sensi caldi	1980	tt0189989	DVD5	ITA	PAL	1h10m03s	VHS	none	144	false
 Sentenza di morte	1968	tt0063580	DVD9	ITA/ENG	PAL	1h29m41s	DVD	full uncut DVD + extras	499	false
 Sette monache a Kansas City	1973	tt0274824	DVD5	ITA/GER/ESP	PAL	1h24m21s	TV	custom fandub	279	false
@@ -747,24 +763,24 @@ Sfida al diavolo - Katarsis	1969	tt0276499	DVD5	ITA	PAL	1h15m37s	DTT	none	410	fa
 Sgarro alla camorra	1973	tt0070678	DVD5	ITA	PAL	1h36m54s	DVD	none	567	false
 Shriek fo the Mutilated	1974	tt0072156	DVD5	ENG	NTSC	1h25m56s	DVD	custom original - full DVD	496	false
 Siamo fatto così: Aiuto!	1980	tt2896018	DVD5	ITA	PAL	1h14m35s	DVD	full DVD	185	false
-Sloane	1985	tt0088137	DVD5	ENG	NTSC	1h35m31s	DVD	none	652	true
+Sloane	1985	tt0088137	DVD5	ENG	NTSC	1h35m31s	DVD	none	652	false
 Sogni proibiti di Don Galeazzo, curato di campagna	1973	tt0203923	DVD5	ITA/ENGsub	NTSC	1h28m31s	DVD	none	8	false
 Soli contro tutti	1972	tt0074224	DVD5	ITA	PAL	1h15m53s	Telecine	[ASIA]	0	false
 Son savasçi (Holy sword)	1982	tt0183802	DVD5	TUR/ENGsub	PAL	1h17m35s	VHS	new VHS2DVD transfer	251	false
 Sono Sartana, il vostro becchino	1969	tt0065019	DVD5	ITA	PAL	1h39m02s	TV	none	520	false
 Sotto il ristorance cinese	1987	tt0208464	DVD5	ITA	PAL	2h00m28s	VHS	20mins blank tape	214	false
 Space Men	1960	tt0054330	DVD5	ITA	PAL	1h25m15s	DVD	full DVD	340	false
-Spaceman contro i vampiri dello spazio	1957	tt0050609	DVD5	ITA/JAP/ITAsub	PAL	1h17m24s	DVD	full DVD + extras	672	true
+Spaceman contro i vampiri dello spazio	1957	tt0050609	DVD5	ITA/JAP/ITAsub	PAL	1h17m24s	DVD	full DVD + extras	672	false
 Sparate a vista su Killer Kid	1965	noIMDB	DVD5	ITA	PAL	1h26m52s	16mm	edited version of tt0059134	0	false
-Sperone selvaggio	1968	tt0063095	DVD5	ITA/ENG	PAL	1h21m51s	DVD	none	723	true
+Sperone selvaggio	1968	tt0063095	DVD5	ITA/ENG	PAL	1h21m51s	DVD	none	723	false
 Spettri	1987	tt0094015	DVD5	ITA/ENG	PAL	1h29m22s	VHS	none	39	false
 Spie contro il mondo	1966	tt0060213	DVD5	ITA	PAL	1h30m33s	DVD	custom mux	381	false
 Star Crash - Scontri stellari oltre la terza dimensione	1978	tt0079946	DVD5	ITA/ENG	PAL	---	DVD	none	240	false
 Star Wars Holiday Special	1978	tt0193524	DVD9	ENG/SPA	NTSC	2h00m20s	VHS	WHIO 1st gen. + extras	40	false
-Strategia per una missione di morte	1979	tt0214740	DVD5	ITA	PAL	1h18m56s	VHS	none	707	true
+Strategia per una missione di morte	1979	tt0214740	DVD5	ITA	PAL	1h18m56s	VHS	none	707	false
 Super Ninja	1986	tt0188764	DVD5	ITA/ENG	PAL	1h29m20s	DVD	[ASIA] full DVD	0	false
 Superargo contro Diabolikus	1966	tt0062319	DVD5	ITA/ENG/ITAsub	PAL	---	DVD	none	105	false
-Supergirl - La ragazza d'acciaio	1984	tt0088206	DVD5	ITA	PAL	1h37m45s	VHS	none	700	true
+Supergirl - La ragazza d'acciaio	1984	tt0088206	DVD5	ITA	PAL	1h37m45s	VHS	none	700	false
 Supermen dönüyor (Turkish Superman)	1979	tt0392818	DVD9	TUR/ENGsub/GREsub	PAL	---	DVD	none	96	false
 Supersexymarket	1979	tt2038295	DVD5	ITA/DUTsub	PAL	1h26m00s	VHS	none	0	false
 Supersonic Man	1979	tt0079971	DVD5	ITA	PAL	1h24m40s	DVD	custom mux	0	false
@@ -776,7 +792,7 @@ Tarzan e i segreti della giungla	1973	tt0069345	DVD5	ITA	PAL	1h20m28s	TV	none	16
 Tarzan Istanbulda	1952	tt0324167	DVD5	TUR/ENGsub	PAL	1h31m13s	DVD	full dvd + extras	195	false
 Tarzana, sesso selvaggio	1969	tt0065070	DVD5	ITA	PAL	1h28m47s	Super8	none	147	false
 Tecnica di un amore	1973	tt0152943	DVD5	ITA	PAL	1h20m49s	VHS	none	238	false
-Temptation	1969	tt0210339	DVD5	ITA	PAL	1h22m47s	VHS	none	712	true
+Temptation	1969	tt0210339	DVD5	ITA	PAL	1h22m47s	VHS	none	712	false
 Teresa altri desideri	1983	tt0212551	DVD5	ITA	PAL	1h30m00s	VHS	none	58	false
 Terminal	1974	tt0072266	DVD5	ITA	PAL	1h44m56s	U-matic	none	241	false
 Terminator 2: Shocking dark	1989	tt0098321	DVD5	ENG/ITA/ZH	PAL	1h25m35s	DVD	Custom	213	false
@@ -799,8 +815,9 @@ The Search for Weng Weng	2007	tt1073143	DVD9	ENG/ENGsub	PAL	1h32m48s	DVD	full DV
 The war god – The big calamity	1976	tt1996455	DVD5	ZH/ENGsub	PAL	---	VHS	[ASIA]	309	false
 Thriller	1973	tt0072285	DVD9	ENG/SWE/ENGsub	NTSC	1h46m38s	DVD	full DVD + extras	620	false
 Ti spacco il muso, bimba	1982	tt0471944	DVD5	ITA	PAL	1h29m18s	VHS	none	239	false
+Tiger man bersaglio uomo	1977	tt0075613	DVD5	ITA/ENG	PAL	1h29m35s	DVD	full DVD + extras	751	false
 Tomboy – I misteri del sesso	1977	tt0170697	DVD5	ITA	PAL	---	VHS	none	0	false
-Topo Gigio e la guerra del missile	1967	tt0062382	DVD5	JAP/ENG	NTSC	1h29m55s	DVD	full DVD + extras	664	true
+Topo Gigio e la guerra del missile	1967	tt0062382	DVD5	JAP/ENG	NTSC	1h29m55s	DVD	full DVD + extras	664	false
 Tre pistole contro Cesare	1977	tt0170697	DVD5	ITA/GER	PAL	1h13m06 + 1h22m34s	DVD	full DVD with cut and uncut versions + extras	397	false
 Trio	1967	tt0211682	DVD5	ITA/ENGhardsub	PAL	1h30m19s	Telecine	none	742	false
 Turist Ömer Uzay Yolu'nda (Turkish Star Trek)	1971	tt0182503	DVD5	TUR/ENGsub	PAL	1h09m49s	DVD	full DVD, perfect quality	207	false
@@ -808,29 +825,26 @@ Turist Ömer Uzay Yolu'nda (Turkish Star Trek)	1973	tt0182503	DVD5	TUR/ITAsub	PA
 Turno di notte (ep. 1-6)	1977	tt0281309	DVD5	ITA/ENGsub	PAL	1h23m52s	TV	none	401	false
 Turno di notte (ep. 7-15)	1977	tt0281309	DVD5	ITA/ENGsub	PAL	2h13m55s	TV	none	402	false
 Tutto sul rosso	1968	tt0062650	DVD5	ITA/ENGsub	PAL	---	Telecine	none	51	false
-Twin Peaks Visual Soundtrack	199?	noIMDb	DVD5	ENG	NTSC	0h50m05s	LDrip	none	727	true
+Twin Peaks Visual Soundtrack	199?	noIMDb	DVD5	ENG	NTSC	0h50m05s	LDrip	none	727	false
 Uccidete il vitello grasso e arrostitelo	1970	tt0066497	DVD5	ITA	PAL	---	Telecine	proper Telecine2DVD	194	false
-L’attentato	1972	tt0068233	DVD5	ITA	PAL	1h59m22s	DTT	blank at the beginning	743	false
 Ultimatum alla vita	1962	tt0055566	DVD5	ITA	PAL	1h28m41s	VHS	proper VHS2DVD	178	false
-Un dollaro tra i denti	1967	tt0060325	DVD9	ITA/ENG/GER	PAL	1h23m14s	DVD	full DVD + extras	423	false
-Notturno con grida	1981	tt0082827	DVD5	ITA	PAL	1h41m16s	VHS	ca. 10 mins blank tape	744	false
-La profanazione	1974	tt0198929	DVD5	ITA	PAL	1h22m48s	Telecine	“Second TV edition 1989” as per title card; “Not for commercial use” label throughout	745	false
-Un fotografo particolare	1974	tt0252847	DVD5	ITA	PAL	3h55m33s	VHS	ca. 45 mins blank tape	412	false
 Un assassino per un testimone	1969	tt0065038	DVD5	ITA	PAL	1h36m58s	VHS	none	746	false
+Un dollaro tra i denti	1967	tt0060325	DVD9	ITA/ENG/GER	PAL	1h23m14s	DVD	full DVD + extras	423	false
+Un fotografo particolare	1974	tt0252847	DVD5	ITA	PAL	3h55m33s	VHS	ca. 45 mins blank tape	412	false
 Un gioco per Eveline	1971	tt0122506	DVD5	ITA	PAL	---	Telecine	none	174	false
-Un uomo da nulla	1977	tt1172546	DVD5	ITA	PAL	1h20m17s	VHS	none	703	true
+Un uomo da nulla	1977	tt1172546	DVD5	ITA	PAL	1h20m17s	VHS	none	703	false
 Un uomo dalla pelle dura	1972	tt0067914	DVD5	ITA	PAL	1h26m11s	DVD	none	500	false
 Un urlo nelle tenebre	1974	tt0072217	DVD5	ITA/ENGsub	PAL	1h25m42s	VHS	cut Italian version	384	false
 Un urlo nelle tenebre	1974	tt0072217	DVD5	ITA/ENG/JAPhardsub	PAL	1h29m45s	VHS	uncut custom LBX mux	413	false
 Un'ombra nell'ombra	1979	tt0131510	DVD5	ITA/ENG/OST	PAL	1h24m07s	VHS	none	244	false
 Una colt in mano al diavolo	1973	tt0068393	DVD5	ITA/ENGsub	PAL	1h11m41s	DVD	none	0	false
 Una donna per 7 bastardi	1974	tt0186037	DVD5	ITA/ENG/GER	PAL	1h27m11s	Telecine	restored, color corrected; custom mux	546	false
-Una rete piena di sabbia	1966	tt0187454	DVD5	ITA	PAL	1h35m31s	VHS	none	699	true
+Una rete piena di sabbia	1966	tt0187454	DVD5	ITA	PAL	1h35m31s	VHS	none	699	false
 Una storia di notte	1964	tt0058617	DVD5	ITA	PAL	1h18m46s	Telecine	none	741	false
 Uno dopo l'altro	1968	tt0063742	DVD9	ITA/ENG/GER	PAL	1h38m12s	DVD	full DVD + extras	0	false
 Uno straniero a Sacramento	1965	tt0059760	DVD5	ITA	PAL	1h33m01s	TV	none	486	false
 Uomo avvisato mezzo ammazzato... Parola di Spirito Santo	1972	tt0065991	DVD5	ITA/ENG	PAL	1h30m04s	DVD	full DVD	612	false
-Uomo, uomo, uomo	1979	tt20565728	DVD5	JAP (overdub)	NTSC	1h55m24s	VHS	none	691	true
+Uomo, uomo, uomo	1979	tt20565728	DVD5	JAP (overdub)	NTSC	1h55m24s	VHS	none	691	false
 Urlo contro melodia nel Cantagiro '63	1963	tt0164215	DVD5	ITA	PAL	1h13m54s	TV	longer than SNC version	263	false
 Ursus, il terrore dei kirghisi	1964	tt0058712	DVD5	ITA/ENGsub/FREsub	PAL	1h30m38s	DVD	none	438	false
 Vahsi kan (Turkish First Blood)	1983	tt0183958	DVD5	TUR/ENGhardsub	PAL	1h10m20s	VHS	none	583	false
@@ -859,10 +873,3 @@ Zappaterra	1985	NOimdb	DVD5	ITA	PAL	---	Super8	none	56	false
 Zenabel	1969	tt0065240	DVD9	ITA	PAL	1h43m07s	Telecine + DVD	custom uncut mux	391	false
 Zuma	1985	tt0346179	DVD5	TAG/ENGsub	NTSC	2h10m58s	VHS	[ASIA]	633	false
 Zuma 2: Hell Serpent	1987	tt0273080	DVD5	ENG/ZHhardsub	NTSC	2h02m46s	VHS	[ASIA]	634	false
-¡Mátalo!	1970	tt0068024	DVD9	ITA/GER/ENG	PAL	1h29m15s	DVD	full DVD + extras	565	false
-Çilgin kiz ve üç süper adam (3 Supermen and Mad Girl)	1973	tt0310293	DVD5	TUR	PAL	1h05m14s	VHS	new VHS2DVD transfer	0	false
-Ölüler konusmaz ki (The dead don't talk)	1970	tt0470630	DVD9	TUR/ENGsub	PAL	---	DVD	none	137	false
-Ölüm savasçisi	1984	tt0183597	DVD5	TUR/ENGsub	PAL	1h09m56s	VHS	alternate ending; new VHS2DVD transfer	252	false
-Ölüme son adim (Last stop to death)	1983	tt0183599	DVD5	TUR/ENGsub	PAL	1h16m58s	VHS	new VHS2DVD transfer	249	false
-Ölümsüz (The immortal)	1982	tt0492422	DVD5	TUR/ENGsub	PAL	1h20m07s	VHS	new VHS2DVD transfer	262	false
-Örümcek (Turkish Spiderman)	1972	tt0309117	DVD5	TUR/ENGsub	PAL	1h04m20s	DVD	none	115	false
