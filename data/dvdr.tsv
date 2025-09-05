@@ -19,6 +19,7 @@ film.title	year	imdb	format	languages	NTSC/PAL	duration	source	info	N.	NEW
 7 uomini d'oro	1965	tt0059707	DVD5	ITA/ENG	NTSC	1h26m34s	DVD	full DVD	629	false
 99 donne	1969	tt0063977	DVD5	ITA	PAL	1h32m12s	Telecine	none	0	false
 A pugni nudi	1974	tt0071092	DVD5	ITA/ENGsub	PAL	1h31m37s	Telecine	none	514	false
+A TV Dante	1989	tt0098428	DVD5	ENG	PAL	1h27m54s	DVD	full DVD + extras	767	false
 Abbandonati nello spazio	1969	tt0064639	DVD5	ITA/ENGsub	PAL	2h03m41s	DVD	full DVD	398	false
 Aç kartallar (Starving eagles; aka Turkish Bruce Lee)	1984	tt0441113	DVD5	TUR/ENGsub	PAL	1h14m42s	VHS	new VHS2DVD transfer	254	false
 Acid – delirio dei sensi	1968	tt0062634	DVD5	ITA	PAL	1h32m23s	VHS	10mins ca. blank tape	0	false
@@ -261,7 +262,7 @@ Frankenstein alla conquista della Terra	1965	tt0059205	DVD5	ITA	PAL	1h33m13s	DVD
 Fratello dello spazio	1988	tt0380368	DVD5	ITA	PAL	---	DTT	none	45	false
 Frida professione menager	2000	NOimdb	DVD5	ITA	PAL	---	VHS	none	87	false
 Fuoco incrociato	1988	tt0198499	DVD5	ITA	PAL	1h28m24s	TV	none	156	false
-Furia gialla	1971	tt0077478	DVD5	ITA	PAL	---	DTT	[ASIA] full DVD	0	false
+Furia gialla	1971	tt0077478	DVD5	ITA	PAL	---	DTT	[ASIA] full DVD	769	false
 Future cops	1994	tt0106545	DVD5	ZH/ENGsub	NTSC	1h34m20s	DVD	[ASIA] full DVD	118	false
 Gangsters '70	1968	tt0063011	DVD5	ITA	PAL	1h36m41s	DVD + VHS	custom uncut mux	0	false
 Gay Salomè	1980	tt0210066	DVD5	ITA	PAL	1h18m07s	VHS	none	140	false
@@ -300,7 +301,7 @@ Gulliver	1979	tt0074596	DVD5	ESP	NTSC	1h39m17s	VHS	none	0	false
 Hallo Ward!...E furono vacanze in sangue	1968	tt0063232	DVD5	ITA	PAL	1h28m54s	Telecine	none	181	false
 Häxan - La stregoneria attraverso i secoli	192	tt0013257	DVD9	SWE/ENG/ENGsub	NTSC	1h45m08s + 1h16m38s	DVD	full Criterion DVD	459	false
 Hearts of Fire	1987	tt0093163	DVD5	ENG	NTSC	1h35m05s	VHS	none	758	false
-Heaven and earth magic	1962	tt0056060	DVD5	ENG	NTSC	1h32m30s	VHS	30mins ca. blank tape	0	false
+Heaven and earth magic	1962	tt0056060	DVD5	ENG	NTSC	1h32m30s	VHS	30mins ca. blank tape	768	false
 Hobitit	1993	tt0441925	DVD5	FIN/ENGsub	PAL	---	TV	none	226	false
 Hong Kil-dong	1986	tt0254387	DVD5	KOR/ENGsub	PAL	1h44m32s	DVD	[ASIA]	494	false
 I 12 medaglioni	1970	tt0192601	DVD9	ITA/ITA5.1	PAL	1h41m29s	DVD	[ASIA] full DVD + extras	0	false
@@ -563,6 +564,8 @@ Lady Snowblood 2: Love Song of Vengeance	1974	tt0072157	DVD5	JAP/ITAsub	PAL	1h37
 Laggiù nella giungla	1986	tt0131458	DVD5	ITA	PAL	1h41m01s	VHS	none	266	false
 Las luchadoras contra el robot asesino	1969	tt0134797	DVD5	ESP/ENGsub	NTSC	1h14m46s	VHS	none	562	false
 Las momias de Guanajuato	1972	tt0208306	DVD5	ESP/ENG/ENGsub	NTSC	1h19m30s	DVD	full DVD	270	false
+Il braccio violento del Thay-Pan	1978	noIMDb	DVD5	ITA	PAL	---	TV	composite movie made from “Lady Whirlwind”, “Crush”, “Blind Boxer”	769	false
+The Strange Case of the End of Civilization as We Know It	1977	tt0076770	DVD5	ENG	PAL	0h54m39s	DVD	full DVD	770	false
 Latitudine zero	1969	tt0064470	DVD9	ITA/JAP/ENG	PAL	---	DVD	[ASIA] retail DVDx2 (International + Japanese versions)	0	false
 Le 10 meraviglie dell'amore	1969	tt0168442	DVD5	ITA	PAL	1h18m02s	VHS	none	161	false
 Le amorose notti di Ali Babà	1973	tt0069710	DVD5	ITA	PAL	1h19m41s	TV	none	75	false
