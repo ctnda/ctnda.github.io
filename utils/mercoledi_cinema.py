@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 
 from imdb import IMDb
 import json
@@ -81,4 +79,3 @@ for director in movie['director']:
 print('Genres:')
 for genre in movie['genres']:
     print(genre)
-

@@ -1,0 +1,14 @@
+[project]
+name = "media-scripts"
+version = "0.1.0"
+description = "Collection of scripts for disc packing, HTML/ASCII to TSV conversion, and optical media scanning"
+requires-python = ">=3.8"
+
+# Tutte le librerie richieste dai tuoi script
+dependencies = [
+    "beautifulsoup4",  # html2tsv.py
+    "imdbpy",          # mercoledi_cinema.py
+]
+
+[tool.uv]
+# eventuali impostazioni uv personalizzate
