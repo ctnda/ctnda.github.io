@@ -1,0 +1,217 @@
+=== VIDEO FILE ===
+File: VideoMix013/Monkey Punch no Sekai Alice (SUB-ITA)/Monkey Punch no Sekai Alice (SUB-ITA).mp4
+Duration: 00:46:59
+Container bitrate: 939 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 801 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 129 kbps, Language: jpn
+
+=== VIDEO FILE ===
+File: VideoMix013/Primal.SEASON.01.S01.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Primal.S01E01.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:21:38
+Container bitrate: 726 kbps
+[Video] Codec: hevc, Resolution: 1920x816, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix013/Primal.SEASON.01.S01.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Primal.S01E02.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:20:40
+Container bitrate: 925 kbps
+[Video] Codec: hevc, Resolution: 1920x816, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix013/Primal.SEASON.01.S01.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Primal.S01E03.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:22:28
+Container bitrate: 1193 kbps
+[Video] Codec: hevc, Resolution: 1920x816, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix013/Primal.SEASON.01.S01.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Primal.S01E04.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:22:28
+Container bitrate: 817 kbps
+[Video] Codec: hevc, Resolution: 1920x816, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix013/Primal.SEASON.01.S01.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Primal.S01E05.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:22:28
+Container bitrate: 1023 kbps
+[Video] Codec: hevc, Resolution: 1920x816, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix013/Primal.SEASON.01.S01.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Primal.S01E06.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:22:35
+Container bitrate: 815 kbps
+[Video] Codec: hevc, Resolution: 1920x816, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix013/Primal.SEASON.01.S01.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Primal.S01E07.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:21:37
+Container bitrate: 1019 kbps
+[Video] Codec: hevc, Resolution: 1920x816, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix013/Primal.SEASON.01.S01.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Primal.S01E08.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:23:10
+Container bitrate: 797 kbps
+[Video] Codec: hevc, Resolution: 1920x816, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix013/Primal.SEASON.01.S01.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Primal.S01E09.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:20:26
+Container bitrate: 769 kbps
+[Video] Codec: hevc, Resolution: 1920x816, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix013/Primal.SEASON.01.S01.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Primal.S01E10.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:23:01
+Container bitrate: 727 kbps
+[Video] Codec: hevc, Resolution: 1920x816, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix013/Primal.SEASON.02.S02.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Primal.S02E01.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:22:27
+Container bitrate: 800 kbps
+[Video] Codec: hevc, Resolution: 1920x816, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix013/Primal.SEASON.02.S02.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Primal.S02E02.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:22:41
+Container bitrate: 911 kbps
+[Video] Codec: hevc, Resolution: 1920x816, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix013/Primal.SEASON.02.S02.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Primal.S02E03.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:22:16
+Container bitrate: 650 kbps
+[Video] Codec: hevc, Resolution: 1920x816, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix013/Primal.SEASON.02.S02.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Primal.S02E04.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:23:09
+Container bitrate: 750 kbps
+[Video] Codec: hevc, Resolution: 1920x816, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix013/Primal.SEASON.02.S02.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Primal.S02E05.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:20:51
+Container bitrate: 773 kbps
+[Video] Codec: hevc, Resolution: 1920x816, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix013/Primal.SEASON.02.S02.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Primal.S02E06.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:22:47
+Container bitrate: 906 kbps
+[Video] Codec: hevc, Resolution: 1920x816, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix013/Primal.SEASON.02.S02.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Primal.S02E07.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:22:29
+Container bitrate: 749 kbps
+[Video] Codec: hevc, Resolution: 1920x816, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix013/Primal.SEASON.02.S02.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Primal.S02E08.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:20:51
+Container bitrate: 756 kbps
+[Video] Codec: hevc, Resolution: 1920x816, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix013/Primal.SEASON.02.S02.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Primal.S02E09.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:20:25
+Container bitrate: 700 kbps
+[Video] Codec: hevc, Resolution: 1920x816, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix013/Primal.SEASON.02.S02.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Primal.S02E10.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:23:49
+Container bitrate: 685 kbps
+[Video] Codec: hevc, Resolution: 1920x816, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix013/Primal.SEASON.03.S03.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Primal.S03E01.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:22:42
+Container bitrate: 824 kbps
+[Video] Codec: hevc, Resolution: 1920x816, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix013/Primal.SEASON.03.S03.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Primal.S03E02.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:22:44
+Container bitrate: 874 kbps
+[Video] Codec: hevc, Resolution: 1920x816, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix013/Primal.SEASON.03.S03.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Primal.S03E03.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:21:36
+Container bitrate: 691 kbps
+[Video] Codec: hevc, Resolution: 1920x816, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix013/Primal.SEASON.03.S03.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Primal.S03E04.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:22:43
+Container bitrate: 913 kbps
+[Video] Codec: hevc, Resolution: 1920x816, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix013/Primal.SEASON.03.S03.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Primal.S03E05.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:21:59
+Container bitrate: 983 kbps
+[Video] Codec: hevc, Resolution: 1920x816, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix013/Primal.SEASON.03.S03.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Primal.S03E06.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:22:02
+Container bitrate: 742 kbps
+[Video] Codec: hevc, Resolution: 1920x816, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix013/Primal.SEASON.03.S03.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Primal.S03E07.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:22:21
+Container bitrate: 881 kbps
+[Video] Codec: hevc, Resolution: 1920x816, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix013/Primal.SEASON.03.S03.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Primal.S03E08.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:22:26
+Container bitrate: 687 kbps
+[Video] Codec: hevc, Resolution: 1920x816, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix013/Primal.SEASON.03.S03.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Primal.S03E09.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:21:52
+Container bitrate: 762 kbps
+[Video] Codec: hevc, Resolution: 1920x816, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix013/Primal.SEASON.03.S03.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Primal.S03E10.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:22:45
+Container bitrate: 847 kbps
+[Video] Codec: hevc, Resolution: 1920x816, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
