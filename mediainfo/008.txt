@@ -1,0 +1,182 @@
+=== VIDEO FILE ===
+File: VideoMix008/Collericamente vostro Braccio di Ferro 01/01 La Macchina Per Tornare bambini.mp4
+Duration: 00:20:54
+Container bitrate: 935 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 128 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix008/Collericamente vostro Braccio di Ferro 01/02 Starnuti A Gogo.mp4
+Duration: 00:21:06
+Container bitrate: 799 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 128 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix008/Collericamente vostro Braccio di Ferro 01/03 Rissa Stellare.mp4
+Duration: 00:20:41
+Container bitrate: 932 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 130 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix008/Collericamente vostro Braccio di Ferro 01/04 La Legge E Legge.mp4
+Duration: 00:20:43
+Container bitrate: 988 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 130 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix008/Collericamente vostro Braccio di Ferro 01/05 Un Campeggio Mostruoso.mp4
+Duration: 00:22:20
+Container bitrate: 1055 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 131 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix008/Collericamente vostro Braccio di Ferro 01/06 L Anello Incantato.mp4
+Duration: 00:20:52
+Container bitrate: 993 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 130 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix008/Collericamente vostro Braccio di Ferro 01/07 Risalendo Il Mississipi.mp4
+Duration: 00:21:22
+Container bitrate: 1012 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 130 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix008/Collericamente vostro Braccio di Ferro 01/08 Un Bastimento Carico Di hamburger.mp4
+Duration: 00:20:47
+Container bitrate: 969 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 130 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix008/Collericamente vostro Braccio di Ferro 01/09 Uno Strano Pellerossa.mp4
+Duration: 00:20:44
+Container bitrate: 1056 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 130 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix008/Collericamente vostro Braccio di Ferro 01/10 Supermercato Per Gonzi.mp4
+Duration: 00:20:46
+Container bitrate: 1035 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 130 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix008/Collericamente vostro Braccio di Ferro 01/11 Per Un Pugno Di Risate.mp4
+Duration: 00:20:52
+Container bitrate: 1110 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 130 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix008/Collericamente vostro Braccio di Ferro 01/12 Lungo Duello.mp4
+Duration: 00:21:29
+Container bitrate: 885 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 130 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix008/Collericamente vostro Braccio di Ferro 01/13 Braccio Di Ferro E Il suo amico Bruto.mp4
+Duration: 00:21:09
+Container bitrate: 911 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 130 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix008/Collericamente vostro Braccio di Ferro 01/14 I Re Della Foresta.mp4
+Duration: 00:20:54
+Container bitrate: 972 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 130 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix008/Collericamente vostro Braccio di Ferro 01/15 Braccio Di Ferro E Invisibile.mp4
+Duration: 00:20:55
+Container bitrate: 1169 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 130 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix008/Collericamente vostro Braccio di Ferro 01/16 Una Perla Per Olivia.mp4
+Duration: 00:21:00
+Container bitrate: 1133 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 130 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix008/Collericamente vostro Braccio di Ferro 01/17 Il Concorso Di Pittura.mp4
+Duration: 00:21:02
+Container bitrate: 1305 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 131 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix008/Collericamente vostro Braccio di Ferro 01/18 Ballo In Maschera.mp4
+Duration: 00:20:49
+Container bitrate: 1074 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 130 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix008/Collericamente vostro Braccio di Ferro 01/19 Braccio Di Ferro E Lo spinacio gigante.mp4
+Duration: 00:21:01
+Container bitrate: 1270 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 131 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix008/Collericamente vostro Braccio di Ferro 01/20 Olivia E I Sette Pisellini.mp4
+Duration: 00:21:13
+Container bitrate: 1094 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 131 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix008/Collericamente vostro Braccio di Ferro 01/21 Il Servo Robot.mp4
+Duration: 00:21:00
+Container bitrate: 1064 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 130 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix008/Collericamente vostro Braccio di Ferro 01/22 Profumo Di Ricchezza.mp4
+Duration: 00:21:02
+Container bitrate: 1031 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 130 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix008/Collericamente vostro Braccio di Ferro 01/23 Tuoni Fulmini E Saette.mp4
+Duration: 00:21:34
+Container bitrate: 1166 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 130 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix008/Collericamente vostro Braccio di Ferro 01/24 Ho Tempo Viaggero.mp4
+Duration: 00:21:29
+Container bitrate: 1251 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 130 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix008/Collericamente vostro Braccio di Ferro 01/25 Lo Scroccone.mp4
+Duration: 00:20:56
+Container bitrate: 1063 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 130 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix008/Collericamente vostro Braccio di Ferro 01/26 Alla Fiera.mp4
+Duration: 00:20:51
+Container bitrate: 1383 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 131 kbps, Language: n/a
+

@@ -1,0 +1,168 @@
+=== VIDEO FILE ===
+File: VideoMix009/Collericamente vostro Braccio di Ferro 02/27 Al Luna Park.mp4
+Duration: 00:20:48
+Container bitrate: 1272 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 130 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix009/Collericamente vostro Braccio di Ferro 02/28 Terapia D Urto.mp4
+Duration: 00:20:49
+Container bitrate: 1388 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 131 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix009/Collericamente vostro Braccio di Ferro 02/29 Denti Sani Denti Belli.mp4
+Duration: 00:20:58
+Container bitrate: 1301 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 130 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix009/Collericamente vostro Braccio di Ferro 02/30 Sfumatura Bassa.mp4
+Duration: 00:20:51
+Container bitrate: 1317 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 130 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix009/Collericamente vostro Braccio di Ferro 02/31 Pollicino.mp4
+Duration: 00:21:26
+Container bitrate: 1315 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 130 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix009/Collericamente vostro Braccio di Ferro 02/32 La Regina Degli Aborigeni.mp4
+Duration: 00:20:39
+Container bitrate: 1358 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 131 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix009/Collericamente vostro Braccio di Ferro 02/33 Il Segreto Dell Agente.mp4
+Duration: 00:20:52
+Container bitrate: 1291 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 131 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix009/Collericamente vostro Braccio di Ferro 02/34.mp4
+Duration: 00:24:36
+Container bitrate: 795 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 100 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix009/Collericamente vostro Braccio di Ferro 02/35 Duello All Ultimo Vetro.mp4
+Duration: 00:20:37
+Container bitrate: 983 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 131 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix009/Collericamente vostro Braccio di Ferro 02/36 Quel Volo Per Le Hawai.mp4
+Duration: 00:21:38
+Container bitrate: 959 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 131 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix009/Collericamente vostro Braccio di Ferro 02/37 Cura Psichiatrica.mp4
+Duration: 00:20:50
+Container bitrate: 1364 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 131 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix009/Collericamente vostro Braccio di Ferro 02/38 L Accalappiacani.mp4
+Duration: 00:20:59
+Container bitrate: 1103 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 131 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix009/Collericamente vostro Braccio di Ferro 02/39 La Stazione Di Servizi.mp4
+Duration: 00:21:00
+Container bitrate: 881 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 131 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix009/Collericamente vostro Braccio di Ferro 02/40 Il Segno Di Zero.mp4
+Duration: 00:24:38
+Container bitrate: 967 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 130 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix009/Collericamente vostro Braccio di Ferro 02/41 La Fiera.mp4
+Duration: 00:18:35
+Container bitrate: 1127 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 131 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix009/Collericamente vostro Braccio di Ferro 02/42 Il Grande Balenottero.mp4
+Duration: 00:18:37
+Container bitrate: 1117 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 130 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix009/Collericamente vostro Braccio di Ferro 02/43 Grand Hotel.mp4
+Duration: 00:21:17
+Container bitrate: 951 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 131 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix009/Collericamente vostro Braccio di Ferro 02/44 Drago Gentile.mp4
+Duration: 00:21:30
+Container bitrate: 1043 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 131 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix009/Collericamente vostro Braccio di Ferro 02/45 A Pesca Di Hamburger.mp4
+Duration: 00:20:55
+Container bitrate: 1094 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 131 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix009/Collericamente vostro Braccio di Ferro 02/46 Diamanti A Merenda.mp4
+Duration: 00:21:57
+Container bitrate: 1026 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 131 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix009/Collericamente vostro Braccio di Ferro 02/47 Il Navigatore Delle Praterie.mp4
+Duration: 00:21:26
+Container bitrate: 1036 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 131 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix009/Collericamente vostro Braccio di Ferro 02/48 La Grande Corsa a ostacoli.mp4
+Duration: 00:21:21
+Container bitrate: 1061 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 131 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix009/Collericamente vostro Braccio di Ferro 02/49 Il Giro Del Mondo In 80 nodi.mp4
+Duration: 00:21:10
+Container bitrate: 1058 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 130 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: VideoMix009/Collericamente vostro Braccio di Ferro 02/50 La Cura.mp4
+Duration: 00:21:07
+Container bitrate: 884 kbps
+[Video] Codec: h264, Resolution: 720x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 130 kbps, Language: n/a
+

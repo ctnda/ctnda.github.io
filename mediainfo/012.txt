@@ -1,0 +1,98 @@
+=== VIDEO FILE ===
+File: VideoMix012/Dungeons & Dragons S02/14 La ragazza che sognava il domani.mp4
+Duration: 00:21:40
+Container bitrate: 2252 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 2114 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 129 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix012/Dungeons & Dragons S02/15 Il tesoro di Tardos.mp4
+Duration: 00:21:40
+Container bitrate: 2015 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1876 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 130 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix012/Dungeons & Dragons S02/16 Città al limite della mezzanotte.mp4
+Duration: 00:21:40
+Container bitrate: 1926 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1787 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 130 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix012/Dungeons & Dragons S02/17 Il traditore.mp4
+Duration: 00:21:40
+Container bitrate: 1830 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1691 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 130 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix012/Dungeons & Dragons S02/18 Giorno del Dungeon Master.mp4
+Duration: 00:21:42
+Container bitrate: 1732 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1593 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 130 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix012/Dungeons & Dragons S02/19 L'ultima illusione.mp4
+Duration: 00:21:42
+Container bitrate: 2275 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 2137 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 129 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix012/Dungeons & Dragons S02/20 Il cimitero del drago.mp4
+Duration: 00:21:42
+Container bitrate: 2064 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1927 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 129 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix012/Dungeons & Dragons S02/21 Figlio dell'osservatore delle stelle.mp4
+Duration: 00:21:42
+Container bitrate: 1929 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1791 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 129 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix012/Dungeons & Dragons S03/22 Il Dungeon nel Cuore dell'Alba.mp4
+Duration: 00:21:41
+Container bitrate: 1901 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1763 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 130 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix012/Dungeons & Dragons S03/23 Il tempo perduto.mp4
+Duration: 00:21:41
+Container bitrate: 1692 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1554 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 130 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix012/Dungeons & Dragons S03/24 __Odissea del 12° Talismano__.mp4
+Duration: 00:21:41
+Container bitrate: 1685 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1546 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 130 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix012/Dungeons & Dragons S03/25 Cittadella dell'Ombra.mp4
+Duration: 00:21:43
+Container bitrate: 1811 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1672 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 130 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix012/Dungeons & Dragons S03/26 Grotta dei Draghi Fatati.mp4
+Duration: 00:21:38
+Container bitrate: 2050 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1912 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 130 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix012/Dungeons & Dragons S03/27 I venti dell'oscurità.mp4
+Duration: 00:21:41
+Container bitrate: 1779 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1641 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 129 kbps, Language: eng
+

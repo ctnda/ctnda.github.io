@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Disk Index</title>
+<style>
+body { color: #000; font-family: "DejaVu Sans Mono", monospace; font-size: 10pt; }
+tr:hover td { background: #fff062 !important; }
+#example td, #example th { text-align: center; }
+#example td:first-child, #example th:first-child { text-align: left; }
+</style>
+<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css">
+<script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"></script>
+<script>
+$(document).ready(function () {
+    var myTable = $("#example").DataTable({ paging: false });
+});
+</script>
+</head>
+<body class="wide comments example">
+	<pre class="western" style="text-align: center">
+		******  ********** ****     **      **     **
+		**////**/////**/// /**/**   /**     /**    ****
+		**    //     /**    /**//**  /**     /**   **//**
+		/**           /**    /** //** /**  ******  **  //**
+		/**           /**    /**  //**/** **///** **********
+		//**    **    /**    /**   //****/**  /**/**//////**
+		 //******     /**    /**    //***//******/**     /**
+		  //////      //     //      ///  ////// //      //
+		..::::::......::.....::......:::..::::::.::......::.
+		::::::::::::::::::::::::::::::::::::::::::::::::::::
+		::::::::::::::::::43 54 4E 64 41::::::::::::::::::::
+
+		<a href="../index.html">Back to index</a>
+
+		▗▖  ▗▖▄    ▐▌▗▞▀▚▖ ▄▄▄  ▗▖  ▗▖▄ ▄   ▄
+▐▌  ▐▌▄    ▐▌▐▛▀▀▘█   █ ▐▛▚▞▜▌▄  ▀▄▀
+▐▌  ▐▌█ ▗▞▀▜▌▝▚▄▄▖▀▄▄▄▀ ▐▌  ▐▌█ ▄▀ ▀▄
+ ▝▚▞▘ █ ▝▚▄▟▌           ▐▌  ▐▌█
+
+
+
+		<font color="#ff0000">Last update: 27 December 2022
+		FOR NEW ARRIVALS: double click on the "NEW" column
+		Asian movies have the label [ASIA] in the "info" column</font><div align="right"></pre>
+<table id="example" class="display" style="width:100%">
+<thead>
+<tr>
+<th>Disk #</th>
+<th>Main Folder</th>
+<th>Audio</th>
+<th>Video</th>
+<th>Images</th>
+<th>Other</th>
+<th>Media Info</th>
+</tr>
+</thead>
+<tbody>
+<tr data-disk='008'><td>008</td><td>Collericamente vostro Braccio di Ferro 01</td><td>0</td><td>26</td><td>0</td><td>0</td><td><a href='mediainfo/008.txt'>008.txt</a></td></tr>
+</tbody></table></body></html>

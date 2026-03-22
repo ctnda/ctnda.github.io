@@ -1,0 +1,91 @@
+=== VIDEO FILE ===
+File: VideoMix011/Dungeons & Dragons S01/01 __La notte senza domani__.mp4
+Duration: 00:21:51
+Container bitrate: 1581 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1442 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 130 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix011/Dungeons & Dragons S01/02 __L'occhio di chi guardia__.mp4
+Duration: 00:21:39
+Container bitrate: 1616 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1478 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 130 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix011/Dungeons & Dragons S01/03 __La Sala delle Ossa__.mp4
+Duration: 00:21:51
+Container bitrate: 1729 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1591 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 130 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix011/Dungeons & Dragons S01/04 __Valle degli Unicorni__.mp4
+Duration: 00:21:41
+Container bitrate: 1674 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1536 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 129 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix011/Dungeons & Dragons S01/05 __Alla ricerca del Dungeon Master__.mp4
+Duration: 00:21:53
+Container bitrate: 1801 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1663 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 129 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix011/Dungeons & Dragons S01/06 La bella e la bestia.mp4
+Duration: 00:21:53
+Container bitrate: 1926 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1788 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 129 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix011/Dungeons & Dragons S01/07 __Prigione senza muri__.mp4
+Duration: 00:21:42
+Container bitrate: 1827 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1688 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 130 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix011/Dungeons & Dragons S01/08 __Servo del male__.mp4
+Duration: 00:21:41
+Container bitrate: 1957 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1819 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 130 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix011/Dungeons & Dragons S01/09 La ricerca del guerriero scheletro.mp4
+Duration: 00:21:38
+Container bitrate: 1881 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1743 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 129 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix011/Dungeons & Dragons S01/10 Il Giardino di Zinn.mp4
+Duration: 00:21:41
+Container bitrate: 1915 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1776 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 130 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix011/Dungeons & Dragons S01/11 La scatola.mp4
+Duration: 00:21:41
+Container bitrate: 1791 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1653 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 130 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix011/Dungeons & Dragons S01/12  I bambini perduti.mp4
+Duration: 00:21:41
+Container bitrate: 1888 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1751 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 129 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix011/Dungeons & Dragons S01/13 Disastro.mp4
+Duration: 00:21:41
+Container bitrate: 1831 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: 1693 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 130 kbps, Language: eng
+
