@@ -1,0 +1,200 @@
+=== VIDEO FILE ===
+File: VideoMix014/The.Legend.of.Vox.Machina.S01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/The.Legend.of.Vox.Machina.S01E01.The.Terror.of.Tal'Dorei.Part.1.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+Duration: 00:27:07
+Container bitrate: 390 kbps
+[Video] Codec: hevc, Resolution: 1280x720, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix014/The.Legend.of.Vox.Machina.S01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/The.Legend.of.Vox.Machina.S01E02.The.Terror.of.Tal'Dorei.Part.2.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+Duration: 00:28:03
+Container bitrate: 412 kbps
+[Video] Codec: hevc, Resolution: 1280x720, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix014/The.Legend.of.Vox.Machina.S01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/The.Legend.of.Vox.Machina.S01E03.The.Feast.of.Realms.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+Duration: 00:24:25
+Container bitrate: 371 kbps
+[Video] Codec: hevc, Resolution: 1280x720, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix014/The.Legend.of.Vox.Machina.S01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/The.Legend.of.Vox.Machina.S01E04.Shadows.at.the.Gates.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+Duration: 00:24:45
+Container bitrate: 310 kbps
+[Video] Codec: hevc, Resolution: 1280x720, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix014/The.Legend.of.Vox.Machina.S01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/The.Legend.of.Vox.Machina.S01E05.Fate's.Journey.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+Duration: 00:25:07
+Container bitrate: 332 kbps
+[Video] Codec: hevc, Resolution: 1280x720, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix014/The.Legend.of.Vox.Machina.S01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/The.Legend.of.Vox.Machina.S01E06.Spark.of.Rebellion.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+Duration: 00:24:36
+Container bitrate: 261 kbps
+[Video] Codec: hevc, Resolution: 1280x720, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix014/The.Legend.of.Vox.Machina.S01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/The.Legend.of.Vox.Machina.S01E07.Scanbo.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+Duration: 00:24:46
+Container bitrate: 355 kbps
+[Video] Codec: hevc, Resolution: 1280x720, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix014/The.Legend.of.Vox.Machina.S01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/The.Legend.of.Vox.Machina.S01E08.A.Silver.Tongue.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+Duration: 00:24:33
+Container bitrate: 328 kbps
+[Video] Codec: hevc, Resolution: 1280x720, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix014/The.Legend.of.Vox.Machina.S01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/The.Legend.of.Vox.Machina.S01E09.The.Tide.of.Bone.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+Duration: 00:24:13
+Container bitrate: 292 kbps
+[Video] Codec: hevc, Resolution: 1280x720, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix014/The.Legend.of.Vox.Machina.S01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/The.Legend.of.Vox.Machina.S01E10.Depths.of.Deceit.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+Duration: 00:24:23
+Container bitrate: 321 kbps
+[Video] Codec: hevc, Resolution: 1280x720, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix014/The.Legend.of.Vox.Machina.S01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/The.Legend.of.Vox.Machina.S01E11.Whispers.at.the.Ziggurat.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+Duration: 00:23:43
+Container bitrate: 565 kbps
+[Video] Codec: hevc, Resolution: 1280x720, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix014/The.Legend.of.Vox.Machina.S01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/The.Legend.of.Vox.Machina.S01E12.The.Darkness.Within.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+Duration: 00:27:05
+Container bitrate: 277 kbps
+[Video] Codec: hevc, Resolution: 1280x720, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix014/The.Legend.of.Vox.Machina.S02.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/The.Legend.of.Vox.Machina.S02E01.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:24:36
+Container bitrate: 846 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix014/The.Legend.of.Vox.Machina.S02.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/The.Legend.of.Vox.Machina.S02E02.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:25:56
+Container bitrate: 844 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix014/The.Legend.of.Vox.Machina.S02.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/The.Legend.of.Vox.Machina.S02E03.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:25:59
+Container bitrate: 717 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix014/The.Legend.of.Vox.Machina.S02.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/The.Legend.of.Vox.Machina.S02E04.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:25:59
+Container bitrate: 603 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix014/The.Legend.of.Vox.Machina.S02.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/The.Legend.of.Vox.Machina.S02E05.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:26:16
+Container bitrate: 885 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix014/The.Legend.of.Vox.Machina.S02.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/The.Legend.of.Vox.Machina.S02E06.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:26:35
+Container bitrate: 921 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix014/The.Legend.of.Vox.Machina.S02.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/The.Legend.of.Vox.Machina.S02E07.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:27:11
+Container bitrate: 1110 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix014/The.Legend.of.Vox.Machina.S02.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/The.Legend.of.Vox.Machina.S02E08.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:27:06
+Container bitrate: 720 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix014/The.Legend.of.Vox.Machina.S02.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/The.Legend.of.Vox.Machina.S02E09.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:27:01
+Container bitrate: 656 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix014/The.Legend.of.Vox.Machina.S02.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/The.Legend.of.Vox.Machina.S02E10.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:26:29
+Container bitrate: 750 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix014/The.Legend.of.Vox.Machina.S02.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/The.Legend.of.Vox.Machina.S02E11.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:27:12
+Container bitrate: 788 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix014/The.Legend.of.Vox.Machina.S02.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/The.Legend.of.Vox.Machina.S02E12.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:29:38
+Container bitrate: 797 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix014/Uzumaki.Spiral.Into.Horror.S01.DUAL-AUDIO.JAP-ENG.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA/Uzumaki.Spiral.Into.Horror.S01E01.DUAL-AUDIO.JAP-ENG.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+Duration: 00:23:16
+Container bitrate: 1876 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: jpn
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix014/Uzumaki.Spiral.Into.Horror.S01.DUAL-AUDIO.JAP-ENG.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA/Uzumaki.Spiral.Into.Horror.S01E02.DUAL-AUDIO.JAP-ENG.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+Duration: 00:27:55
+Container bitrate: 1325 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: jpn
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix014/Uzumaki.Spiral.Into.Horror.S01.DUAL-AUDIO.JAP-ENG.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA/Uzumaki.Spiral.Into.Horror.S01E03.DUAL-AUDIO.JAP-ENG.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+Duration: 00:29:30
+Container bitrate: 1722 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: jpn
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VideoMix014/Uzumaki.Spiral.Into.Horror.S01.DUAL-AUDIO.JAP-ENG.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA/Uzumaki.Spiral.Into.Horror.S01E04.DUAL-AUDIO.JAP-ENG.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+Duration: 00:33:43
+Container bitrate: 2042 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: jpn
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
