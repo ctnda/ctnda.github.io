@@ -3,10 +3,13 @@
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+    <meta
+      name="viewport"
+      content="width=device-width,initial-scale=1,user-scalable=no"
+    >
     <title>CTNdA DVD-r</title>
     <style>
-      body {
+    body {
       color: #000000;
       font-family: "DejaVu Sans Mono", monospace;
       font-size: 10pt;
@@ -14,20 +17,54 @@
     tr:hover td {
       background: #fff062 !important;
     }
+    /* tutte le celle centrate */
+    #example th,
+    #example td {
+      text-align: center;
+    }
+
+    /* prima colonna allineata a sinistra */
+    #example th:first-child,
+    #example td:first-child {
+      text-align: left;
+    }
     </style>
     <!-- jQuery -->
-    <script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
+    <script
+      src="https://code.jquery.com/jquery-3.4.1.js"
+      integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+      crossorigin="anonymous"
+    ></script>
     <!-- DataTables -->
-    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css">
-    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"></script>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css"
+    >
+    <script
+      type="text/javascript"
+      charset="utf8"
+      src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"
+    ></script>
     <!-- yadcf -->
-    <script type="text/javascript" charset="utf8" src="https://cdnjs.cloudflare.com/ajax/libs/yadcf/0.9.4/jquery.dataTables.yadcf.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.10/js/select2.js" integrity="sha256-7QI04ySSWOSntO1zRz4OathEWRGoHz5kLVy+wHkB+UE=" crossorigin="anonymous"></script>
+    <script
+      type="text/javascript"
+      charset="utf8"
+      src="https://cdnjs.cloudflare.com/ajax/libs/yadcf/0.9.4/jquery.dataTables.yadcf.js"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.10/js/select2.js"
+      integrity="sha256-7QI04ySSWOSntO1zRz4OathEWRGoHz5kLVy+wHkB+UE="
+      crossorigin="anonymous"
+    ></script>
     <!-- PapaParse -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
   </head>
   <body class="wide comments example">
-      <pre class="western" style="text-align: center">
+    <pre
+      class="western"
+      style="text-align: center"
+    >
 		******  ********** ****     **      **     **
 		**////**/////**/// /**/**   /**     /**    ****
 		**    //     /**    /**//**  /**     /**   **//**
@@ -48,10 +85,10 @@
 		.##..##...####...##..##..........##..##.
 		.#####.....##....#####...........##..##.
 		........................................
-		<font color="#ff0000">Last update: 07 September 2025
+		<font color="#ff0000">Last update: 10 April 2026
 		FOR NEW ARRIVALS: double click on the "NEW" column
 		Asian movies have the label [ASIA] in the "info" column</font><div align="right"></pre>
-    <table id="example" class="display" style="width:100%">
+    <table id="example" class="display" style="width: 100%">
       <thead>
         <tr>
           <th>film.title</th>
@@ -70,9 +107,9 @@
       <tbody></tbody>
     </table>
     <script>
-      $(document).ready(function () {
-      var table = $('#example').DataTable({
-        paging: false
+    $(document).ready(function() {
+      var table = $("#example").DataTable({
+        paging: false,
       });
 
       Papa.parse("data/dvdr.tsv", {
@@ -96,7 +133,7 @@
                 row["source"],
                 row["info"],
                 row["N."],
-                row["NEW"]
+                row["NEW"],
               ]);
             }
           });
@@ -104,15 +141,23 @@
 
           // inizializzo i filtri SOLO dopo aver caricato i dati
           yadcf.init(table, [
-              { column_number: 4, filter_type: "multi_select", select_type: "select2" },
-              { column_number: 7, filter_type: "multi_select", select_type: "select2" }
+            {
+              column_number: 4,
+              filter_type: "multi_select",
+              select_type: "select2",
+            },
+            {
+              column_number: 7,
+              filter_type: "multi_select",
+              select_type: "select2",
+            },
           ], { cumulative_filtering: true });
-        }
+        },
       });
     });
     </script>
   </body>
- 	<!--
+  <!--
 	CUR	469
 	IRRDUEN	265
 	LA	440-441
