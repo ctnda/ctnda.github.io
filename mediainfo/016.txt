@@ -1,0 +1,35 @@
+=== VIDEO FILE ===
+File: VM016/Adrian.2019.S01.DTVRip.x264/adrian1x05/Adrian 1x05.mp4
+Duration: 02:15:37
+Container bitrate: 1384 kbps
+[Video] Codec: h264, Resolution: 1280x716, Bitrate: 1185 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 192 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VM016/Adrian.2019.S01.DTVRip.x264/adrian1x06/Adrian 1x06.mp4
+Duration: 02:19:31
+Container bitrate: 1686 kbps
+[Video] Codec: h264, Resolution: 1280x716, Bitrate: 1551 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VM016/Adrian.2019.S01.DTVRip.x264/adrian1x07/Adrian 1X07.mp4
+Duration: 01:13:35
+Container bitrate: 2835 kbps
+[Video] Codec: h264, Resolution: 1920x1080, Bitrate: 2632 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 197 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VM016/Adrian.2019.S01.DTVRip.x264/adrian1x08/Adrian 1x08.mp4
+Duration: 01:09:22
+Container bitrate: 2863 kbps
+[Video] Codec: h264, Resolution: 1920x1080, Bitrate: 2659 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 198 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VM016/Adrian.2019.S01.DTVRip.x264/adrian1x09/Adrian 1x09.mp4
+Duration: 01:23:19
+Container bitrate: 2875 kbps
+[Video] Codec: h264, Resolution: 1920x1080, Bitrate: 2671 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 197 kbps, Language: und
+
