@@ -1,0 +1,28 @@
+=== VIDEO FILE ===
+File: UNARIUS_01/A Whole New Life Through Past-Life Therapy/Unarius-A Whole New Life through Past-Life Therapy.198x.VHSRIP.x264-CG.mkv
+Duration: 01:27:10
+Container bitrate: 2176 kbps
+[Video] Codec: h264, Resolution: 708x474, Bitrate: n/a
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 256 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: UNARIUS_01/Lemuria Rising [547965412].mp4
+Duration: 00:53:09
+Container bitrate: 1829 kbps
+[Video] Codec: h264, Resolution: 1280x720, Bitrate: 1571 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 253 kbps, Language: und
+
+=== VIDEO FILE ===
+File: UNARIUS_01/RootsOfTheEarthman1.avi
+Duration: 01:00:17
+Container bitrate: 1675 kbps
+[Video] Codec: mpeg4, Resolution: 640x480, Bitrate: 1534 kbps
+[Audio] Codec: mp3, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: UNARIUS_01/TRUE TALES OF THE PAST： THE SAGA OF OSIRIS AND ISIS [514943935].mp4
+Duration: 00:49:07
+Container bitrate: 4548 kbps
+[Video] Codec: h264, Resolution: 1920x1080, Bitrate: 4290 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 253 kbps, Language: und
+

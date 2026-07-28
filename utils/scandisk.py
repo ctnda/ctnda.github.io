@@ -130,7 +130,9 @@ def run_ffprobe_parse(file: Path, disk_path: Path) -> str:
 
 
 # ----------------------------
-def analyse_disk(disk_number: str, disk_path: Path, root_name: str | None):
+def analyse_disk(
+    disk_number: str, disk_path: Path, root_name: str | None, exclude_root: bool
+):
     MEDIAINFO_DIR.mkdir(parents=True, exist_ok=True)
     txt_output = MEDIAINFO_DIR / f"{disk_number}.txt"
 
@@ -145,19 +147,18 @@ def analyse_disk(disk_number: str, disk_path: Path, root_name: str | None):
     results = []
 
     with open(txt_output, "w", encoding="utf-8") as txtfile:
-        # controlla se ci sono cartelle in root
-        root_folders = [p for p in disk_path.iterdir() if p.is_dir()]
+        root_items = list(disk_path.iterdir())
+        root_folders = sorted(p for p in root_items if p.is_dir())
+        root_files = sorted(p for p in root_items if p.is_file())
 
-        if root_folders:
-            # caso B: ci sono cartelle in root → processa solo quelle
-            items_to_scan = root_folders
-        else:
-            # caso A: nessuna cartella → processa solo la root
-            items_to_scan = [disk_path]
+        # Le cartelle vengono analizzate ricorsivamente. I file nella root sono
+        # una voce separata, così non vengono conteggiati di nuovo i file interni.
+        items_to_scan = [(folder, sorted(folder.rglob("*"))) for folder in root_folders]
+        if root_files and (not root_folders or not exclude_root):
+            items_to_scan.append((disk_path, root_files))
 
-        for item in items_to_scan:
+        for item, files in items_to_scan:
             counts = {"audio": 0, "video": 0, "image": 0, "other": 0}
-            files = sorted(item.rglob("*")) if item.is_dir() else [item]
             for file in files:
                 if file.is_file():
                     cat = get_category(file.suffix)
@@ -283,7 +284,12 @@ if __name__ == "__main__":
     parser.add_argument("disk_number", help="Progressive number of the disk")
     parser.add_argument(
         "--root-name",
-        help="Custom name for the root folder if the disk has no subfolders",
+        help="Custom name for the entry containing files in the disk root",
+    )
+    parser.add_argument(
+        "--exclude-root",
+        action="store_true",
+        help="Exclude files in the disk root when the disk contains subfolders",
     )
     parser.add_argument(
         "--device", default="/dev/sr0", help="Device to scan (default: /dev/sr0)"
@@ -296,4 +302,9 @@ if __name__ == "__main__":
         exit(1)
 
     print(f"[*] Using disk mounted at: {disk_path}")
-    analyse_disk(args.disk_number, disk_path=disk_path, root_name=args.root_name)
+    analyse_disk(
+        args.disk_number,
+        disk_path=disk_path,
+        root_name=args.root_name,
+        exclude_root=args.exclude_root,
+    )
