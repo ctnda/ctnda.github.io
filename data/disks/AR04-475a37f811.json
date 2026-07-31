@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "disk": {
+    "id": "AR04",
+    "label": "Andras Rajnai Collection vol.4",
+    "total_files": 4,
+    "video_files": 4,
+    "audio_files": 0,
+    "image_files": 0,
+    "other_files": 0
+  },
+  "files": [
+    {
+      "path": "AELITA - Fantastic story on Mars.mkv",
+      "category": "video",
+      "size_bytes": 761448905,
+      "size_human": "726.17 MiB",
+      "modified": "2023-12-26T11:37:07+01:00",
+      "media": {
+        "duration_seconds": 3085.04,
+        "duration_hms": "00:51:25",
+        "container": "Matroska / WebM",
+        "overall_bitrate_bps": 1974558,
+        "video_codec": "h264",
+        "width": 688,
+        "height": 528,
+        "aspect_ratio": "43:33",
+        "frame_rate": 50.0,
+        "audio_bitrates_bps": [
+          160000
+        ],
+        "subtitle_count": 1,
+        "subtitle_languages": [
+          "und"
+        ]
+      }
+    },
+    {
+      "path": "INFERNO aka Pokol (1974).mkv",
+      "category": "video",
+      "size_bytes": 1125957149,
+      "size_human": "1.05 GiB",
+      "modified": "2026-04-22T17:02:42+02:00",
+      "media": {
+        "duration_seconds": 3344.64,
+        "duration_hms": "00:55:44",
+        "container": "Matroska / WebM",
+        "overall_bitrate_bps": 2693161,
+        "video_codec": "h264",
+        "width": 696,
+        "height": 528,
+        "aspect_ratio": "29:22",
+        "frame_rate": 50.0,
+        "audio_bitrates_bps": [
+          160000
+        ],
+        "subtitle_count": 1,
+        "subtitle_languages": [
+          "und"
+        ]
+      }
+    },
+    {
+      "path": "The Fall of Cronus (1990).mkv",
+      "category": "video",
+      "size_bytes": 759810662,
+      "size_human": "724.61 MiB",
+      "modified": "2022-10-10T09:52:25+02:00",
+      "media": {
+        "duration_seconds": 3176.36,
+        "duration_hms": "00:52:56",
+        "container": "Matroska / WebM",
+        "overall_bitrate_bps": 1913663,
+        "video_codec": "h264",
+        "width": 696,
+        "height": 528,
+        "aspect_ratio": "29:22",
+        "frame_rate": 50.0,
+        "audio_bitrates_bps": [
+          160000
+        ],
+        "subtitle_count": 1,
+        "subtitle_languages": [
+          "und"
+        ]
+      }
+    },
+    {
+      "path": "VIDEO (1984).mkv",
+      "category": "video",
+      "size_bytes": 682692153,
+      "size_human": "651.07 MiB",
+      "modified": "2022-01-15T18:16:51+01:00",
+      "media": {
+        "duration_seconds": 2332.2,
+        "duration_hms": "00:38:52",
+        "container": "Matroska / WebM",
+        "overall_bitrate_bps": 2341796,
+        "video_codec": "h264",
+        "width": 680,
+        "height": 528,
+        "aspect_ratio": "85:66",
+        "frame_rate": 50.0,
+        "audio_bitrates_bps": [
+          160000
+        ],
+        "subtitle_count": 1,
+        "subtitle_languages": [
+          "und"
+        ]
+      }
+    }
+  ]
+}

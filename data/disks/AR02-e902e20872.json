@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "disk": {
+    "id": "AR02",
+    "label": "Andras Rajnai Collection vol.2",
+    "total_files": 6,
+    "video_files": 6,
+    "audio_files": 0,
+    "image_files": 0,
+    "other_files": 0
+  },
+  "files": [
+    {
+      "path": "Gilgamesh.mkv",
+      "category": "video",
+      "size_bytes": 685670425,
+      "size_human": "653.91 MiB",
+      "modified": "2022-11-20T11:27:16+01:00",
+      "media": {
+        "duration_seconds": 3024.04,
+        "duration_hms": "00:50:24",
+        "container": "Matroska / WebM",
+        "overall_bitrate_bps": 1813918,
+        "video_codec": "h264",
+        "width": 696,
+        "height": 528,
+        "aspect_ratio": "29:22",
+        "frame_rate": 50.0,
+        "audio_bitrates_bps": [
+          160000
+        ],
+        "subtitle_count": 1,
+        "subtitle_languages": [
+          "und"
+        ]
+      }
+    },
+    {
+      "path": "sci-fi.of.old.times.1982.avi",
+      "category": "video",
+      "size_bytes": 315523072,
+      "size_human": "300.91 MiB",
+      "modified": "2022-01-15T16:08:54+01:00",
+      "media": {
+        "duration_seconds": 1932.6,
+        "duration_hms": "00:32:12",
+        "container": "AVI (Audio Video Interleaved)",
+        "overall_bitrate_bps": 1306108,
+        "video_codec": "mpeg4",
+        "width": 576,
+        "height": 432,
+        "aspect_ratio": "5:4",
+        "frame_rate": 25.0,
+        "audio_bitrates_bps": [
+          128000
+        ],
+        "subtitle_count": 0,
+        "subtitle_languages": []
+      }
+    },
+    {
+      "path": "Setne the Sorcerer (1980).mkv",
+      "category": "video",
+      "size_bytes": 623493549,
+      "size_human": "594.61 MiB",
+      "modified": "2026-04-22T17:08:21+02:00",
+      "media": {
+        "duration_seconds": 3016.28,
+        "duration_hms": "00:50:16",
+        "container": "Matroska / WebM",
+        "overall_bitrate_bps": 1653675,
+        "video_codec": "h264",
+        "width": 640,
+        "height": 480,
+        "aspect_ratio": "4:3",
+        "frame_rate": 25.0,
+        "audio_bitrates_bps": [],
+        "subtitle_count": 1,
+        "subtitle_languages": [
+          "und"
+        ]
+      }
+    },
+    {
+      "path": "The Adventures of Pirx (1973) PART 2/Part 3 - Weekend on Mars.mkv",
+      "category": "video",
+      "size_bytes": 839852471,
+      "size_human": "800.95 MiB",
+      "modified": "2022-01-15T16:43:40+01:00",
+      "media": {
+        "duration_seconds": 3080.82,
+        "duration_hms": "00:51:20",
+        "container": "Matroska / WebM",
+        "overall_bitrate_bps": 2180854,
+        "video_codec": "h264",
+        "width": 688,
+        "height": 520,
+        "aspect_ratio": "86:65",
+        "frame_rate": 50.0,
+        "audio_bitrates_bps": [
+          160000
+        ],
+        "subtitle_count": 1,
+        "subtitle_languages": [
+          "und"
+        ]
+      }
+    },
+    {
+      "path": "The Adventures of Pirx (1973) PART 2/Part 4 - Terminus, the Crown witness.mkv",
+      "category": "video",
+      "size_bytes": 1039294149,
+      "size_human": "991.15 MiB",
+      "modified": "2022-01-15T16:43:42+01:00",
+      "media": {
+        "duration_seconds": 3132.98,
+        "duration_hms": "00:52:12",
+        "container": "Matroska / WebM",
+        "overall_bitrate_bps": 2653816,
+        "video_codec": "h264",
+        "width": 680,
+        "height": 520,
+        "aspect_ratio": "17:13",
+        "frame_rate": 50.0,
+        "audio_bitrates_bps": [
+          160000
+        ],
+        "subtitle_count": 1,
+        "subtitle_languages": [
+          "und"
+        ]
+      }
+    },
+    {
+      "path": "The Adventures of Pirx (1973) PART 2/Part 5 - Event at 127 hours 25 mins.mkv",
+      "category": "video",
+      "size_bytes": 951150992,
+      "size_human": "907.09 MiB",
+      "modified": "2022-01-15T16:43:43+01:00",
+      "media": {
+        "duration_seconds": 3592.22,
+        "duration_hms": "00:59:52",
+        "container": "Matroska / WebM",
+        "overall_bitrate_bps": 2118246,
+        "video_codec": "h264",
+        "width": 672,
+        "height": 520,
+        "aspect_ratio": "84:65",
+        "frame_rate": 50.0,
+        "audio_bitrates_bps": [
+          160000
+        ],
+        "subtitle_count": 1,
+        "subtitle_languages": [
+          "und"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "disk": {
+    "id": "AR03",
+    "label": "Andras Rajnai Collection vol.3",
+    "total_files": 7,
+    "video_files": 4,
+    "audio_files": 0,
+    "image_files": 0,
+    "other_files": 3
+  },
+  "files": [
+    {
+      "path": "A.nagy.kepmas.1977.720p.WEB-DL.AAC.2.0.x264.HuN-Bear/bear-a.nagy.kepmas.1977.720p.web.eng.srt",
+      "category": "other",
+      "size_bytes": 54874,
+      "size_human": "53.59 KiB",
+      "modified": "2026-04-22T17:08:34+02:00",
+      "media": null
+    },
+    {
+      "path": "A.nagy.kepmas.1977.720p.WEB-DL.AAC.2.0.x264.HuN-Bear/bear-a.nagy.kepmas.1977.720p.web.hun.srt",
+      "category": "other",
+      "size_bytes": 60212,
+      "size_human": "58.80 KiB",
+      "modified": "2026-04-22T17:08:34+02:00",
+      "media": null
+    },
+    {
+      "path": "A.nagy.kepmas.1977.720p.WEB-DL.AAC.2.0.x264.HuN-Bear/bear-a.nagy.kepmas.1977.720p.web.mkv",
+      "category": "video",
+      "size_bytes": 1207484633,
+      "size_human": "1.12 GiB",
+      "modified": "2026-04-22T17:08:46+02:00",
+      "media": {
+        "duration_seconds": 3391.08,
+        "duration_hms": "00:56:31",
+        "container": "Matroska / WebM",
+        "overall_bitrate_bps": 2848613,
+        "video_codec": "h264",
+        "width": 960,
+        "height": 720,
+        "aspect_ratio": "1013:720",
+        "frame_rate": 25.0,
+        "audio_bitrates_bps": [],
+        "subtitle_count": 0,
+        "subtitle_languages": []
+      }
+    },
+    {
+      "path": "PEACE - A béke.mkv",
+      "category": "video",
+      "size_bytes": 794989261,
+      "size_human": "758.16 MiB",
+      "modified": "2023-10-22T12:08:23+02:00",
+      "media": {
+        "duration_seconds": 2254.011,
+        "duration_hms": "00:37:34",
+        "container": "Matroska / WebM",
+        "overall_bitrate_bps": 2821598,
+        "video_codec": "h264",
+        "width": 960,
+        "height": 720,
+        "aspect_ratio": "1013:720",
+        "frame_rate": 25.0,
+        "audio_bitrates_bps": [],
+        "subtitle_count": 1,
+        "subtitle_languages": [
+          "und"
+        ]
+      }
+    },
+    {
+      "path": "Planet of the Orchids/Planet Of the Orchids .avi",
+      "category": "video",
+      "size_bytes": 783651732,
+      "size_human": "747.35 MiB",
+      "modified": "2022-01-15T16:26:45+01:00",
+      "media": {
+        "duration_seconds": 3069.074286,
+        "duration_hms": "00:51:09",
+        "container": "AVI (Audio Video Interleaved)",
+        "overall_bitrate_bps": 2042705,
+        "video_codec": "h264",
+        "width": 720,
+        "height": 480,
+        "aspect_ratio": "3:2",
+        "frame_rate": 25.0,
+        "audio_bitrates_bps": [
+          256000
+        ],
+        "subtitle_count": 0,
+        "subtitle_languages": []
+      }
+    },
+    {
+      "path": "Planet of the Orchids/Planet Of the Orchids .srt",
+      "category": "other",
+      "size_bytes": 30013,
+      "size_human": "29.31 KiB",
+      "modified": "2022-01-15T16:06:53+01:00",
+      "media": null
+    },
+    {
+      "path": "The End of Eternity (1976).mkv",
+      "category": "video",
+      "size_bytes": 600995947,
+      "size_human": "573.15 MiB",
+      "modified": "2026-04-22T17:04:00+02:00",
+      "media": {
+        "duration_seconds": 4751.4,
+        "duration_hms": "01:19:11",
+        "container": "Matroska / WebM",
+        "overall_bitrate_bps": 1011905,
+        "video_codec": "h264",
+        "width": 640,
+        "height": 480,
+        "aspect_ratio": "640:487",
+        "frame_rate": 25.0,
+        "audio_bitrates_bps": [],
+        "subtitle_count": 1,
+        "subtitle_languages": [
+          "und"
+        ]
+      }
+    }
+  ]
+}

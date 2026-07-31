@@ -11,6 +11,7 @@ Archivio e indice HTML di supporti ottici, con utility per:
 
 | File | Scopo | Stato |
 | --- | --- | --- |
+| `utils/catalog_data_disks.py` | Cataloga file e metadati multimediali in JSON e genera `datadisks.html` con DataTables | Operativo |
 | `utils/scandisk.py` | Analizza un disco, conta i tipi di file, estrae i metadati video e aggiorna `videomix.html` | Operativo |
 | `utils/scan_disk_cumulative.py` | Aggiunge o aggiorna l'inventario di un disco in `data/ctnda.tsv` | Operativo |
 | `utils/disc_packer.py` | Calcola come distribuire una directory su CD, DVD o Blu-ray | Operativo |
@@ -26,10 +27,10 @@ Gli esempi seguenti partono dalla root del repository.
 - Python 3.10 o successivo. Il file `pyproject.toml` dichiara Python 3.8, ma `scandisk.py` usa la sintassi dei tipi introdotta in Python 3.10.
 - [`uv`](https://docs.astral.sh/uv/) per installare ed eseguire l'ambiente Python bloccato da `utils/uv.lock`.
 - Linux per le utility che accedono ai dischi ottici.
-- `lsblk` per `scan_disk_cumulative.py`.
+- `lsblk` e `blkid` per leggere il mountpoint e l'etichetta dei supporti.
 - `findmnt`, `mount` e `sudo` per il rilevamento o montaggio automatico usato da `scandisk.py`.
 - `ffprobe` (fornito normalmente dal pacchetto FFmpeg) per estrarre i metadati audio/video.
-- Accesso a Internet solo per il prototipo IMDb e, nel browser, per caricare jQuery/DataTables usati da `videomix.html`.
+- Accesso a Internet per il prototipo IMDb e, nel browser, per caricare jQuery/DataTables usati da `videomix.html` e `datadisks.html`.
 
 Installazione delle dipendenze Python:
 
@@ -38,6 +39,109 @@ uv sync --project utils
 ```
 
 Le dipendenze Python esterne sono Beautiful Soup (`html2tsv.py`) e IMDbPY (`mercoledi_cinema.py`); gli altri script usano la libreria standard.
+
+## Generare il catalogo dei dischi dati
+
+`catalog_data_disks.py` scansiona tutti i file di un supporto, salva un JSON per disco in `data/disks/` e genera la pagina cumulativa `datadisks.html`. La pagina contiene un riepilogo dei dischi e una tabella dei file con ricerca, ordinamento, paginazione e filtri per disco e categoria tramite jQuery e DataTables.
+
+Il supporto deve essere già montato: lo script non esegue automaticamente `sudo` o `mount`.
+
+### Identificativo del disco
+
+Per impostazione predefinita l'identificativo viene letto dall'etichetta del filesystem del DVD tramite `lsblk`, con fallback a `blkid`. L'identificativo è una stringa libera e non deve essere numerico.
+
+Scansione del device ottico predefinito `/dev/sr0`:
+
+```sh
+uv run --project utils python utils/catalog_data_disks.py scan
+```
+
+Device differente:
+
+```sh
+uv run --project utils python utils/catalog_data_disks.py scan \
+  --device /dev/sr1
+```
+
+Se il volume non ha un'etichetta, oppure se si vuole sostituirla, usare `--disk-id`:
+
+```sh
+uv run --project utils python utils/catalog_data_disks.py scan \
+  --device /dev/sr0 \
+  --disk-id "CTNdA#015" \
+  --label "Archivio documentari"
+```
+
+`--label` è una descrizione opzionale distinta dall'identificativo. L'ID originale viene conservato nel JSON; il nome del file viene sanitizzato e completato con un hash, quindi può gestire spazi e caratteri come `#` senza collisioni o percorsi non validi.
+
+È possibile scansionare direttamente una directory montata. Lo script prova a ricavarne il device con `findmnt` per leggere l'etichetta del volume:
+
+```sh
+uv run --project utils python utils/catalog_data_disks.py scan \
+  --path /media/utente/NOME_VOLUME
+```
+
+Se il device non può essere ricavato dalla directory, occorre aggiungere `--disk-id`.
+
+### Scansione e generazione della pagina
+
+Il comando `build` salva o aggiorna il JSON del disco e rigenera immediatamente `datadisks.html` usando tutti i file presenti in `data/disks/`:
+
+```sh
+uv run --project utils python utils/catalog_data_disks.py build \
+  --device /dev/sr0 \
+  --disk-id "CTNdA#015" \
+  --label "Archivio documentari"
+```
+
+Per rigenerare la pagina senza scansionare alcun supporto:
+
+```sh
+uv run --project utils python utils/catalog_data_disks.py render
+```
+
+Per rimuovere un disco dal catalogo e rigenerare la pagina:
+
+```sh
+uv run --project utils python utils/catalog_data_disks.py remove "CTNdA#015"
+```
+
+La rimozione richiede conferma; `--yes` la rende non interattiva.
+
+I percorsi predefiniti possono essere modificati con:
+
+- `--catalog-dir DIRECTORY` per i JSON;
+- `--output FILE` per la pagina generata nei comandi `build`, `render` e `remove`;
+- `--ffprobe ESEGUIBILE` per selezionare un binario `ffprobe` differente.
+
+### Dati registrati
+
+Per ogni disco il JSON conserva soltanto:
+
+- identificativo;
+- etichetta descrittiva opzionale;
+- numero totale di file;
+- numero di video, audio, immagini e altri file.
+
+Per ogni file conserva percorso relativo, categoria, dimensione in byte e in formato leggibile, data di modifica e gli eventuali metadati multimediali. `ffprobe` viene eseguito sui file classificati come video o audio e ne estrae:
+
+- durata in secondi e nel formato `HH:MM:SS`;
+- formato/contenitore;
+- bitrate complessivo;
+- codec video;
+- risoluzione;
+- rapporto d'aspetto;
+- frame rate;
+- bitrate delle tracce audio;
+- numero e lingua dei sottotitoli.
+
+Un errore di `ffprobe` su un singolo file viene segnalato nel terminale e nel JSON, ma non interrompe la scansione. Nella pagina il file è contrassegnato con `⚠` e il messaggio è disponibile passando il puntatore sull'icona.
+
+Le categorie dipendono dall'estensione del file. Estensioni sconosciute vengono conteggiate come `other` e non vengono passate a `ffprobe`.
+
+### Pagina DataTables
+
+`datadisks.html` incorpora tutte le righe durante la generazione e carica jQuery 3.7.1 e DataTables 1.13.11 dalle rispettive CDN. Richiede quindi una connessione durante la consultazione, ma non effettua richieste ai JSON dal browser. Dimensione, durata, bitrate, risoluzione, frame rate e numero di sottotitoli sono ordinati usando i rispettivi valori numerici invece delle stringhe mostrate.
 
 ## Catalogare un disco con metadati video
 

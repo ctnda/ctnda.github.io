@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "disk": {
+    "id": "AR01",
+    "label": "Andras Rajnai Collection vol.1",
+    "total_files": 5,
+    "video_files": 4,
+    "audio_files": 0,
+    "image_files": 0,
+    "other_files": 1
+  },
+  "files": [
+    {
+      "path": "Diamond Pyramid (1985).mkv",
+      "category": "video",
+      "size_bytes": 1509591207,
+      "size_human": "1.41 GiB",
+      "modified": "2023-11-02T19:11:10+01:00",
+      "media": {
+        "duration_seconds": 4299.24,
+        "duration_hms": "01:11:39",
+        "container": "Matroska / WebM",
+        "overall_bitrate_bps": 2809038,
+        "video_codec": "h264",
+        "width": 960,
+        "height": 720,
+        "aspect_ratio": "1013:720",
+        "frame_rate": 25.0,
+        "audio_bitrates_bps": [],
+        "subtitle_count": 1,
+        "subtitle_languages": [
+          "und"
+        ]
+      }
+    },
+    {
+      "path": "The 8th Voyage of Sinbad/The 8th Voyage of Sinbad.avi",
+      "category": "video",
+      "size_bytes": 484293094,
+      "size_human": "461.86 MiB",
+      "modified": "2022-01-15T16:16:52+01:00",
+      "media": {
+        "duration_seconds": 4116.72,
+        "duration_hms": "01:08:36",
+        "container": "AVI (Audio Video Interleaved)",
+        "overall_bitrate_bps": 941124,
+        "video_codec": "mpeg4",
+        "width": 640,
+        "height": 360,
+        "aspect_ratio": "16:9",
+        "frame_rate": 25.0,
+        "audio_bitrates_bps": [
+          128000
+        ],
+        "subtitle_count": 0,
+        "subtitle_languages": []
+      }
+    },
+    {
+      "path": "The 8th Voyage of Sinbad/The 8th Voyage of Sinbad.srt",
+      "category": "other",
+      "size_bytes": 26826,
+      "size_human": "26.20 KiB",
+      "modified": "2022-01-15T16:05:28+01:00",
+      "media": null
+    },
+    {
+      "path": "The Adventures of Pirx (1973) PART 1/Part 1 - Diploma exam.mkv",
+      "category": "video",
+      "size_bytes": 1029818953,
+      "size_human": "982.11 MiB",
+      "modified": "2022-01-15T16:43:42+01:00",
+      "media": {
+        "duration_seconds": 3128.78,
+        "duration_hms": "00:52:08",
+        "container": "Matroska / WebM",
+        "overall_bitrate_bps": 2633151,
+        "video_codec": "h264",
+        "width": 680,
+        "height": 520,
+        "aspect_ratio": "17:13",
+        "frame_rate": 50.0,
+        "audio_bitrates_bps": [
+          160000
+        ],
+        "subtitle_count": 1,
+        "subtitle_languages": [
+          "und"
+        ]
+      }
+    },
+    {
+      "path": "The Adventures of Pirx (1973) PART 1/Part 2 - The mystery of Station Galilei.mkv",
+      "category": "video",
+      "size_bytes": 1114822509,
+      "size_human": "1.04 GiB",
+      "modified": "2022-01-15T16:43:25+01:00",
+      "media": {
+        "duration_seconds": 3348.06,
+        "duration_hms": "00:55:48",
+        "container": "Matroska / WebM",
+        "overall_bitrate_bps": 2663805,
+        "video_codec": "h264",
+        "width": 680,
+        "height": 520,
+        "aspect_ratio": "17:13",
+        "frame_rate": 50.0,
+        "audio_bitrates_bps": [
+          160000
+        ],
+        "subtitle_count": 1,
+        "subtitle_languages": [
+          "und"
+        ]
+      }
+    }
+  ]
+}
