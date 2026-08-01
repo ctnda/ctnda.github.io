@@ -1,0 +1,140 @@
+=== VIDEO FILE ===
+File: VM021/Rick.and.Morty.S07.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Rick And Morty S07E03 1080p 10bit WEBRip 6CH X265 HEVC-PSA.mkv
+Duration: 00:22:16
+Container bitrate: 984 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM021/Rick.and.Morty.S07.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Rick And Morty S07E08 1080p 10bit WEBRip 6CH X265 HEVC-PSA.mkv
+Duration: 00:22:30
+Container bitrate: 1433 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM021/Rick.and.Morty.S07.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Rick and Morty S07E01 1080p 10bit WEBRip 6CH x265 HEVC-PSA.mkv
+Duration: 00:22:20
+Container bitrate: 1144 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM021/Rick.and.Morty.S07.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Rick and Morty S07E02 1080p 10bit WEBRip 6CH x265 HEVC-PSA.mkv
+Duration: 00:22:36
+Container bitrate: 1081 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM021/Rick.and.Morty.S07.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Rick and Morty S07E04 1080p 10bit WEBRip 6CH x265 HEVC-PSA.mkv
+Duration: 00:22:32
+Container bitrate: 895 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM021/Rick.and.Morty.S07.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Rick and Morty S07E05 1080p 10bit WEBRip 6CH x265 HEVC-PSA.mkv
+Duration: 00:22:50
+Container bitrate: 1491 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM021/Rick.and.Morty.S07.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Rick and Morty S07E06 1080p 10bit WEBRip 6CH x265 HEVC-PSA.mkv
+Duration: 00:22:16
+Container bitrate: 1015 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM021/Rick.and.Morty.S07.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Rick and Morty S07E07 1080p 10bit WEBRip 6CH x265 HEVC-PSA.mkv
+Duration: 00:22:31
+Container bitrate: 1197 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM021/Rick.and.Morty.S07.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Rick and Morty S07E09 1080p 10bit WEBRip 6CH x265 HEVC-PSA.mkv
+Duration: 00:22:03
+Container bitrate: 1220 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM021/Rick.and.Morty.S07.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Rick and Morty S07E10 1080p 10bit WEBRip 6CH x265 HEVC-PSA.mkv
+Duration: 00:23:18
+Container bitrate: 1079 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM021/Rick.and.Morty.S08.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Rick.and.Morty.S08E01.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:23:16
+Container bitrate: 1348 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: eac3, Channels: 6, SampleRate: 48000 Hz, Bitrate: 256 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VM021/Rick.and.Morty.S08.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Rick.and.Morty.S08E02.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:21:59
+Container bitrate: 1614 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: eac3, Channels: 6, SampleRate: 48000 Hz, Bitrate: 256 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VM021/Rick.and.Morty.S08.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Rick.and.Morty.S08E03.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:21:23
+Container bitrate: 1320 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM021/Rick.and.Morty.S08.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Rick.and.Morty.S08E04.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:22:36
+Container bitrate: 1341 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM021/Rick.and.Morty.S08.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Rick.and.Morty.S08E05.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:21:37
+Container bitrate: 1497 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM021/Rick.and.Morty.S08.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Rick.and.Morty.S08E06.REAL.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:21:54
+Container bitrate: 1483 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: eac3, Channels: 6, SampleRate: 48000 Hz, Bitrate: 256 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VM021/Rick.and.Morty.S08.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Rick.and.Morty.S08E07.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:22:26
+Container bitrate: 1279 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM021/Rick.and.Morty.S08.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Rick.and.Morty.S08E08.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:22:22
+Container bitrate: 1032 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM021/Rick.and.Morty.S08.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Rick.and.Morty.S08E09.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:22:02
+Container bitrate: 1257 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM021/Rick.and.Morty.S08.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Rick.and.Morty.S08E10.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:23:04
+Container bitrate: 1176 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
