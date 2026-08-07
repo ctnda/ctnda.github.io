@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "disk": {
+    "id": "AR07",
+    "label": "Andras Rajnai Collection vol.7",
+    "total_files": 3,
+    "video_files": 3,
+    "audio_files": 0,
+    "image_files": 0,
+    "other_files": 0
+  },
+  "files": [
+    {
+      "path": "Atlantis.1982.TVrip.mkv",
+      "category": "video",
+      "size_bytes": 1383131703,
+      "size_human": "1.29 GiB",
+      "modified": "2026-08-07T14:47:59+02:00",
+      "media": {
+        "duration_seconds": 4061.797,
+        "duration_hms": "01:07:41",
+        "container": "Matroska / WebM",
+        "overall_bitrate_bps": 2724176,
+        "video_codec": "h264",
+        "width": 1920,
+        "height": 1080,
+        "aspect_ratio": "16:9",
+        "frame_rate": 30.0,
+        "audio_bitrates_bps": [],
+        "subtitle_count": 2,
+        "subtitle_languages": [
+          "eng",
+          "hun"
+        ]
+      }
+    },
+    {
+      "path": "Munchausen.in.Fantasyland.1978.WEB-DL.mkv",
+      "category": "video",
+      "size_bytes": 1476306849,
+      "size_human": "1.37 GiB",
+      "modified": "2026-08-06T15:42:39+02:00",
+      "media": {
+        "duration_seconds": 4238.0,
+        "duration_hms": "01:10:38",
+        "container": "Matroska / WebM",
+        "overall_bitrate_bps": 2786799,
+        "video_codec": "h264",
+        "width": 960,
+        "height": 720,
+        "aspect_ratio": "1013:720",
+        "frame_rate": 25.0,
+        "audio_bitrates_bps": [],
+        "subtitle_count": 2,
+        "subtitle_languages": [
+          "eng",
+          "hun"
+        ]
+      }
+    },
+    {
+      "path": "The.Myth.of.the.World.Shell.1982.WEB-DL.mkv",
+      "category": "video",
+      "size_bytes": 1354840761,
+      "size_human": "1.26 GiB",
+      "modified": "2026-08-07T11:16:22+02:00",
+      "media": {
+        "duration_seconds": 3870.0,
+        "duration_hms": "01:04:30",
+        "container": "Matroska / WebM",
+        "overall_bitrate_bps": 2800704,
+        "video_codec": "h264",
+        "width": 960,
+        "height": 720,
+        "aspect_ratio": "38:27",
+        "frame_rate": 25.0,
+        "audio_bitrates_bps": [],
+        "subtitle_count": 2,
+        "subtitle_languages": [
+          "eng",
+          "hun"
+        ]
+      }
+    }
+  ]
+}
