@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "disk": {
+    "id": "AR06",
+    "label": "Andras Rajnai Collection vol.6",
+    "total_files": 4,
+    "video_files": 4,
+    "audio_files": 0,
+    "image_files": 0,
+    "other_files": 0
+  },
+  "files": [
+    {
+      "path": "A fejenincs írástudó (1980)_NOSUBS.mp4",
+      "category": "video",
+      "size_bytes": 1194567616,
+      "size_human": "1.11 GiB",
+      "modified": "2026-08-07T17:29:03+02:00",
+      "media": {
+        "duration_seconds": 3466.92,
+        "duration_hms": "00:57:46",
+        "container": "QuickTime / MOV",
+        "overall_bitrate_bps": 2756493,
+        "video_codec": "h264",
+        "width": 720,
+        "height": 576,
+        "aspect_ratio": "4:3",
+        "frame_rate": 25.0,
+        "audio_bitrates_bps": [
+          256000
+        ],
+        "subtitle_count": 0,
+        "subtitle_languages": []
+      }
+    },
+    {
+      "path": "Aelita.1980.WEB-DL.mkv",
+      "category": "video",
+      "size_bytes": 1080112414,
+      "size_human": "1.01 GiB",
+      "modified": "2026-08-07T11:30:17+02:00",
+      "media": {
+        "duration_seconds": 3085.0,
+        "duration_hms": "00:51:25",
+        "container": "Matroska / WebM",
+        "overall_bitrate_bps": 2800939,
+        "video_codec": "h264",
+        "width": 960,
+        "height": 720,
+        "aspect_ratio": "38:27",
+        "frame_rate": 25.0,
+        "audio_bitrates_bps": [],
+        "subtitle_count": 2,
+        "subtitle_languages": [
+          "eng",
+          "hun"
+        ]
+      }
+    },
+    {
+      "path": "Crystal.Empire.1982.WEB-DL.mkv",
+      "category": "video",
+      "size_bytes": 1073542686,
+      "size_human": "1023.81 MiB",
+      "modified": "2026-08-06T18:32:43+02:00",
+      "media": {
+        "duration_seconds": 3061.0,
+        "duration_hms": "00:51:01",
+        "container": "Matroska / WebM",
+        "overall_bitrate_bps": 2805730,
+        "video_codec": "h264",
+        "width": 960,
+        "height": 720,
+        "aspect_ratio": "38:27",
+        "frame_rate": 25.0,
+        "audio_bitrates_bps": [],
+        "subtitle_count": 2,
+        "subtitle_languages": [
+          "eng",
+          "hun"
+        ]
+      }
+    },
+    {
+      "path": "Ollantay.the.leader.of.the.Andes.1980.WEB-DL.mkv",
+      "category": "video",
+      "size_bytes": 1160195778,
+      "size_human": "1.08 GiB",
+      "modified": "2026-08-06T16:46:33+02:00",
+      "media": {
+        "duration_seconds": 3301.0,
+        "duration_hms": "00:55:01",
+        "container": "Matroska / WebM",
+        "overall_bitrate_bps": 2811743,
+        "video_codec": "h264",
+        "width": 960,
+        "height": 720,
+        "aspect_ratio": "1013:720",
+        "frame_rate": 25.0,
+        "audio_bitrates_bps": [],
+        "subtitle_count": 2,
+        "subtitle_languages": [
+          "eng",
+          "hun"
+        ]
+      }
+    }
+  ]
+}
