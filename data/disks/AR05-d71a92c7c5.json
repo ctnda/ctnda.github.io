@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "disk": {
+    "id": "AR05",
+    "label": "Andras Rajnai Collection vol.5",
+    "total_files": 3,
+    "video_files": 3,
+    "audio_files": 0,
+    "image_files": 0,
+    "other_files": 0
+  },
+  "files": [
+    {
+      "path": "Gulliver.in.the.Country.of.Dwarfs.1974.WEB-DL.mkv",
+      "category": "video",
+      "size_bytes": 1499712914,
+      "size_human": "1.40 GiB",
+      "modified": "2026-08-06T16:08:39+02:00",
+      "media": {
+        "duration_seconds": 4260.0,
+        "duration_hms": "01:11:00",
+        "container": "Matroska / WebM",
+        "overall_bitrate_bps": 2816362,
+        "video_codec": "h264",
+        "width": 960,
+        "height": 720,
+        "aspect_ratio": "1013:720",
+        "frame_rate": 25.0,
+        "audio_bitrates_bps": [],
+        "subtitle_count": 2,
+        "subtitle_languages": [
+          "eng",
+          "hun"
+        ]
+      }
+    },
+    {
+      "path": "Gulliver.in.the.Country.of.Giants.1980.WEB-DL.mkv",
+      "category": "video",
+      "size_bytes": 1049649890,
+      "size_human": "1001.02 MiB",
+      "modified": "2026-08-06T17:06:41+02:00",
+      "media": {
+        "duration_seconds": 3010.0,
+        "duration_hms": "00:50:10",
+        "container": "Matroska / WebM",
+        "overall_bitrate_bps": 2789767,
+        "video_codec": "h264",
+        "width": 960,
+        "height": 720,
+        "aspect_ratio": "38:27",
+        "frame_rate": 25.0,
+        "audio_bitrates_bps": [],
+        "subtitle_count": 2,
+        "subtitle_languages": [
+          "eng",
+          "hun"
+        ]
+      }
+    },
+    {
+      "path": "The.Heroes.Descent.into.Hell.1974.WEB-DL.mkv",
+      "category": "video",
+      "size_bytes": 1735552219,
+      "size_human": "1.62 GiB",
+      "modified": "2026-08-06T17:33:49+02:00",
+      "media": {
+        "duration_seconds": 4948.01,
+        "duration_hms": "01:22:28",
+        "container": "Matroska / WebM",
+        "overall_bitrate_bps": 2806060,
+        "video_codec": "h264",
+        "width": 960,
+        "height": 720,
+        "aspect_ratio": "38:27",
+        "frame_rate": 25.0,
+        "audio_bitrates_bps": [],
+        "subtitle_count": 2,
+        "subtitle_languages": [
+          "eng",
+          "hun"
+        ]
+      }
+    }
+  ]
+}

@@ -25,7 +25,7 @@ from typing import Any
 SCHEMA_VERSION = 1
 DEFAULT_DEVICE = "/dev/sr0"
 DEFAULT_CATALOG_DIR = Path("data/disks")
-DEFAULT_HTML_OUTPUT = Path("datadisks.html")
+DEFAULT_HTML_OUTPUT = Path("ar.html")
 
 VIDEO_EXTENSIONS = {
     ".3g2",
@@ -137,11 +137,15 @@ def filesystem_label(device: str) -> str | None:
     return None
 
 
-def resolve_scan_source(path: Path | None, device: str | None) -> tuple[Path, str | None]:
+def resolve_scan_source(
+    path: Path | None, device: str | None
+) -> tuple[Path, str | None]:
     if path is not None:
         resolved = path.expanduser().resolve()
         if not resolved.is_dir():
-            raise CatalogError(f"Il percorso {resolved} non è una directory accessibile.")
+            raise CatalogError(
+                f"Il percorso {resolved} non è una directory accessibile."
+            )
         return resolved, source_device_for_path(resolved)
 
     selected_device = device or DEFAULT_DEVICE
@@ -255,7 +259,10 @@ def ffprobe_metadata(path: Path, ffprobe: str) -> dict[str, Any]:
         ]
     )
     if result.returncode != 0:
-        message = result.stderr.strip() or f"ffprobe è terminato con codice {result.returncode}"
+        message = (
+            result.stderr.strip()
+            or f"ffprobe è terminato con codice {result.returncode}"
+        )
         raise CatalogError(message)
 
     try:
@@ -279,7 +286,9 @@ def ffprobe_metadata(path: Path, ffprobe: str) -> dict[str, Any]:
     if duration is None:
         stream_durations = [
             candidate
-            for candidate in (optional_float(stream.get("duration")) for stream in streams)
+            for candidate in (
+                optional_float(stream.get("duration")) for stream in streams
+            )
             if candidate is not None
         ]
         duration = max(stream_durations, default=None)
@@ -298,7 +307,9 @@ def ffprobe_metadata(path: Path, ffprobe: str) -> dict[str, Any]:
 
     audio_bitrates = [
         bitrate
-        for bitrate in (optional_int(stream.get("bit_rate")) for stream in audio_streams)
+        for bitrate in (
+            optional_int(stream.get("bit_rate")) for stream in audio_streams
+        )
         if bitrate is not None
     ]
     subtitle_languages = [
@@ -309,7 +320,8 @@ def ffprobe_metadata(path: Path, ffprobe: str) -> dict[str, Any]:
     return {
         "duration_seconds": duration,
         "duration_hms": duration_hms(duration),
-        "container": format_info.get("format_long_name") or format_info.get("format_name"),
+        "container": format_info.get("format_long_name")
+        or format_info.get("format_name"),
         "overall_bitrate_bps": optional_int(format_info.get("bit_rate")),
         "video_codec": video_stream.get("codec_name") if video_stream else None,
         "width": width,
@@ -467,11 +479,11 @@ def render_html(catalogues: list[dict[str, Any]]) -> str:
             "<tr>"
             f"<td>{escaped(disk_id)}</td>"
             f"<td>{escaped(disk.get('label'))}</td>"
-            f"<td data-order=\"{int(disk['total_files'])}\">{int(disk['total_files'])}</td>"
-            f"<td data-order=\"{int(disk['video_files'])}\">{int(disk['video_files'])}</td>"
-            f"<td data-order=\"{int(disk['audio_files'])}\">{int(disk['audio_files'])}</td>"
-            f"<td data-order=\"{int(disk['image_files'])}\">{int(disk['image_files'])}</td>"
-            f"<td data-order=\"{int(disk['other_files'])}\">{int(disk['other_files'])}</td>"
+            f'<td data-order="{int(disk["total_files"])}">{int(disk["total_files"])}</td>'
+            f'<td data-order="{int(disk["video_files"])}">{int(disk["video_files"])}</td>'
+            f'<td data-order="{int(disk["audio_files"])}">{int(disk["audio_files"])}</td>'
+            f'<td data-order="{int(disk["image_files"])}">{int(disk["image_files"])}</td>'
+            f'<td data-order="{int(disk["other_files"])}">{int(disk["other_files"])}</td>'
             "</tr>"
         )
 
@@ -492,9 +504,7 @@ def render_html(catalogues: list[dict[str, Any]]) -> str:
             path_display = escaped(file_record["path"])
             probe_error = file_record.get("probe_error")
             if probe_error:
-                path_display += (
-                    f' <span class="probe-error" title="{escaped(probe_error)}">⚠</span>'
-                )
+                path_display += f' <span class="probe-error" title="{escaped(probe_error)}">⚠</span>'
 
             duration_seconds = media.get("duration_seconds")
             overall_bitrate = media.get("overall_bitrate_bps")
@@ -502,18 +512,18 @@ def render_html(catalogues: list[dict[str, Any]]) -> str:
                 "<tr>"
                 f"<td>{escaped(disk_id)}</td>"
                 f"<td>{escaped(disk.get('label'))}</td>"
-                f"<td class=\"file-path\">{path_display}</td>"
+                f'<td class="file-path">{path_display}</td>'
                 f"<td>{escaped(file_record['category'])}</td>"
-                f"<td data-order=\"{int(file_record['size_bytes'])}\">{escaped(file_record['size_human'])}</td>"
-                f"<td data-order=\"{duration_seconds or 0}\">{escaped(media.get('duration_hms'))}</td>"
+                f'<td data-order="{int(file_record["size_bytes"])}">{escaped(file_record["size_human"])}</td>'
+                f'<td data-order="{duration_seconds or 0}">{escaped(media.get("duration_hms"))}</td>'
                 f"<td>{escaped(media.get('container'))}</td>"
-                f"<td data-order=\"{overall_bitrate or 0}\">{escaped(format_bitrate(overall_bitrate))}</td>"
+                f'<td data-order="{overall_bitrate or 0}">{escaped(format_bitrate(overall_bitrate))}</td>'
                 f"<td>{escaped(media.get('video_codec'))}</td>"
-                f"<td data-order=\"{(width or 0) * (height or 0)}\">{escaped(resolution)}</td>"
+                f'<td data-order="{(width or 0) * (height or 0)}">{escaped(resolution)}</td>'
                 f"<td>{escaped(media.get('aspect_ratio'))}</td>"
-                f"<td data-order=\"{media.get('frame_rate') or 0}\">{escaped(format_frame_rate(media.get('frame_rate')))}</td>"
+                f'<td data-order="{media.get("frame_rate") or 0}">{escaped(format_frame_rate(media.get("frame_rate")))}</td>'
                 f"<td>{escaped(audio_bitrates)}</td>"
-                f"<td data-order=\"{subtitle_count}\">{escaped(subtitles)}</td>"
+                f'<td data-order="{subtitle_count}">{escaped(subtitles)}</td>'
                 "</tr>"
             )
 
@@ -572,25 +582,52 @@ $(function () {{
 <body>
 <header>
 <pre>
- ******  ********** ****     **      **     **
-**////**/////**/// /**/**   /**     /**    ****
-**    //     /**    /**//**  /**     /**   **//**
-/**           /**    /** //** /**  ******  **  //**
-/**           /**    /**  //**/** **///** **********
-//**    **    /**    /**   //****/**  /**/**//////**
- //******     /**    /**    //***//******/**     /**
-  //////      //     //      ///  ////// //      //
+................................................
+...............:=+**+*+=:.......................
+...........==+*+++++===+=*##-...................
+........:**+**######%#*++*#%%%#:................
+......-*##########%%%#*=--+###%%%:..............
+.....=#*####*##*******+++++*#%%#***.............
+.....*#*#+*+++++**######*+=-=+#%%#*+............
+....-#*#*+----::...............:=%%*=...........
+....*%++---:::.................::=#*+#..........
+....*%*-----:::................:::--=*#.........
+....+%#=:-:-::::.................:--=+#=........
+....+#*=----:::..............:-----:-+*-........
+....=*+-:-----:==+**==--..=#%%%%**=::=-:........
+....=*=.::::-=*###%%##*-..:==-++++:.:::-........
+....-=::-:::-=*%=:=:::==::::.:::.....:-:........
+....::-:::::..:::....:-==..::.........:.........
+.....::--:::.........:=+-...:........:..........
+.....-:-:-:::........++++=-==::......:..........
+......:::---:........+***+-:..........:.........
+......=-:----:.........::::..........:..........
+......=#++=---:......:--++====+-................
+......:%%%#===-::...:.::..::........:+=.........
+.......:%%%#+==-::..:..............-*##########+
+...........:=*++=--::...........:-+:###%%#%####*
+.........:#*-=+****+=-:::...:::-++..*#%%%##%###*
+......:**%##*::+*###***+**+++***:...:##%%#####%*
+....*%#%%%%%%-:::=***########*-......##########*
+.-#%%%%%%%%%%#::::::=*#*###+-........##########*
+*%%%%%%%%%%%%%*:::::::...-::.........=#*#######*
+###%%%%%%%%%%%%=::::.....=:+:.........%*#####%#*
+##%##%%%%%%%%%%%=:.......*#+:#........+**######*
+#####%##%%%%%%%#*:......:%*.%%%:.......*#######*
+%####%%%%%%%%%%##-......=%+--.**-......+########
+#%%%%%%%%%%%%%%%#=:.....+%*:-:..==.....:########
+###%%%%#%%%%%%%%#*.:....***::-...-:.....########
 </pre>
 <p><a href="index.html">Back to index</a></p>
 </header>
 
-<h1>Catalogo dischi dati</h1>
+<h1>Catalogo dischi dati András Rajnai</h1>
 <p class="catalogue-stats">{len(catalogues)} dischi · {total_files} file</p>
 
 <h2>Dischi</h2>
 <table id="disks" class="display compact" style="width:100%">
 <thead><tr><th>Identificativo</th><th>Etichetta</th><th>File</th><th>Video</th><th>Audio</th><th>Immagini</th><th>Altro</th></tr></thead>
-<tbody>{''.join(summary_rows)}</tbody>
+<tbody>{"".join(summary_rows)}</tbody>
 </table>
 
 <h2>File</h2>
@@ -608,7 +645,7 @@ $(function () {{
 <th>Durata</th><th>Contenitore</th><th>Bitrate complessivo</th><th>Codec video</th>
 <th>Risoluzione</th><th>Aspect ratio</th><th>Frame rate</th><th>Bitrate audio</th><th>Sottotitoli</th>
 </tr></thead>
-<tbody>{''.join(file_rows)}</tbody>
+<tbody>{"".join(file_rows)}</tbody>
 </table>
 </body>
 </html>
@@ -686,9 +723,7 @@ def build_parser() -> argparse.ArgumentParser:
     render_parser = subparsers.add_parser(
         "render", help="Rigenera l'HTML dai JSON esistenti"
     )
-    render_parser.add_argument(
-        "--catalog-dir", type=Path, default=DEFAULT_CATALOG_DIR
-    )
+    render_parser.add_argument("--catalog-dir", type=Path, default=DEFAULT_CATALOG_DIR)
     render_parser.add_argument("--output", type=Path, default=DEFAULT_HTML_OUTPUT)
 
     build_parser_command = subparsers.add_parser(
@@ -703,9 +738,7 @@ def build_parser() -> argparse.ArgumentParser:
         "remove", help="Rimuove un disco e rigenera l'HTML"
     )
     remove_parser.add_argument("disk_id", help="Identificativo esatto del disco")
-    remove_parser.add_argument(
-        "--catalog-dir", type=Path, default=DEFAULT_CATALOG_DIR
-    )
+    remove_parser.add_argument("--catalog-dir", type=Path, default=DEFAULT_CATALOG_DIR)
     remove_parser.add_argument("--output", type=Path, default=DEFAULT_HTML_OUTPUT)
     remove_parser.add_argument("--yes", action="store_true", help="Non chiede conferma")
 
@@ -718,7 +751,9 @@ def remove_catalogue(args: argparse.Namespace) -> int:
         raise CatalogError(f"Nessun catalogo trovato per {args.disk_id!r}.")
 
     if not args.yes:
-        answer = input(f"Rimuovere il catalogo {args.disk_id!r}? [y/N]: ").strip().lower()
+        answer = (
+            input(f"Rimuovere il catalogo {args.disk_id!r}? [y/N]: ").strip().lower()
+        )
         if answer != "y":
             print("[*] Operazione annullata.")
             return 0
