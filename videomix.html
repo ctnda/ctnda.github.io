@@ -1,27 +1,44 @@
 <!DOCTYPE html>
 <html>
-<head>
-<meta charset="utf-8">
-<title>VideoMix</title>
-<style>
-body { color: #000; font-family: "DejaVu Sans Mono", monospace; font-size: 10pt; }
-tr:hover td { background: #fff062 !important; }
-#example td, #example th { text-align: center; }
-#example td:first-child, #example th:first-child { text-align: left; }
-</style>
-<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
-<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css">
-<script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/yadcf/0.9.4/jquery.dataTables.yadcf.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.10/js/select2.js"></script>
-<script>
-$(document).ready(function () {
-    var myTable = $('#example').DataTable({ paging: false });
-});
-</script>
-</head>
-<body class="wide comments example">
-	<pre class="western" style="text-align: center">
+  <head>
+    <meta charset="utf-8">
+    <title>VideoMix</title>
+    <style>
+    body {
+      color: #000;
+      font-family: "DejaVu Sans Mono", monospace;
+      font-size: 10pt;
+    }
+    tr:hover td {
+      background: #fff062 !important;
+    }
+    #example td, #example th {
+      text-align: center;
+    }
+    #example td:first-child, #example th:first-child {
+      text-align: left;
+    }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css"
+    >
+    <script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/yadcf/0.9.4/jquery.dataTables.yadcf.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.10/js/select2.js"></script>
+    <script>
+    $(document).ready(function() {
+      var myTable = $("#example").DataTable({ paging: false });
+    });
+    </script>
+  </head>
+  <body class="wide comments example">
+    <pre
+      class="western"
+      style="text-align: center"
+    >
 		******  ********** ****     **      **     **
 		**////**/////**/// /**/**   /**     /**    ****
 		**    //     /**    /**//**  /**     /**   **//**
@@ -42,57 +59,425 @@ $(document).ready(function () {
 		   \___/   |__\____ |\___  >____/\____|__  /__/__/\_ \
 
          <div align="right"></pre>
-<table id="example" class="display" style="width:100%">
-<thead>
-<tr>
-<th>Disk #</th>
-<th>Main Folder</th>
-<th>Audio</th>
-<th>Video</th>
-<th>Images</th>
-<th>Other</th>
-<th>Media Info</th>
-</tr>
-</thead>
-<tbody>
-<tr data-disk='005'><td>005</td><td>Batman - Batman with Robin the Boy Wonder</td><td>0</td><td>16</td><td>0</td><td>0</td><td><a href='mediainfo/005.txt' target='blank'>005.txt</a></td></tr>
-<tr data-disk='001'><td>001</td><td>Blackstar</td><td>0</td><td>14</td><td>0</td><td>0</td><td><a href='mediainfo/001.txt' target='blank'>001.txt</a></td></tr>
-<tr data-disk='001'><td>001</td><td>Frankenstein_Jr_e_Gli_Impossibili</td><td>0</td><td>19</td><td>0</td><td>0</td><td><a href='mediainfo/001.txt' target='blank'>001.txt</a></td></tr>
-<tr data-disk='001'><td>001</td><td>Troppolitani</td><td>0</td><td>16</td><td>0</td><td>0</td><td><a href='mediainfo/001.txt' target='blank'>001.txt</a></td></tr>
-<tr data-disk='002'><td>002</td><td>Atmosfear</td><td>0</td><td>4</td><td>17</td><td>6</td><td><a href='mediainfo/002.txt' target='blank'>002.txt</a></td></tr>
-<tr data-disk='002'><td>002</td><td>Scavengers Reign</td><td>0</td><td>12</td><td>0</td><td>0</td><td><a href='mediainfo/002.txt' target='blank'>002.txt</a></td></tr>
-<tr data-disk='002'><td>002</td><td>The Mighty Hercules</td><td>0</td><td>73</td><td>0</td><td>0</td><td><a href='mediainfo/002.txt' target='blank'>002.txt</a></td></tr>
-<tr data-disk='003'><td>003</td><td>Troppolitani remastered 01</td><td>0</td><td>10</td><td>0</td><td>0</td><td><a href='mediainfo/003.txt' target='blank'>003.txt</a></td></tr>
-<tr data-disk='004'><td>004</td><td>Troppolitani remastered 02</td><td>0</td><td>5</td><td>0</td><td>0</td><td><a href='mediainfo/004.txt' target='blank'>004.txt</a></td></tr>
-<tr data-disk='006'><td>006</td><td>Gli Erculoidi S01</td><td>0</td><td>19</td><td>0</td><td>0</td><td><a href='mediainfo/006.txt' target='_blank'>006.txt</a></td></tr>
-<tr data-disk='006'><td>006</td><td>Stripy</td><td>0</td><td>9</td><td>0</td><td>0</td><td><a href='mediainfo/006.txt' target='_blank'>006.txt</a></td></tr>
-<tr data-disk='007'><td>007</td><td>Braccio di Ferro - Serie Cinematografica</td><td>0</td><td>3</td><td>0</td><td>0</td><td><a href='mediainfo/007.txt' target='_blank'>007.txt</a></td></tr>
-<tr data-disk='007'><td>007</td><td>Gli Erculoidi S02</td><td>0</td><td>10</td><td>0</td><td>0</td><td><a href='mediainfo/007.txt' target='_blank'>007.txt</a></td></tr>
-<tr data-disk='007'><td>007</td><td>I Viaggi di Gulliver</td><td>0</td><td>1</td><td>0</td><td>0</td><td><a href='mediainfo/007.txt' target='_blank'>007.txt</a></td></tr>
-<tr data-disk='007'><td>007</td><td>X-Bomber</td><td>0</td><td>25</td><td>0</td><td>0</td><td><a href='mediainfo/007.txt' target='_blank'>007.txt</a></td></tr>
-<tr data-disk='008'><td>008</td><td>Collericamente vostro Braccio di Ferro 01</td><td>0</td><td>26</td><td>0</td><td>0</td><td><a href='mediainfo/008.txt' target='_blank'>008.txt</a></td></tr>
-<tr data-disk='009'><td>009</td><td>Collericamente vostro Braccio di Ferro 02</td><td>0</td><td>24</td><td>0</td><td>0</td><td><a href='mediainfo/009.txt' target='_blank'>009.txt</a></td></tr>
-<tr data-disk='011'><td>011</td><td>Dungeons & Dragons S01</td><td>0</td><td>13</td><td>0</td><td>0</td><td><a href='mediainfo/011.txt' target='_blank'>011.txt</a></td></tr>
-<tr data-disk='012'><td>012</td><td>Dungeons & Dragons S02</td><td>0</td><td>8</td><td>0</td><td>0</td><td><a href='mediainfo/012.txt' target='_blank'>012.txt</a></td></tr>
-<tr data-disk='012'><td>012</td><td>Dungeons & Dragons S03</td><td>0</td><td>6</td><td>0</td><td>0</td><td><a href='mediainfo/012.txt' target='_blank'>012.txt</a></td></tr>
-<tr data-disk='013'><td>013</td><td>Monkey Punch no Sekai Alice (SUB-ITA)</td><td>0</td><td>1</td><td>0</td><td>0</td><td><a href='mediainfo/013.txt' target='_blank'>013.txt</a></td></tr>
-<tr data-disk='013'><td>013</td><td>Primal.SEASON.01.S01.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA</td><td>0</td><td>10</td><td>0</td><td>1</td><td><a href='mediainfo/013.txt' target='_blank'>013.txt</a></td></tr>
-<tr data-disk='013'><td>013</td><td>Primal.SEASON.02.S02.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA</td><td>0</td><td>10</td><td>0</td><td>0</td><td><a href='mediainfo/013.txt' target='_blank'>013.txt</a></td></tr>
-<tr data-disk='013'><td>013</td><td>Primal.SEASON.03.S03.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA</td><td>0</td><td>10</td><td>0</td><td>0</td><td><a href='mediainfo/013.txt' target='_blank'>013.txt</a></td></tr>
-<tr data-disk='014'><td>014</td><td>The.Legend.of.Vox.Machina.S01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA</td><td>0</td><td>12</td><td>0</td><td>1</td><td><a href='mediainfo/014.txt' target='_blank'>014.txt</a></td></tr>
-<tr data-disk='014'><td>014</td><td>The.Legend.of.Vox.Machina.S02.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA</td><td>0</td><td>12</td><td>0</td><td>0</td><td><a href='mediainfo/014.txt' target='_blank'>014.txt</a></td></tr>
-<tr data-disk='014'><td>014</td><td>Uzumaki.Spiral.Into.Horror.S01.DUAL-AUDIO.JAP-ENG.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA</td><td>0</td><td>4</td><td>0</td><td>0</td><td><a href='mediainfo/014.txt' target='_blank'>014.txt</a></td></tr>
-<tr data-disk='016'><td>016</td><td>Adrian.2019.S01.DTVRip.x264</td><td>0</td><td>5</td><td>5</td><td>10</td><td><a href='mediainfo/016.txt' target='_blank'>016.txt</a></td></tr>
-<tr data-disk='017'><td>017</td><td>A Whole New Life Through Past-Life Therapy</td><td>0</td><td>1</td><td>0</td><td>1</td><td><a href='mediainfo/017.txt' target='_blank'>017.txt</a></td></tr>
-<tr data-disk='017'><td>017</td><td>Unarius_01</td><td>0</td><td>3</td><td>0</td><td>0</td><td><a href='mediainfo/017.txt' target='_blank'>017.txt</a></td></tr>
-<tr data-disk='015'><td>015</td><td>Adrian.2019.S01.DTVRip.x264</td><td>0</td><td>4</td><td>4</td><td>9</td><td><a href='mediainfo/015.txt' target='_blank'>015.txt</a></td></tr>
-<tr data-disk='020'><td>020</td><td>Rick.and.Morty.S04.Complete.1080p.WEBRip.6CH.x265.HEVC-PSA</td><td>0</td><td>5</td><td>0</td><td>0</td><td><a href='mediainfo/020.txt' target='_blank'>020.txt</a></td></tr>
-<tr data-disk='020'><td>020</td><td>Rick.and.Morty.S05.Complete.1080p.WEBRip.6CH.x265.HEVC-PSA</td><td>0</td><td>10</td><td>0</td><td>0</td><td><a href='mediainfo/020.txt' target='_blank'>020.txt</a></td></tr>
-<tr data-disk='020'><td>020</td><td>Rick.and.Morty.S06.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA</td><td>0</td><td>10</td><td>0</td><td>0</td><td><a href='mediainfo/020.txt' target='_blank'>020.txt</a></td></tr>
-<tr data-disk='021'><td>021</td><td>Rick.and.Morty.S07.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA</td><td>0</td><td>10</td><td>0</td><td>0</td><td><a href='mediainfo/021.txt' target='_blank'>021.txt</a></td></tr>
-<tr data-disk='021'><td>021</td><td>Rick.and.Morty.S08.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA</td><td>0</td><td>10</td><td>0</td><td>0</td><td><a href='mediainfo/021.txt' target='_blank'>021.txt</a></td></tr>
-<tr data-disk='019'><td>019</td><td>Rick.and.Morty.S01.Complete.720p.BluRay.2CH.x265.HEVC-PSA</td><td>0</td><td>11</td><td>0</td><td>0</td><td><a href='mediainfo/019.txt' target='_blank'>019.txt</a></td></tr>
-<tr data-disk='019'><td>019</td><td>Rick.and.Morty.S02.Complete.720p.BluRay.2CH.x265.HEVC-PSA</td><td>0</td><td>10</td><td>0</td><td>0</td><td><a href='mediainfo/019.txt' target='_blank'>019.txt</a></td></tr>
-<tr data-disk='019'><td>019</td><td>Rick.and.Morty.S03.Complete.1080p.WEBRip.6CH.x265.HEVC-PSA</td><td>0</td><td>10</td><td>0</td><td>0</td><td><a href='mediainfo/019.txt' target='_blank'>019.txt</a></td></tr>
-<tr data-disk='019'><td>019</td><td>Rick.and.Morty.S04.Complete.1080p.WEBRip.6CH.x265.HEVC-PSA</td><td>0</td><td>5</td><td>0</td><td>0</td><td><a href='mediainfo/019.txt' target='_blank'>019.txt</a></td></tr>
-</tbody></table></body></html>
+    <table id="example" class="display" style="width: 100%">
+      <thead>
+        <tr>
+          <th>Disk #</th>
+          <th>Main Folder</th>
+          <th>Audio</th>
+          <th>Video</th>
+          <th>Images</th>
+          <th>Other</th>
+          <th>Media Info</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr data-disk="005">
+          <td>005</td>
+          <td>Batman - Batman with Robin the Boy Wonder</td>
+          <td>0</td>
+          <td>16</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/005.txt" target="blank">005.txt</a></td>
+        </tr>
+        <tr data-disk="001">
+          <td>001</td>
+          <td>Blackstar</td>
+          <td>0</td>
+          <td>14</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/001.txt" target="blank">001.txt</a></td>
+        </tr>
+        <tr data-disk="001">
+          <td>001</td>
+          <td>Frankenstein_Jr_e_Gli_Impossibili</td>
+          <td>0</td>
+          <td>19</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/001.txt" target="blank">001.txt</a></td>
+        </tr>
+        <tr data-disk="001">
+          <td>001</td>
+          <td>Troppolitani</td>
+          <td>0</td>
+          <td>16</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/001.txt" target="blank">001.txt</a></td>
+        </tr>
+        <tr data-disk="002">
+          <td>002</td>
+          <td>Atmosfear</td>
+          <td>0</td>
+          <td>4</td>
+          <td>17</td>
+          <td>6</td>
+          <td><a href="mediainfo/002.txt" target="blank">002.txt</a></td>
+        </tr>
+        <tr data-disk="002">
+          <td>002</td>
+          <td>Scavengers Reign</td>
+          <td>0</td>
+          <td>12</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/002.txt" target="blank">002.txt</a></td>
+        </tr>
+        <tr data-disk="002">
+          <td>002</td>
+          <td>The Mighty Hercules</td>
+          <td>0</td>
+          <td>73</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/002.txt" target="blank">002.txt</a></td>
+        </tr>
+        <tr data-disk="003">
+          <td>003</td>
+          <td>Troppolitani remastered 01</td>
+          <td>0</td>
+          <td>10</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/003.txt" target="blank">003.txt</a></td>
+        </tr>
+        <tr data-disk="004">
+          <td>004</td>
+          <td>Troppolitani remastered 02</td>
+          <td>0</td>
+          <td>5</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/004.txt" target="blank">004.txt</a></td>
+        </tr>
+        <tr data-disk="006">
+          <td>006</td>
+          <td>Gli Erculoidi S01</td>
+          <td>0</td>
+          <td>19</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/006.txt" target="_blank">006.txt</a></td>
+        </tr>
+        <tr data-disk="006">
+          <td>006</td>
+          <td>Stripy</td>
+          <td>0</td>
+          <td>9</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/006.txt" target="_blank">006.txt</a></td>
+        </tr>
+        <tr data-disk="007">
+          <td>007</td>
+          <td>Braccio di Ferro - Serie Cinematografica</td>
+          <td>0</td>
+          <td>3</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/007.txt" target="_blank">007.txt</a></td>
+        </tr>
+        <tr data-disk="007">
+          <td>007</td>
+          <td>Gli Erculoidi S02</td>
+          <td>0</td>
+          <td>10</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/007.txt" target="_blank">007.txt</a></td>
+        </tr>
+        <tr data-disk="007">
+          <td>007</td>
+          <td>I Viaggi di Gulliver</td>
+          <td>0</td>
+          <td>1</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/007.txt" target="_blank">007.txt</a></td>
+        </tr>
+        <tr data-disk="007">
+          <td>007</td>
+          <td>X-Bomber</td>
+          <td>0</td>
+          <td>25</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/007.txt" target="_blank">007.txt</a></td>
+        </tr>
+        <tr data-disk="008">
+          <td>008</td>
+          <td>Collericamente vostro Braccio di Ferro 01</td>
+          <td>0</td>
+          <td>26</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/008.txt" target="_blank">008.txt</a></td>
+        </tr>
+        <tr data-disk="009">
+          <td>009</td>
+          <td>Collericamente vostro Braccio di Ferro 02</td>
+          <td>0</td>
+          <td>24</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/009.txt" target="_blank">009.txt</a></td>
+        </tr>
+        <tr data-disk="011">
+          <td>011</td>
+          <td>Dungeons & Dragons S01</td>
+          <td>0</td>
+          <td>13</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/011.txt" target="_blank">011.txt</a></td>
+        </tr>
+        <tr data-disk="012">
+          <td>012</td>
+          <td>Dungeons & Dragons S02</td>
+          <td>0</td>
+          <td>8</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/012.txt" target="_blank">012.txt</a></td>
+        </tr>
+        <tr data-disk="012">
+          <td>012</td>
+          <td>Dungeons & Dragons S03</td>
+          <td>0</td>
+          <td>6</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/012.txt" target="_blank">012.txt</a></td>
+        </tr>
+        <tr data-disk="013">
+          <td>013</td>
+          <td>Monkey Punch no Sekai Alice (SUB-ITA)</td>
+          <td>0</td>
+          <td>1</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/013.txt" target="_blank">013.txt</a></td>
+        </tr>
+        <tr data-disk="013">
+          <td>013</td>
+          <td>
+            Primal.SEASON.01.S01.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA
+          </td>
+          <td>0</td>
+          <td>10</td>
+          <td>0</td>
+          <td>1</td>
+          <td><a href="mediainfo/013.txt" target="_blank">013.txt</a></td>
+        </tr>
+        <tr data-disk="013">
+          <td>013</td>
+          <td>
+            Primal.SEASON.02.S02.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA
+          </td>
+          <td>0</td>
+          <td>10</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/013.txt" target="_blank">013.txt</a></td>
+        </tr>
+        <tr data-disk="013">
+          <td>013</td>
+          <td>
+            Primal.SEASON.03.S03.COMPLETE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA
+          </td>
+          <td>0</td>
+          <td>10</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/013.txt" target="_blank">013.txt</a></td>
+        </tr>
+        <tr data-disk="014">
+          <td>014</td>
+          <td>
+            The.Legend.of.Vox.Machina.S01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA
+          </td>
+          <td>0</td>
+          <td>12</td>
+          <td>0</td>
+          <td>1</td>
+          <td><a href="mediainfo/014.txt" target="_blank">014.txt</a></td>
+        </tr>
+        <tr data-disk="014">
+          <td>014</td>
+          <td>
+            The.Legend.of.Vox.Machina.S02.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA
+          </td>
+          <td>0</td>
+          <td>12</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/014.txt" target="_blank">014.txt</a></td>
+        </tr>
+        <tr data-disk="014">
+          <td>014</td>
+          <td>
+            Uzumaki.Spiral.Into.Horror.S01.DUAL-AUDIO.JAP-ENG.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA
+          </td>
+          <td>0</td>
+          <td>4</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/014.txt" target="_blank">014.txt</a></td>
+        </tr>
+        <tr data-disk="016">
+          <td>016</td>
+          <td>Adrian.2019.S01.DTVRip.x264</td>
+          <td>0</td>
+          <td>5</td>
+          <td>5</td>
+          <td>10</td>
+          <td><a href="mediainfo/016.txt" target="_blank">016.txt</a></td>
+        </tr>
+        <tr data-disk="017">
+          <td>017</td>
+          <td>A Whole New Life Through Past-Life Therapy</td>
+          <td>0</td>
+          <td>1</td>
+          <td>0</td>
+          <td>1</td>
+          <td><a href="mediainfo/017.txt" target="_blank">017.txt</a></td>
+        </tr>
+        <tr data-disk="017">
+          <td>017</td>
+          <td>Unarius_01</td>
+          <td>0</td>
+          <td>3</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/017.txt" target="_blank">017.txt</a></td>
+        </tr>
+        <tr data-disk="015">
+          <td>015</td>
+          <td>Adrian.2019.S01.DTVRip.x264</td>
+          <td>0</td>
+          <td>4</td>
+          <td>4</td>
+          <td>9</td>
+          <td><a href="mediainfo/015.txt" target="_blank">015.txt</a></td>
+        </tr>
+        <tr data-disk="020">
+          <td>020</td>
+          <td>Rick.and.Morty.S04.Complete.1080p.WEBRip.6CH.x265.HEVC-PSA</td>
+          <td>0</td>
+          <td>5</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/020.txt" target="_blank">020.txt</a></td>
+        </tr>
+        <tr data-disk="020">
+          <td>020</td>
+          <td>Rick.and.Morty.S05.Complete.1080p.WEBRip.6CH.x265.HEVC-PSA</td>
+          <td>0</td>
+          <td>10</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/020.txt" target="_blank">020.txt</a></td>
+        </tr>
+        <tr data-disk="020">
+          <td>020</td>
+          <td>
+            Rick.and.Morty.S06.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA
+          </td>
+          <td>0</td>
+          <td>10</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/020.txt" target="_blank">020.txt</a></td>
+        </tr>
+        <tr data-disk="021">
+          <td>021</td>
+          <td>
+            Rick.and.Morty.S07.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA
+          </td>
+          <td>0</td>
+          <td>10</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/021.txt" target="_blank">021.txt</a></td>
+        </tr>
+        <tr data-disk="021">
+          <td>021</td>
+          <td>
+            Rick.and.Morty.S08.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA
+          </td>
+          <td>0</td>
+          <td>10</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/021.txt" target="_blank">021.txt</a></td>
+        </tr>
+        <tr data-disk="019">
+          <td>019</td>
+          <td>Rick.and.Morty.S01.Complete.720p.BluRay.2CH.x265.HEVC-PSA</td>
+          <td>0</td>
+          <td>11</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/019.txt" target="_blank">019.txt</a></td>
+        </tr>
+        <tr data-disk="019">
+          <td>019</td>
+          <td>Rick.and.Morty.S02.Complete.720p.BluRay.2CH.x265.HEVC-PSA</td>
+          <td>0</td>
+          <td>10</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/019.txt" target="_blank">019.txt</a></td>
+        </tr>
+        <tr data-disk="019">
+          <td>019</td>
+          <td>Rick.and.Morty.S03.Complete.1080p.WEBRip.6CH.x265.HEVC-PSA</td>
+          <td>0</td>
+          <td>10</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/019.txt" target="_blank">019.txt</a></td>
+        </tr>
+        <tr data-disk="019">
+          <td>019</td>
+          <td>Rick.and.Morty.S04.Complete.1080p.WEBRip.6CH.x265.HEVC-PSA</td>
+          <td>0</td>
+          <td>5</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/019.txt" target="_blank">019.txt</a></td>
+        </tr>
+        <tr data-disk="018">
+          <td>018</td>
+          <td>The Ballad of Annabel Lee</td>
+          <td>0</td>
+          <td>1</td>
+          <td>0</td>
+          <td>1</td>
+          <td><a href="mediainfo/018.txt" target="_blank">018.txt</a></td>
+        </tr>
+        <tr data-disk="018">
+          <td>018</td>
+          <td>The Saga of Osiris and Isis</td>
+          <td>0</td>
+          <td>1</td>
+          <td>0</td>
+          <td>1</td>
+          <td><a href="mediainfo/018.txt" target="_blank">018.txt</a></td>
+        </tr>
+        <tr data-disk="018">
+          <td>018</td>
+          <td>Unarius_02</td>
+          <td>0</td>
+          <td>3</td>
+          <td>0</td>
+          <td>0</td>
+          <td><a href="mediainfo/018.txt" target="_blank">018.txt</a></td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>

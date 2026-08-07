@@ -1,0 +1,35 @@
+=== VIDEO FILE ===
+File: UNARIUS_02/The Ballad of Annabel Lee/Unarius-The Ballad of Annabel Lee.198x.VHSRIP.x264-CG.mkv
+Duration: 00:59:15
+Container bitrate: 2164 kbps
+[Video] Codec: h264, Resolution: 704x474, Bitrate: n/a
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 224 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: UNARIUS_02/The Saga of Osiris and Isis/Unarius-The Saga of Osiris and Isis.1981.VHSRIP.XViD-CG.avi
+Duration: 00:48:06
+Container bitrate: 2123 kbps
+[Video] Codec: mpeg4, Resolution: 624x432, Bitrate: 1887 kbps
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 224 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: UNARIUS_02/A Visit to the Underground Cities of Mars.1977.VHSRIP.XViD-CG.avi
+Duration: 00:58:53
+Container bitrate: 2435 kbps
+[Video] Codec: mpeg4, Resolution: 640x480, Bitrate: 2167 kbps
+[Audio] Codec: ac3, Channels: 2, SampleRate: 48000 Hz, Bitrate: 256 kbps, Language: n/a
+
+=== VIDEO FILE ===
+File: UNARIUS_02/The Arrival (1980).mkv
+Duration: 00:57:57
+Container bitrate: 2628 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: n/a, Language: n/a
+
+=== VIDEO FILE ===
+File: UNARIUS_02/We Come In Peace – Uriel's Message From The Space Brothers.mp4
+Duration: 00:28:01
+Container bitrate: 2449 kbps
+[Video] Codec: h264, Resolution: 1280x720, Bitrate: 2255 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 189 kbps, Language: und
+
