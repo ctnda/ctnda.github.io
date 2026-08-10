@@ -1113,7 +1113,7 @@ With every obstacle he overcomes he moves closer to understanding both himself a
 ## Unique identifier: 22392_V1_070217 — MIG_4/00269
 
 **Code:** 8400002*81
-**Running time:** 064:30
+**Running time:** 01:04:30
 
 ### Technical characteristics
 
