@@ -1,0 +1,427 @@
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/23.12.2022 [5YuznFJLHcI].mkv
+Duration: 00:00:30
+Container bitrate: 1733 kbps
+[Video] Codec: h264, Resolution: 1440x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Are we happy？ [V8qsE5GQ8ms].mkv
+Duration: 00:02:16
+Container bitrate: 1917 kbps
+[Video] Codec: vp9, Resolution: 1440x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Can you tell the time？ [WfGye3UT6Gs].mkv
+Duration: 00:01:00
+Container bitrate: 1849 kbps
+[Video] Codec: h264, Resolution: 1440x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Forgotten soviet Scooby-Doo ripoff [uUXBrD6PFTo].mkv
+Duration: 00:00:18
+Container bitrate: 295 kbps
+[Video] Codec: av1, Resolution: 608x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Fragment programu ＂Gdzie jest Agata？＂ [rSZNoE83GDE].mkv
+Duration: 00:04:31
+Container bitrate: 850 kbps
+[Video] Codec: h264, Resolution: 1080x720, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Grzybowe Melodie - Ballada w Rytmie Dżins [wfpB6Nh3xss].mkv
+Duration: 00:03:27
+Container bitrate: 470 kbps
+[Video] Codec: av1, Resolution: 1080x720, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Indistinct Chatter 1 - Have You Ever Seen a Cow？ [xgabrvETS78].mkv
+Duration: 00:30:16
+Container bitrate: 2149 kbps
+[Video] Codec: vp9, Resolution: 1440x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Kraina Grzybów TV - końcówka programu 21.09.1994r. [QVwlLMSgcfo].mkv
+Duration: 00:02:24
+Container bitrate: 790 kbps
+[Video] Codec: av1, Resolution: 1080x720, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Kraina Grzybów TV x Pan Tu Nie Stał [DphZ1ESmkOs].mkv
+Duration: 00:01:35
+Container bitrate: 3366 kbps
+[Video] Codec: h264, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Last Week Alert! [3YCQ6Wso2eE].mkv
+Duration: 00:00:34
+Container bitrate: 1175 kbps
+[Video] Codec: av1, Resolution: 608x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Maggie Washes Her Hands Of This [QvYz6-VqIM0].mkv
+Duration: 00:00:36
+Container bitrate: 336 kbps
+[Video] Codec: av1, Resolution: 608x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Maggie the Squirrel goes plush! [bhcXBW-cv-4].mkv
+Duration: 00:01:08
+Container bitrate: 3118 kbps
+[Video] Codec: h264, Resolution: 1440x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Mushroom [f8Lneq_gkoI].mkv
+Duration: 00:00:37
+Container bitrate: 253 kbps
+[Video] Codec: vp9, Resolution: 480x854, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Poradnik Uśmiechu (The Lost Soundtrack) [ai3Qz8wE9FE].mkv
+Duration: 00:01:17
+Container bitrate: 2049 kbps
+[Video] Codec: av1, Resolution: 1440x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Poradnik Uśmiechu (original soundtrack) [MvjMf6FDqpY].mkv
+Duration: 00:01:00
+Container bitrate: 1365 kbps
+[Video] Codec: h264, Resolution: 1080x720, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Poradnik Uśmiechu - original soundtrack teaser [FzQXcKQA3rE].mkv
+Duration: 00:01:17
+Container bitrate: 1203 kbps
+[Video] Codec: h264, Resolution: 854x480, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Poradnik Uśmiechu 1 - Jak skutecznie jabłko [D_h2G6QMMjA].mkv
+Duration: 00:06:13
+Container bitrate: 955 kbps
+[Video] Codec: av1, Resolution: 1620x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Poradnik Uśmiechu 2 - Jak zrobić z papieru [v0g5QbWTkLo].mkv
+Duration: 00:06:32
+Container bitrate: 440 kbps
+[Video] Codec: av1, Resolution: 1080x720, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Poradnik Uśmiechu 4 - Jak swoje włosy [3ptk2Ohn4vM].mkv
+Duration: 00:08:05
+Container bitrate: 530 kbps
+[Video] Codec: av1, Resolution: 1080x720, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Poradnik Uśmiechu 5 - Jak poprawnie telefon [NM1HmnzGIPs].mkv
+Duration: 00:06:22
+Container bitrate: 495 kbps
+[Video] Codec: av1, Resolution: 1080x720, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Poradnik Uśmiechu 6 - Jak Swoje Dziecko [1ivwoME-JOU].mkv
+Duration: 00:06:44
+Container bitrate: 379 kbps
+[Video] Codec: av1, Resolution: 1080x720, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Poradnik Uśmiechu OST - Czas Pożegnań [_gT7JpFX78Q].mkv
+Duration: 00:02:01
+Container bitrate: 476 kbps
+[Video] Codec: h264, Resolution: 1080x720, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Poradnik Uśmiechu OST - Czas Pracy [r56QRK-VIA0].mkv
+Duration: 00:04:48
+Container bitrate: 206 kbps
+[Video] Codec: av1, Resolution: 1080x720, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Poradnik Uśmiechu OST - Konfrontacja [gCLdTjZYzCE].mkv
+Duration: 00:04:03
+Container bitrate: 390 kbps
+[Video] Codec: h264, Resolution: 1080x720, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Poradnik Uśmiechu OST - Na Złej Drodze [FkA3UmBBBmQ].mkv
+Duration: 00:05:03
+Container bitrate: 387 kbps
+[Video] Codec: h264, Resolution: 1080x720, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Poradnik Uśmiechu OST - Nowe Przebudzenie [ueZaPwB2Stw].mkv
+Duration: 00:07:00
+Container bitrate: 727 kbps
+[Video] Codec: h264, Resolution: 1080x720, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Poradnik Uśmiechu OST - Spóźniona Poczta [s73W_ASL75c].mkv
+Duration: 00:04:32
+Container bitrate: 747 kbps
+[Video] Codec: h264, Resolution: 1080x720, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Poradnik Uśmiechu OST - To Tylko Taka Gra [_kQY2wfEukc].mkv
+Duration: 00:04:20
+Container bitrate: 827 kbps
+[Video] Codec: h264, Resolution: 1080x720, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Poradnik Uśmiechu OST - Zmartwienia [S2DOcYC4PM4].mkv
+Duration: 00:05:21
+Container bitrate: 320 kbps
+[Video] Codec: vp9, Resolution: 1080x720, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Ready for paper？ [038DXErdkgg].mkv
+Duration: 00:00:31
+Container bitrate: 291 kbps
+[Video] Codec: av1, Resolution: 608x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Reklama - Grudzień '89 [_VkwmoNfl_c].mkv
+Duration: 00:01:02
+Container bitrate: 1510 kbps
+[Video] Codec: h264, Resolution: 1024x720, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/SMILE GUIDE： THE APPLE ESCAPE [OgIkfAzxJnU].mkv
+Duration: 00:00:36
+Container bitrate: 804 kbps
+[Video] Codec: h264, Resolution: 682x480, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Smile Guide Halloween Special [aCv14wboHSs].mkv
+Duration: 00:01:51
+Container bitrate: 437 kbps
+[Video] Codec: h264, Resolution: 640x480, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/To nie moje [Urp-3kLTekQ].mkv
+Duration: 00:00:31
+Container bitrate: 2079 kbps
+[Video] Codec: h264, Resolution: 1080x720, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/W Krainie Grzybów - zwiastun odcinka trzeciego [A7EGagFfI9M].mkv
+Duration: 00:00:54
+Container bitrate: 716 kbps
+[Video] Codec: h264, Resolution: 656x480, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Weirdest 80s cartoon [o7xqoNULCYE].mkv
+Duration: 00:01:06
+Container bitrate: 315 kbps
+[Video] Codec: av1, Resolution: 608x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Weirdest sitcom ever [H8ewX1-XRQ8].mkv
+Duration: 00:00:52
+Container bitrate: 400 kbps
+[Video] Codec: av1, Resolution: 608x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/What is (indistinct chatter)？ [jmhfWR3ufzQ].mkv
+Duration: 00:02:10
+Container bitrate: 3085 kbps
+[Video] Codec: vp9, Resolution: 1440x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/What was the COTN incident？ [Zm-IsL-vepo].mkv
+Duration: 00:02:30
+Container bitrate: 1360 kbps
+[Video] Codec: av1, Resolution: 1550x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Świąteczne Życzenia Wiewiórki Małgosi [htt5DTVAWxs].mkv
+Duration: 00:01:21
+Container bitrate: 922 kbps
+[Video] Codec: av1, Resolution: 1440x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/KrainaGrzybowTV_SMILE-GUIDE_20260813/Święta z Krainą Grzybów [-2g3Ht30gbM].mp4
+Duration: 00:00:45
+Container bitrate: 310 kbps
+[Video] Codec: h264, Resolution: 424x282, Bitrate: 176 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 128 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/Lorenz/A TUTTO GABRIEL 1992 1 (I tineranti ed il sarchiapone).mp4
+Duration: 00:06:13
+Container bitrate: 419 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 321 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VM022/Lorenz/Hufeland Leone Di Lernia feat Mago Gabriel Facebook.mp4
+Duration: 00:02:52
+Container bitrate: 359 kbps
+[Video] Codec: h264, Resolution: 400x300, Bitrate: 308 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 47 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/Lorenz/Il Mago Gabriel ammalia un ristorante (2016).mp4
+Duration: 00:01:14
+Container bitrate: 512 kbps
+[Video] Codec: h264, Resolution: 450x360, Bitrate: 413 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 96 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/Lorenz/LORENZ 1988 lupo solitario.mp4
+Duration: 00:02:00
+Container bitrate: 526 kbps
+[Video] Codec: h264, Resolution: 450x360, Bitrate: 428 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VM022/Lorenz/LORENZ il mitico si presenta (Lupo Solitario).mp4
+Duration: 00:02:05
+Container bitrate: 533 kbps
+[Video] Codec: h264, Resolution: 450x360, Bitrate: 434 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 96 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VM022/Lorenz/La lezione di stile del Mago Gabriel (Tele Gruppo, 1994).mp4
+Duration: 00:00:17
+Container bitrate: 419 kbps
+[Video] Codec: h264, Resolution: 352x288, Bitrate: 321 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VM022/Lorenz/Lorenz Oh Wanna Edo! (1984) RESTORED AUDIO.mp4
+Duration: 00:02:35
+Container bitrate: 464 kbps
+[Video] Codec: h264, Resolution: 480x360, Bitrate: 365 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 95 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VM022/Lorenz/Mago Gabriel vs CICAP (I Fatti Vostri, 2002).mp4
+Duration: 00:29:44
+Container bitrate: 340 kbps
+[Video] Codec: h264, Resolution: 384x288, Bitrate: 265 kbps
+[Audio] Codec: aac, Channels: 1, SampleRate: 44100 Hz, Bitrate: 71 kbps, Language: und
+
+=== VIDEO FILE ===
+File: VM022/Rick.and.Morty.S09.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Rick.and.Morty.S09E01.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:22:13
+Container bitrate: 1819 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/Rick.and.Morty.S09.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Rick.and.Morty.S09E02.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:22:10
+Container bitrate: 1247 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/Rick.and.Morty.S09.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Rick.and.Morty.S09E03.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:22:35
+Container bitrate: 1454 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/Rick.and.Morty.S09.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Rick.and.Morty.S09E04.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:21:59
+Container bitrate: 1357 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/Rick.and.Morty.S09.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Rick.and.Morty.S09E05.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:22:09
+Container bitrate: 1736 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/Rick.and.Morty.S09.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Rick.and.Morty.S09E06.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:22:30
+Container bitrate: 1507 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/Rick.and.Morty.S09.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Rick.and.Morty.S09E07.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:22:29
+Container bitrate: 2079 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/Rick.and.Morty.S09.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Rick.and.Morty.S09E08.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:22:02
+Container bitrate: 1389 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/Rick.and.Morty.S09.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Rick.and.Morty.S09E09.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:22:19
+Container bitrate: 1648 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/Rick.and.Morty.S09.Complete.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA/Rick.and.Morty.S09E10.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
+Duration: 00:22:37
+Container bitrate: 1347 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/Simbolo dell_Anima Solare_____.mp4
+Duration: 00:03:00
+Container bitrate: 15536 kbps
+[Video] Codec: h264, Resolution: 3840x2160, Bitrate: 15211 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: 317 kbps, Language: eng
+
+=== VIDEO FILE ===
+File: VM022/＂Il Tuttologo＂ con Sergio Emmanuele Anastasio [MWsdOgwVQR4].mp4
+Duration: 01:04:52
+Container bitrate: 602 kbps
+[Audio] Codec: aac, Channels: 2, SampleRate: 44100 Hz, Bitrate: 127 kbps, Language: und
+[Video] Codec: h264, Resolution: 600x480, Bitrate: 468 kbps
+
