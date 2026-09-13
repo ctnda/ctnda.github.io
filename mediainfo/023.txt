@@ -1,0 +1,133 @@
+=== VIDEO FILE ===
+File: VM023/Samurai Jack S01/Samurai Jack (2001) - S01E01 - I The Beginning (1080p BluRay x265 ImE).mkv
+Duration: 00:24:00
+Container bitrate: 1387 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM023/Samurai Jack S01/Samurai Jack (2001) - S01E02 - II The Samurai Called Jack (1080p BluRay x265 ImE).mkv
+Duration: 00:23:43
+Container bitrate: 1397 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM023/Samurai Jack S01/Samurai Jack (2001) - S01E03 - III The First Fight (1080p BluRay x265 ImE).mkv
+Duration: 00:24:00
+Container bitrate: 1378 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM023/Samurai Jack S01/Samurai Jack (2001) - S01E04 - IV Jack, the Woolies, and the Chritchellites (1080p BluRay x265 ImE).mkv
+Duration: 00:23:03
+Container bitrate: 1370 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM023/Samurai Jack S01/Samurai Jack (2001) - S01E05 - V Jack in Space (1080p BluRay x265 ImE).mkv
+Duration: 00:22:57
+Container bitrate: 1391 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM023/Samurai Jack S01/Samurai Jack (2001) - S01E06 - VI Jack and the Warrior Woman (1080p BluRay x265 ImE).mkv
+Duration: 00:22:52
+Container bitrate: 1403 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM023/Samurai Jack S01/Samurai Jack (2001) - S01E07 - VII Jack and the Three Blind Archers (1080p BluRay x265 ImE).mkv
+Duration: 00:23:56
+Container bitrate: 1378 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM023/Samurai Jack S01/Samurai Jack (2001) - S01E08 - VIII Jack vs. Mad Jack (1080p BluRay x265 ImE).mkv
+Duration: 00:22:01
+Container bitrate: 1379 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM023/Samurai Jack S01/Samurai Jack (2001) - S01E09 - IX Jack Under the Sea (1080p BluRay x265 ImE).mkv
+Duration: 00:22:56
+Container bitrate: 1385 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM023/Samurai Jack S01/Samurai Jack (2001) - S01E10 - X Jack and the Lava Monster (1080p BluRay x265 ImE).mkv
+Duration: 00:22:17
+Container bitrate: 1377 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM023/Samurai Jack S01/Samurai Jack (2001) - S01E11 - XI Jack and the Scotsman (1080p BluRay x265 ImE).mkv
+Duration: 00:22:40
+Container bitrate: 1380 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM023/Samurai Jack S01/Samurai Jack (2001) - S01E12 - XII Jack and the Gangsters (1080p BluRay x265 ImE).mkv
+Duration: 00:22:38
+Container bitrate: 1403 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM023/Samurai Jack S01/Samurai Jack (2001) - S01E13 - XIII Aku's Fairy Tales (1080p BluRay x265 ImE).mkv
+Duration: 00:22:42
+Container bitrate: 1388 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM023/Samurai Jack S02/Samurai Jack (2001) - S02E01 - XIV Jack Learns to Jump Good (1080p BluRay x265 ImE).mkv
+Duration: 00:22:35
+Container bitrate: 1372 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM023/Samurai Jack S02/Samurai Jack (2001) - S02E02 - XV Jack Tales (1080p BluRay x265 ImE).mkv
+Duration: 00:22:42
+Container bitrate: 1403 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM023/Samurai Jack S02/Samurai Jack (2001) - S02E03 - XVI Jack and the Smackback (1080p BluRay x265 ImE).mkv
+Duration: 00:22:41
+Container bitrate: 1373 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM023/Samurai Jack S02/Samurai Jack (2001) - S02E04 - XVII Jack and the Scotsman (1080p BluRay x265 ImE).mkv
+Duration: 00:22:52
+Container bitrate: 1393 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM023/Samurai Jack S02/Samurai Jack (2001) - S02E05 - XVIII Jack and the Ultra-Robots (1080p BluRay x265 ImE).mkv
+Duration: 00:22:43
+Container bitrate: 1389 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM023/Samurai Jack S02/Samurai Jack (2001) - S02E06 - XIX Jack Remembers the Past (1080p BluRay x265 ImE).mkv
+Duration: 00:22:14
+Container bitrate: 1381 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
