@@ -1,0 +1,175 @@
+=== VIDEO FILE ===
+File: VM026/Samurai Jack Extras/Samurai Jack - Extras - Episode 3 Animatic.mkv
+Duration: 00:28:34
+Container bitrate: 1403 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM026/Samurai Jack Extras/Samurai Jack - Extras - Episode 5 Animatic.mkv
+Duration: 00:35:38
+Container bitrate: 1419 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM026/Samurai Jack Extras/Samurai Jack - Extras - Episode 7 Animatic.mkv
+Duration: 00:35:27
+Container bitrate: 1378 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM026/Samurai Jack Extras/Samurai Jack - Extras - Episode 8 Animatic.mkv
+Duration: 00:27:17
+Container bitrate: 1373 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM026/Samurai Jack Extras/Samurai Jack - Extras - Episode 9 Animatic.mkv
+Duration: 00:24:25
+Container bitrate: 1428 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM026/Samurai Jack Extras/Samurai Jack - Extras - Genndy Tartakovsky.mkv
+Duration: 00:13:45
+Container bitrate: 1414 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM026/Samurai Jack Extras/Samurai Jack - Extras - Genndy's Scrapbook.mkv
+Duration: 00:21:14
+Container bitrate: 1388 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM026/Samurai Jack Extras/Samurai Jack - Extras - Lost Artwork.mkv
+Duration: 00:04:56
+Container bitrate: 1364 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM026/Samurai Jack Extras/Samurai Jack - Extras - The Making of Samurai Jack.mkv
+Duration: 00:07:10
+Container bitrate: 1409 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM026/Samurai Jack Extras/Samurai Jack - Extras - The Martial Arts of Samurai Jack.mkv
+Duration: 00:12:13
+Container bitrate: 1395 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM026/Samurai Jack Extras/Samurai Jack - Extras - The Pitch.mkv
+Duration: 00:07:11
+Container bitrate: 1396 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM026/Samurai Jack S05/Samurai Jack (2001) - S05E07 - XCVIII (1080p BluRay x265 ImE).mkv
+Duration: 00:22:36
+Container bitrate: 1347 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM026/Samurai Jack S05/Samurai Jack (2001) - S05E08 - XCIX (1080p BluRay x265 ImE).mkv
+Duration: 00:21:59
+Container bitrate: 1319 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM026/Samurai Jack S05/Samurai Jack (2001) - S05E09 - C (1080p BluRay x265 ImE).mkv
+Duration: 00:24:59
+Container bitrate: 1332 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM026/Samurai Jack S05/Samurai Jack (2001) - S05E10 - CI (1080p BluRay x265 ImE).mkv
+Duration: 00:22:45
+Container bitrate: 1366 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM026/Unicorn.Warriors.Eternal.S01.COMPLETE.720p.HMAX.WEBRip.x264/Unicorn.Warriors.Eternal.S01E01.720p.HMAX.WEBRip.x264.mkv
+Duration: 00:21:43
+Container bitrate: 813 kbps
+[Video] Codec: h264, Resolution: 1280x720, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM026/Unicorn.Warriors.Eternal.S01.COMPLETE.720p.HMAX.WEBRip.x264/Unicorn.Warriors.Eternal.S01E02.720p.HMAX.WEBRip.x264.mkv
+Duration: 00:21:56
+Container bitrate: 898 kbps
+[Video] Codec: h264, Resolution: 1280x720, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM026/Unicorn.Warriors.Eternal.S01.COMPLETE.720p.HMAX.WEBRip.x264/Unicorn.Warriors.Eternal.S01E03.720p.HMAX.WEBRip.x264.mkv
+Duration: 00:23:20
+Container bitrate: 886 kbps
+[Video] Codec: h264, Resolution: 1280x720, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM026/Unicorn.Warriors.Eternal.S01.COMPLETE.720p.HMAX.WEBRip.x264/Unicorn.Warriors.Eternal.S01E04.720p.HMAX.WEBRip.x264.mkv
+Duration: 00:21:48
+Container bitrate: 755 kbps
+[Video] Codec: h264, Resolution: 1280x720, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM026/Unicorn.Warriors.Eternal.S01.COMPLETE.720p.HMAX.WEBRip.x264/Unicorn.Warriors.Eternal.S01E05.720p.HMAX.WEBRip.x264.mkv
+Duration: 00:22:20
+Container bitrate: 792 kbps
+[Video] Codec: h264, Resolution: 1280x720, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM026/Unicorn.Warriors.Eternal.S01.COMPLETE.720p.HMAX.WEBRip.x264/Unicorn.Warriors.Eternal.S01E06.720p.HMAX.WEBRip.x264.mkv
+Duration: 00:23:08
+Container bitrate: 750 kbps
+[Video] Codec: h264, Resolution: 1280x720, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM026/Unicorn.Warriors.Eternal.S01.COMPLETE.720p.HMAX.WEBRip.x264/Unicorn.Warriors.Eternal.S01E07.720p.HMAX.WEBRip.x264.mkv
+Duration: 00:33:05
+Container bitrate: 692 kbps
+[Video] Codec: h264, Resolution: 1280x720, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM026/Unicorn.Warriors.Eternal.S01.COMPLETE.720p.HMAX.WEBRip.x264/Unicorn.Warriors.Eternal.S01E08.720p.HMAX.WEBRip.x264.mkv
+Duration: 00:22:04
+Container bitrate: 673 kbps
+[Video] Codec: h264, Resolution: 1280x720, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM026/Unicorn.Warriors.Eternal.S01.COMPLETE.720p.HMAX.WEBRip.x264/Unicorn.Warriors.Eternal.S01E09.720p.HMAX.WEBRip.x264.mkv
+Duration: 00:20:49
+Container bitrate: 859 kbps
+[Video] Codec: h264, Resolution: 1280x720, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM026/Unicorn.Warriors.Eternal.S01.COMPLETE.720p.HMAX.WEBRip.x264/Unicorn.Warriors.Eternal.S01E10.720p.HMAX.WEBRip.x264.mkv
+Duration: 00:23:39
+Container bitrate: 920 kbps
+[Video] Codec: h264, Resolution: 1280x720, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
