@@ -1,0 +1,140 @@
+=== VIDEO FILE ===
+File: VM024/Samurai Jack S02/Samurai Jack (2001) - S02E07 - XX Jack and the Monks (1080p BluRay x265 ImE).mkv
+Duration: 00:22:27
+Container bitrate: 1359 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM024/Samurai Jack S02/Samurai Jack (2001) - S02E08 - XXI Jack and the Farting Dragon (1080p BluRay x265 ImE).mkv
+Duration: 00:22:38
+Container bitrate: 1388 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM024/Samurai Jack S02/Samurai Jack (2001) - S02E09 - XXII Jack and the Hunters (1080p BluRay x265 ImE).mkv
+Duration: 00:22:45
+Container bitrate: 1393 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM024/Samurai Jack S02/Samurai Jack (2001) - S02E10 - XXIII Jack vs. Demongo, the Soul Collector (1080p BluRay x265 ImE).mkv
+Duration: 00:22:34
+Container bitrate: 1396 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM024/Samurai Jack S02/Samurai Jack (2001) - S02E11 - XXIV Jack Is Naked (1080p BluRay x265 ImE).mkv
+Duration: 00:22:25
+Container bitrate: 1378 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM024/Samurai Jack S02/Samurai Jack (2001) - S02E12 - XXV Jack and the Spartans (1080p BluRay x265 ImE).mkv
+Duration: 00:22:52
+Container bitrate: 1384 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM024/Samurai Jack S02/Samurai Jack (2001) - S02E13 - XXVI Jack's Sandals (1080p BluRay x265 ImE).mkv
+Duration: 00:22:25
+Container bitrate: 1391 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM024/Samurai Jack S03/Samurai Jack (2001) - S03E01 - XXVII Chicken Jack (1080p BluRay x265 ImE).mkv
+Duration: 00:22:32
+Container bitrate: 1389 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM024/Samurai Jack S03/Samurai Jack (2001) - S03E02 - XXVIII Jack and the Rave (1080p BluRay x265 ImE).mkv
+Duration: 00:22:47
+Container bitrate: 1396 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM024/Samurai Jack S03/Samurai Jack (2001) - S03E03 - XXIX The Good, the Bad, and the Beautiful (1080p BluRay x265 ImE).mkv
+Duration: 00:22:09
+Container bitrate: 1382 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM024/Samurai Jack S03/Samurai Jack (2001) - S03E04 - XXX Jack and the Zombies (1080p BluRay x265 ImE).mkv
+Duration: 00:22:14
+Container bitrate: 1379 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM024/Samurai Jack S03/Samurai Jack (2001) - S03E05 - XXXI Jack in Egypt (1080p BluRay x265 ImE).mkv
+Duration: 00:22:40
+Container bitrate: 1375 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM024/Samurai Jack S03/Samurai Jack (2001) - S03E06 - XXXII Jack and the Travelling Creatures (1080p BluRay x265 ImE).mkv
+Duration: 00:22:50
+Container bitrate: 1401 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM024/Samurai Jack S03/Samurai Jack (2001) - S03E07 - XXXIII Jack and the Creature (1080p BluRay x265 ImE).mkv
+Duration: 00:22:33
+Container bitrate: 1387 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM024/Samurai Jack S03/Samurai Jack (2001) - S03E08 - XXXIV Jack and the Swamp Monster (1080p BluRay x265 ImE).mkv
+Duration: 00:22:27
+Container bitrate: 1410 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM024/Samurai Jack S03/Samurai Jack (2001) - S03E09 - XXXV Jack and the Haunted House (1080p BluRay x265 ImE).mkv
+Duration: 00:21:54
+Container bitrate: 1353 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM024/Samurai Jack S03/Samurai Jack (2001) - S03E10 - XXXVI Jack, the Monks, and the Ancient Master's Son (1080p BluRay x2.mkv
+Duration: 00:22:37
+Container bitrate: 1380 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM024/Samurai Jack S03/Samurai Jack (2001) - S03E11 - XXXVII The Birth of Evil (1) (1080p BluRay x265 ImE).mkv
+Duration: 00:22:55
+Container bitrate: 1388 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM024/Samurai Jack S03/Samurai Jack (2001) - S03E12 - XXXVIII The Birth of Evil (2) (1080p BluRay x265 ImE).mkv
+Duration: 00:22:58
+Container bitrate: 1388 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM024/Samurai Jack S03/Samurai Jack (2001) - S03E13 - XXXIX Jack and the Labyrinth (1080p BluRay x265 ImE).mkv
+Duration: 00:22:04
+Container bitrate: 1369 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
