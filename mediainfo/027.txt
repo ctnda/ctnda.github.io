@@ -1,0 +1,108 @@
+=== VIDEO FILE ===
+File: VM027/Dungeon Meshi - Delicious in Dungeon S01/Dungeon Meshi_-_01_(Dual Audio_10bit_BD1080p_x265).mkv
+Duration: 00:25:31
+Container bitrate: 2303 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: jpn
+[Video] Codec: mjpeg, Resolution: 640x360, Bitrate: n/a
+
+=== VIDEO FILE ===
+File: VM027/Dungeon Meshi - Delicious in Dungeon S01/Dungeon Meshi_-_02_(Dual Audio_10bit_BD1080p_x265).mkv
+Duration: 00:26:01
+Container bitrate: 1925 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: jpn
+[Video] Codec: mjpeg, Resolution: 640x360, Bitrate: n/a
+
+=== VIDEO FILE ===
+File: VM027/Dungeon Meshi - Delicious in Dungeon S01/Dungeon Meshi_-_03_(Dual Audio_10bit_BD1080p_x265).mkv
+Duration: 00:24:01
+Container bitrate: 2202 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: jpn
+[Video] Codec: mjpeg, Resolution: 640x360, Bitrate: n/a
+
+=== VIDEO FILE ===
+File: VM027/Dungeon Meshi - Delicious in Dungeon S01/Dungeon Meshi_-_04_(Dual Audio_10bit_BD1080p_x265).mkv
+Duration: 00:25:46
+Container bitrate: 1578 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: jpn
+[Video] Codec: mjpeg, Resolution: 640x360, Bitrate: n/a
+
+=== VIDEO FILE ===
+File: VM027/Dungeon Meshi - Delicious in Dungeon S01/Dungeon Meshi_-_05_(Dual Audio_10bit_BD1080p_x265).mkv
+Duration: 00:24:31
+Container bitrate: 1981 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: jpn
+[Video] Codec: mjpeg, Resolution: 640x360, Bitrate: n/a
+
+=== VIDEO FILE ===
+File: VM027/Dungeon Meshi - Delicious in Dungeon S01/Dungeon Meshi_-_06_(Dual Audio_10bit_BD1080p_x265).mkv
+Duration: 00:24:01
+Container bitrate: 1932 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: jpn
+[Video] Codec: mjpeg, Resolution: 640x360, Bitrate: n/a
+
+=== VIDEO FILE ===
+File: VM027/Dungeon Meshi - Delicious in Dungeon S01/Dungeon Meshi_-_07_(Dual Audio_10bit_BD1080p_x265).mkv
+Duration: 00:26:46
+Container bitrate: 1973 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: jpn
+[Video] Codec: mjpeg, Resolution: 640x360, Bitrate: n/a
+
+=== VIDEO FILE ===
+File: VM027/Dungeon Meshi - Delicious in Dungeon S01/Dungeon Meshi_-_08_(Dual Audio_10bit_BD1080p_x265).mkv
+Duration: 00:24:01
+Container bitrate: 1795 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: jpn
+[Video] Codec: mjpeg, Resolution: 640x360, Bitrate: n/a
+
+=== VIDEO FILE ===
+File: VM027/Dungeon Meshi - Delicious in Dungeon S01/Dungeon Meshi_-_09_(Dual Audio_10bit_BD1080p_x265).mkv
+Duration: 00:26:31
+Container bitrate: 1740 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: jpn
+[Video] Codec: mjpeg, Resolution: 640x360, Bitrate: n/a
+
+=== VIDEO FILE ===
+File: VM027/Dungeon Meshi - Delicious in Dungeon S01/Dungeon Meshi_-_10_(Dual Audio_10bit_BD1080p_x265).mkv
+Duration: 00:25:01
+Container bitrate: 1865 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: jpn
+[Video] Codec: mjpeg, Resolution: 640x360, Bitrate: n/a
+
+=== VIDEO FILE ===
+File: VM027/Dungeon Meshi - Delicious in Dungeon S01/Dungeon Meshi_-_11_(Dual Audio_10bit_BD1080p_x265).mkv
+Duration: 00:24:01
+Container bitrate: 2018 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: jpn
+[Video] Codec: mjpeg, Resolution: 640x360, Bitrate: n/a
+
+=== VIDEO FILE ===
+File: VM027/Dungeon Meshi - Delicious in Dungeon S01/Dungeon Meshi_-_12_(Dual Audio_10bit_BD1080p_x265).mkv
+Duration: 00:24:01
+Container bitrate: 1750 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: jpn
+[Video] Codec: mjpeg, Resolution: 640x360, Bitrate: n/a
+
