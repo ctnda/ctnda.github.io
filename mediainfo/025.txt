@@ -1,0 +1,133 @@
+=== VIDEO FILE ===
+File: VM025/Samurai Jack S04/Samurai Jack (2001) - S04E01 - XL Samurai vs. Ninja (1080p BluRay x265 ImE).mkv
+Duration: 00:22:29
+Container bitrate: 1403 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM025/Samurai Jack S04/Samurai Jack (2001) - S04E02 - XLI Robo-Samurai vs. Mondo Bot (1080p BluRay x265 ImE).mkv
+Duration: 00:22:39
+Container bitrate: 1379 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM025/Samurai Jack S04/Samurai Jack (2001) - S04E03 - XLII Samurai vs. Samurai (1080p BluRay x265 ImE).mkv
+Duration: 00:22:11
+Container bitrate: 1359 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM025/Samurai Jack S04/Samurai Jack (2001) - S04E04 - XLIII The Aku Infection (1080p BluRay x265 ImE).mkv
+Duration: 00:22:36
+Container bitrate: 1389 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM025/Samurai Jack S04/Samurai Jack (2001) - S04E05 - XLIV The Princess and the Bounty Hunters (1080p BluRay x265 ImE).mkv
+Duration: 00:22:26
+Container bitrate: 1414 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM025/Samurai Jack S04/Samurai Jack (2001) - S04E06 - XLV The Scotsman Saves Jack (1) (1080p BluRay x265 ImE).mkv
+Duration: 00:22:33
+Container bitrate: 1403 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM025/Samurai Jack S04/Samurai Jack (2001) - S04E07 - XLVI The Scotsman Saves Jack (2) (1080p BluRay x265 ImE).mkv
+Duration: 00:21:48
+Container bitrate: 1400 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM025/Samurai Jack S04/Samurai Jack (2001) - S04E08 - XLVII Jack and the Flying Prince and Princess (1080p BluRay x265 ImE.mkv
+Duration: 00:22:36
+Container bitrate: 1381 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM025/Samurai Jack S04/Samurai Jack (2001) - S04E09 - XLVIII Jack vs. Aku (1080p BluRay x265 ImE).mkv
+Duration: 00:22:45
+Container bitrate: 1400 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM025/Samurai Jack S04/Samurai Jack (2001) - S04E10 - XLIX The 4 Seasons of Death (1080p BluRay x265 ImE).mkv
+Duration: 00:22:50
+Container bitrate: 1366 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM025/Samurai Jack S04/Samurai Jack (2001) - S04E11 - L Tale of X9 (1080p BluRay x265 ImE).mkv
+Duration: 00:21:38
+Container bitrate: 1368 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM025/Samurai Jack S04/Samurai Jack (2001) - S04E12 - LI Young Jack in Africa (1080p BluRay x265 ImE).mkv
+Duration: 00:22:39
+Container bitrate: 1384 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM025/Samurai Jack S04/Samurai Jack (2001) - S04E13 - LII Jack and the Baby (1080p BluRay x265 ImE).mkv
+Duration: 00:22:40
+Container bitrate: 1389 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM025/Samurai Jack S05/Samurai Jack (2001) - S05E01 - XCII (1080p BluRay x265 ImE).mkv
+Duration: 00:22:37
+Container bitrate: 1388 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM025/Samurai Jack S05/Samurai Jack (2001) - S05E02 - XCIII (1080p BluRay x265 ImE).mkv
+Duration: 00:22:34
+Container bitrate: 1370 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM025/Samurai Jack S05/Samurai Jack (2001) - S05E03 - XCIV (1080p BluRay x265 ImE).mkv
+Duration: 00:22:30
+Container bitrate: 1345 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM025/Samurai Jack S05/Samurai Jack (2001) - S05E04 - XCV (1080p BluRay x265 ImE).mkv
+Duration: 00:22:19
+Container bitrate: 1359 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM025/Samurai Jack S05/Samurai Jack (2001) - S05E05 - XCVI (1080p BluRay x265 ImE).mkv
+Duration: 00:22:34
+Container bitrate: 1387 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM025/Samurai Jack S05/Samurai Jack (2001) - S05E06 - XCVII (1080p BluRay x265 ImE).mkv
+Duration: 00:22:36
+Container bitrate: 1381 kbps
+[Video] Codec: hevc, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 6, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
