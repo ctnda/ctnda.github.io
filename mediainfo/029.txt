@@ -1,0 +1,196 @@
+=== VIDEO FILE ===
+File: VM029/Le.Storie.di.Farland.1993/LE STORIE DI FARLAND - Ep. 02 - Frigomagilibro [q78RFNOP0Kw].mkv
+Duration: 00:06:17
+Container bitrate: 4172 kbps
+[Video] Codec: h264, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM029/Le.Storie.di.Farland.1993/LE STORIE DI FARLAND - Ep. 03 - La mela di Perfidia [5LRHgmSizbE].mkv
+Duration: 00:06:30
+Container bitrate: 4364 kbps
+[Video] Codec: h264, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM029/Le.Storie.di.Farland.1993/LE STORIE DI FARLAND - Ep. 04 - L'insidia del tempo [7fDOddlxHxk].mkv
+Duration: 00:06:31
+Container bitrate: 4387 kbps
+[Video] Codec: h264, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM029/Le.Storie.di.Farland.1993/LE STORIE DI FARLAND - Ep. 05 - Il drago di Farland [vFx-RWZOSts].mkv
+Duration: 00:07:07
+Container bitrate: 4391 kbps
+[Video] Codec: h264, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM029/Le.Storie.di.Farland.1993/LE STORIE DI FARLAND - Ep. 06 - L'Aureo Calice [whTpnr6NgX4].mkv
+Duration: 00:05:24
+Container bitrate: 3987 kbps
+[Video] Codec: h264, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM029/Le.Storie.di.Farland.1993/LE STORIE DI FARLAND - Ep. 07 - L'unicorno [zfhtf-Zol3M].mkv
+Duration: 00:06:09
+Container bitrate: 3002 kbps
+[Video] Codec: h264, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM029/Le.Storie.di.Farland.1993/LE STORIE DI FARLAND - Ep. 11 - L'anello magico [eBMZlr-PeEQ].mkv
+Duration: 00:07:05
+Container bitrate: 3290 kbps
+[Video] Codec: h264, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM029/Le.Storie.di.Farland.1993/LE STORIE DI FARLAND - Ep. 12 - Dante, il golosone [uhAw_n_piUI].mkv
+Duration: 00:07:14
+Container bitrate: 2824 kbps
+[Video] Codec: h264, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM029/Le.Storie.di.Farland.1993/LE STORIE DI FARLAND - Ep. 13 - Una forchetta per Dante [BW0jGlVTsjo].mkv
+Duration: 00:07:46
+Container bitrate: 3326 kbps
+[Video] Codec: h264, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM029/Le.Storie.di.Farland.1993/LE STORIE DI FARLAND - Ep. 14 - La bacchetta di Perfidia [IPEt1pDVx2E].mkv
+Duration: 00:06:43
+Container bitrate: 3302 kbps
+[Video] Codec: h264, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM029/Le.Storie.di.Farland.1993/LE STORIE DI FARLAND - Ep. 15 - Formigola contro Formigola [RqSRvO2y0Z0].mkv
+Duration: 00:06:08
+Container bitrate: 3020 kbps
+[Video] Codec: h264, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM029/Le.Storie.di.Farland.1993/LE STORIE DI FARLAND - Ep. 16 - Un mostro di strega [f5u9ACrp44s].mkv
+Duration: 00:05:30
+Container bitrate: 2363 kbps
+[Video] Codec: h264, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM029/Le.Storie.di.Farland.1993/LE STORIE DI FARLAND - Ep. 18 - Una somiglianza magica [-kgCpe8YApw].mkv
+Duration: 00:06:04
+Container bitrate: 3108 kbps
+[Video] Codec: h264, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM029/Le.Storie.di.Farland.1993/LE STORIE DI FARLAND - Ep. 19 - Il canto della Ninfa [PNHnZBoBA90].mkv
+Duration: 00:05:28
+Container bitrate: 2966 kbps
+[Video] Codec: h264, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM029/Le.Storie.di.Farland.1993/LE STORIE DI FARLAND - Ep. 20 - La Ninfa incantata [gt0eNgvJJFM].mkv
+Duration: 00:05:39
+Container bitrate: 2370 kbps
+[Video] Codec: h264, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM029/Le.Storie.di.Farland.1993/LE STORIE DI FARLAND - Ep. 21 - Oxpalidur [g3886nmemJY].mkv
+Duration: 00:05:54
+Container bitrate: 2736 kbps
+[Video] Codec: h264, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM029/Le.Storie.di.Farland.1993/LE STORIE DI FARLAND - Ep. 22 - L'orco e la saetta [92ceZSzhCK4].mkv
+Duration: 00:05:12
+Container bitrate: 4194 kbps
+[Video] Codec: h264, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM029/Le.Storie.di.Farland.1993/LE STORIE DI FARLAND - Ep. 23 - La vendetta del Troll [b0Cuo5C9qr4].mkv
+Duration: 00:05:06
+Container bitrate: 3037 kbps
+[Video] Codec: h264, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM029/Le.Storie.di.Farland.1993/LE STORIE DI FARLAND - Ep. 24 - Una carota speciale [nGWbtdSZBaY].mkv
+Duration: 00:06:10
+Container bitrate: 3164 kbps
+[Video] Codec: h264, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM029/Le.Storie.di.Farland.1993/LE STORIE DI FARLAND - Ep. 25 - La luna del lupo [Q2lBL9dILUk].mkv
+Duration: 00:04:57
+Container bitrate: 3569 kbps
+[Video] Codec: h264, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM029/Le.Storie.di.Farland.1993/LE STORIE DI FARLAND - Ep. 26 - Uno sguardo pietrificante [pYKuIab8zBg].mkv
+Duration: 00:05:19
+Container bitrate: 3066 kbps
+[Video] Codec: h264, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM029/Le.Storie.di.Farland.1993/LE STORIE DI FARLAND - Ep. 27 - Un nemico in ossa e ossa [sQ9JKSwNRck].mkv
+Duration: 00:05:53
+Container bitrate: 3951 kbps
+[Video] Codec: h264, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM029/Le.Storie.di.Farland.1993/LE STORIE DI FARLAND - Ep. 28 - Il furto della voce [ZfE7dWnWFpw].mkv
+Duration: 00:05:21
+Container bitrate: 4078 kbps
+[Video] Codec: h264, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM029/Le.Storie.di.Farland.1993/LE STORIE DI FARLAND - Ep. 32 - Un fenomeno naturale [KO5cDmbbanY].mkv
+Duration: 00:04:42
+Container bitrate: 2299 kbps
+[Video] Codec: h264, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM029/Le.Storie.di.Farland.1993/LE STORIE DI FARLAND - Ep. 33 - L'invasione dei draghi [dDx5VnAo8lM].mkv
+Duration: 00:05:24
+Container bitrate: 3090 kbps
+[Video] Codec: h264, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM029/Le.Storie.di.Farland.1993/LE STORIE DI FARLAND - Ep. 34 - Un freddo improvviso [zUm4MQ2Y0Co].mkv
+Duration: 00:06:06
+Container bitrate: 3563 kbps
+[Video] Codec: h264, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM029/Le.Storie.di.Farland.1993/LE STORIE DI FARLAND - Ep. 38 - Una trasformazione imperiale [PZq1-6x-TXI].mkv
+Duration: 00:05:45
+Container bitrate: 3582 kbps
+[Video] Codec: h264, Resolution: 1920x1080, Bitrate: n/a
+[Audio] Codec: opus, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
+=== VIDEO FILE ===
+File: VM029/Reproduction Cycle - Ivan Stang 1976/Reproduction.Cycle.Ivan.Stang.1976.mkv
+Duration: 00:10:41
+Container bitrate: 4300 kbps
+[Video] Codec: h264, Resolution: 1422x1080, Bitrate: n/a
+[Audio] Codec: aac, Channels: 2, SampleRate: 48000 Hz, Bitrate: n/a, Language: eng
+
